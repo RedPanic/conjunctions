@@ -9,6 +9,15 @@ class Tools(object):
         return nominator/denominator
     
     @staticmethod
+    def mul_vectors(vec1, vec2):
+        out_vec = []
+        for v1, v2 in zip(vec1, vec2):
+            print(f"{v1} * {v2} = {v1*v2}")
+            out_vec.append(v1*v2)
+        return out_vec
+         
+    
+    @staticmethod
     def dot(vec1, vec2):
         return sum((v1*v2) for v1, v2 in zip(vec1, vec2))
     

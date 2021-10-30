@@ -2,6 +2,7 @@ from models.tfm.tfm import Tfm
 from models.document.document import Document
 from models.queryvector.queryvector import QueryVector
 from tools.tools import Tools
+from math import log
 
 class Controller(object):
     def __init__(self, views):
@@ -10,6 +11,7 @@ class Controller(object):
         self.documents = self.create_docs()
         self.terms_dict = self.create_terms_dict(self.create_terms())
         self.tfm_matrix = Tfm(len(self.documents), len(self.terms_dict.keys()))
+        
         
         
     @property
@@ -29,12 +31,28 @@ class Controller(object):
         self._documents = value
         
     @property
+    def idf_vec(self):
+        return self._idf_vec
+    
+    @idf_vec.setter
+    def idf_vec(self, value):
+        self._idf_vec = value
+        
+    @property
     def tfm_matrix(self):
         return self._tfm_matrix
     
     @tfm_matrix.setter
     def tfm_matrix(self, value):
         self._tfm_matrix = value
+        
+    @property
+    def tfm_idf_matrix(self):
+        return self._tfm_idf_matrix
+    
+    @tfm_idf_matrix.setter
+    def tfm_idf_matrix(self, value):
+        self._tfm_idf_matrix = value
         
     @property
     def views(self):
@@ -73,6 +91,32 @@ class Controller(object):
             self.clear_dict_values(terms)
         
         self.views.display_matrix(self.tfm_matrix, terms)
+        
+    def create_tfm_idf_matrix(self, matrix):
+        tfm_idf_matrix = []
+        for row in matrix:
+            tfm_idf_matrix.append(Tools.mul_vectors(row, self.idf_vec))
+        return tfm_idf_matrix
+        
+    def calculate_idf(self, matrix):
+        idf = []
+        idf_out = []
+        nj = 0
+        for i in range(len(matrix)):
+            for j in range(len(matrix[i])):
+                if matrix[j][i] != 0:
+                    nj += 1
+                   
+            idf.append(nj)
+            nj = 0
+                    
+        for item in idf:
+            item = log(len(matrix) / item)
+            idf_out.append(item)
+            
+        return idf_out
+            
+        
     
     def cosine_cmp_matrix(self, matrix):
         comparison_matrix = []

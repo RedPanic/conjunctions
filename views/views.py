@@ -1,4 +1,5 @@
 import os
+from time import sleep
 
 class Views(object):
     @staticmethod
@@ -24,12 +25,15 @@ class Views(object):
     @staticmethod
     def display_matrix(matrix, terms, additional_info=''):
         os.system("clear")
-        print("========== MACIERZ TFM ==========")
-        print(additional_info, end="")
+        if additional_info == '':
+            print("========== MACIERZ TFM ==========")
+        print(additional_info)
         for key in terms.keys():
             print(key, end=' ')
         print()
-        print(str(matrix))    
+        print(str(matrix))
+        sleep(5)
+            
         
     @staticmethod 
     def display_comparison_matrix(matrix, comparison_met =''):
