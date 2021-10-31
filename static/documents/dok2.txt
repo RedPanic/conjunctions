@@ -1,0 +1,2729 @@
+dr hab. prof. nadzw. Danuta Miłaszewicz
+Konsultacje p. 407
+(dzień i godzina podawane na stronie internetowej wydziału)
+
+Odbywające się w każdym semestrze wykłady będą uzupełniane
+slajdami odnoszącymi się do wielkości i zmian agregatów
+makroekonomicznych i innych zmiennych charakteryzujących
+sytuację w gospodarce!
+
+1
+
+Cel przedmiotu
+Zapoznanie studentów z podstawowymi
+zagadnieniami i modelami współczesnej
+makroekonomii, wytłumaczenie kluczowych
+procesów i relacji zachodzących
+w gospodarce oraz ich rozwinięcie za
+pomocą sformalizowanych metod.
+
+2
+
+
+
+Wiedza:
+
+Efekty kształcenia
+
+01- ogólna o podmiotowej strukturze gospodarki, jej istotnych elementach,
+podstawowych kategoriach i procesach makroekonomicznych;
+02- ogólna o relacjach między podmiotami gospodarczymi - krajowymi i zagranicznymi;
+
+03- o metodach określania podstawowych agregatów makroekonomicznych oraz
+procesach w ich ramach i między nimi zachodzących.
+
+
+
+Umiejętności:
+
+04- prawidłowe identyfikowanie, klasyfikowanie i objaśnianie agregatów
+makroekonomicznych;
+05- postrzeganie i opisywanie powiązań zachodzących między częściami gospodarki
+oraz roli jaką w procesie osiągania równowagi globalnej odgrywają poszczególne
+podmioty gospodarcze;
+
+06- analizowanie przyczyn i skutków prowadzonej polityki makroekonomicznej
+i poddawanie jej osądowi.
+
+
+
+Kompetencje społeczne:
+
+07- uzupełnianie, uszczegóławianie i doskonalenie zdobytej wiedzy
+makroekonomicznej i swoich umiejętności.
+3
+
+Tematyka wykładów
+1-Podstawy funkcjonowania gospodarki i równowaga
+w gospodarce
+2-Rynek pracy i bezrobocie
+3-Wzrost gospodarczy, polityka prowzrostowa i wahania
+cykliczne
+4-System bankowy i polityka monetarna
+5-Inflacja w gospodarce
+6-Popyt sektora prywatnego i publicznego w gospodarce
+7-Wymiana międzynarodowa i popyt zagraniczny
+8-Stopa procentowa a popyt globalny
+9-Równowaga krótkookresowa w gospodarce i polityka
+makroekonomiczna – model IS-LM
+4
+
+Forma i warunki egzaminu
+
+
+Studenci oceniani są na podstawie egzaminu
+pisemnego testującego wiedzę i umiejętności.
+
+
+
+Egzamin składa się z pytań testowych (80%
+punktów) i zadań otwartych (20% punktów)
+sprawdzających umiejętności obliczania wielkości
+makroekonomicznych i ich interpretacji.
+
+
+
+Ocena ostateczna z przedmiotu (ocena
+koordynatora) równa jest sumie ½ oceny z
+egzaminu i ½ oceny z zaliczenia.
+5
+
+Literatura
+Podstawowa:
+1. D. Miłaszewicz (red.), Podstawy makroekonomii, volumina.pl
+Daniel Krzanowski, Szczecin 2011.
+2. R.E. Hall, J.B. Taylor, Makroekonomia: Teoria funkcjonowania
+i polityka. Wydawnictwo Naukowe PWN, Warszawa 2007.
+3. N.G. Mankiw, P.M. Taylor, Makroekonomia, PWE,
+Warszawa 2008.
+ Uzupełniająca:
+1. D. Miłaszewicz (red.), Podstawy makroekonomii. Problemyzadania, volumina.pl Daniel Krzanowski, Szczecin 2011.
+2. R.I. Barro, Makroekonomia, PWE Warszawa 1997.
+3. P. Krugman, R. Wells, Makroekonomia, PWN,
+Warszawa 2012.
+
+
+6
+
+WPROWADZENIE
+DO EKONOMII
+
+7
+
+Ekonomia
+ Nauka
+
+społeczna.
+ Nauka o racjonalnym gospodarowaniu
+rzadkimi zasobami:
+ziemi, pracy, kapitału.
+ Nauka poszukująca odpowiedzi na pytania:
+
+co?, jak?, dla kogo produkować?
+z rzadkich zasobów.
+8
+
+Ekonomia
+Nauka badająca problemy:
+- rzadkości zasobów;
+- wyboru ekonomicznego;
+- kosztu alternatywnego.
+ Nauka posługująca się
+modelami i teoriami ekonomicznymi.
+ Nauka wykorzystująca podejście
+pozytywne i normatywne.
+ Dyscyplina wiedzy dzielona na
+makroekonomię i mikroekonomię.
+
+
+9
+
+MAKROEKONOMIA
+
+10
+
+Istota makroekonomii
+Zakres badań
+Poszukiwanie
+rozwiązań
+problemów
+związanych
+z gospodarowaniem
+rzadkimi zasobami
+
+Zmiany
+wielkości
+agregatowych
+
+Zachowanie
+całej
+gospodarki
+
+Zależności
+występujące
+między wielkościami
+agregatowymi
+w ramach osiągania
+celów makroekonomicznych
+
+Możliwości
+oraz skutki
+oddziaływania
+polityki
+makroekonomicznej
+
+Rola
+poszczególnych
+podmiotów w
+procesie
+gospodarowania
+
+Agregacja - zsumowanie wielkości mikroekonomicznych.
+
+11
+
+Wybrane agregaty makroekonomiczne
+dla Polski w latach 1995-2012
+
+12
+
+MODEL
+FUNKCJONOWANIA
+GOSPODARKI
+
+13
+
+Model obiegu dochodów = ruchu
+okrężnego dochodów w gospodarce
+
+
+
+
+
+
+Najbardziej ogólny i jednocześnie najprostszy
+- bardzo przystępny, ale uproszczony.
+Obrazuje zachodzące w makroskali zależności
+i procesy ekonomiczne.
+Przedstawia krążenie zasobów, dóbr
+i dochodów między podmiotami
+gospodarczymi czyli wzajemne ich powiązania
+oraz role i współdziałanie w osiąganiu
+równowagi bieżącej w gospodarce.
+Ukazuje warunki osiągania tej równowagi.
+14
+
+Podmioty gospodarcze
+Aktywni uczestnicy procesu gospodarowania
+- produkcji, podziału i konsumpcji dóbr.
+ Aktywni uczestnicy rynków w gospodarce.
+ Kryterium wspólnego celu działania i funkcji
+spełnianych w procesie gospodarowania
+wyróżnia podmioty:
+- krajowe - gospodarstwa domowe,
+przedsiębiorstwa, państwo;
+- zagraniczne w gospodarce otwartej.
+
+
+15
+
+Gospodarstwa domowe
+Pojedyncze osoby lub grupy osób.
+ Cel: maksymalizacja dobrobytu –
+maksymalizacja zaspokojenia potrzeb.
+ Funkcje w gospodarce:
+
+
+- dysponowanie przez ich uczestników
+prawami własności zasobów gospodarczych,
+
+- dostarczają zasoby innym podmiotom,
+- nabywają wytworzone z tych zasobów dobra,
+które konsumują, zaspokajając swoje potrzeby.
+16
+
+Przedsiębiorstwa
+Pojedyncze osoby lub grupy osób.
+ Cel: maksymalizacja zysku
+(wartość rezydualna = utarg – koszty)
+ Funkcje w gospodarce:
+
+
+- nabywają zasoby gospodarcze
+(wypłacają dochody),
+- wytwarzają z nich produkty (koszty),
+
+- sprzedają wytworzoną produkcję (utargi).
+
+17
+
+Zasoby
+
+Zasoby
+
+Rynki zasobów
+Dochody g.d. za
+udostępnienie
+zasobów (Y)
+
+Wydatki na zasoby
+= koszty = wartość
+wytworzonej
+produkcji (Y)
+
+Gospodarstwa
+domowe
+
+Przedsiebiorstwa
+
+Suma wydatków
+(AD) = dochody
+przedsiębiorstw
+
+Wydatki g.d. = wydatki
+konsumpcyjne (C)
+
+Rynek towarowy
+Dobra nabywane przez g.d.
+
+Produkty = dobra
+
+18
+
+Wnioski
+
+
+
+
+
+
+
+Sposoby pomiaru rozmiarów działalności gospodarczej
+w skali makro:
+- suma dochodów czynników produkcji,
+- suma wartości wytworzonej produkcji,
+- suma wydatków na nabycie wytworzonej produkcji.
+Równość tych sum oznacza wystąpienie
+równowagi w gospodarce.
+Podstawowy warunek równowagi w gospodarce
+Y=AD
+dochody otrzymane=dochody wydane
+Zbytnie uproszczenie pomija wiele istotnych
+elementów występujących w gospodarce.
+19
+
+Inne przepływy dochodów
+w gospodarce dwupodmiotowej
+
+
+Odpływy i dopływy do obiegu dochodów.
+
+
+
+Odpływ - oszczędności gospodarstw
+domowych
+S - część otrzymanych dochodów, która nie
+zostaje wydana na bieżącą konsumpcję,
+czasowo wolne środki pieniężne, które mogą
+być udostępniane przedsiębiorstwom jeśli
+trafią na rynek finansowy.
+Mogą być planowane (zamierzony)
+i nieplanowane (niezamierzony).
+20
+
+
+
+Dopływ - wydatki inwestycyjne przedsiębiorstw
+I – wydatki przedsiębiorstw na zakup dóbr
+inwestycyjnych (używanych do produkcji innych
+dóbr) oraz wydatki na finansowanie zapasów.
+Wydatki na odnowienie (inwestycje
+odtworzeniowe) i powiększenie kapitału
+rzeczowego (inwestycje netto) to całość
+inwestycji w gospodarce (inwestycje brutto).
+Mogą mieć charakter planowany
+lub nieplanowany.
+21
+
+Tożsamości dla sektora prywatnego
+Oszczędności gospodarstw domowych
+S =Y – C
+Wartość dochodu za udostępnione zasoby
+i sposób jego podziału przez gospodarstwa domowe
+Y=C+S
+Suma wydatków podmiotów prywatnych – popyt
+globalny
+AD = C + I
+Warunek równowagi w gospodarce
+Y = AD czyli
+C+S=C+I
+S=I
+22
+
+Państwo (rząd, sektor publiczny)
+
+
+Złożona instytucja publiczna - zbiór instytucji
+publicznych (władzy i administracji różnego
+szczebla), spójnych i wzajemnie powiązanych.
+
+
+
+Cel: tworzenie warunków zapewniających
+prawidłowe funkcjonowanie pozostałym
+podmiotom w gospodarce, a przez to osiągnięcie
+nadrzędnego celu całego systemy społecznogospodarczego, którym jest poprawa dobrobytu
+(poziomu życia) w danym kraju.
+Funkcje w gospodarce:
+
+
+
+- alokacyjna,
+- redystrybucyjna,
+- stabilizacyjna.
+
+23
+
+Dodatkowe przepływy dochodów
+w gospodarce trójpodmiotowej
+
+Dopływ - wydatki rządowe
+G – wydatki z budżetu państwa na nabycie dóbr
+w gospodarce.
+ Dopływ – płatności transferowe (transfery)
+TR – wydatki (wypłaty) z budżetu państwa na
+rzecz określonych osób fizycznych i prawnych,
+w zamian za które nie wymaga się produkcji dóbr,
+świadczenia usług, dostarczania zasobów.
+ Odpływ – podatki
+T - publicznoprawne, nieodpłatne, przymusowe
+i bezzwrotne świadczenia pieniężne podmiotów
+na rzecz państwa; bezpośrednie (Td)
+i pośrednie (Te).
+
+
+24
+
+Budżet państwa
+
+
+
+
+
+Zestawienie dochodów państwa
+i kierunków ich wydatkowania w danym czasie.
+Dochody budżetowe – głównie podatki.
+Wydatki budżetowe – wydatki rządowe
+i płatności transferowe.
+Saldo budżetu państwa – oszczędności państwa
+FG = T – TR – G lub
+FG = Tn – G
+25
+
+Saldo budżetu państw
+Zrównoważony budżet państwa FG = 0
+Nadwyżka budżetowa FG > 0 –
+dodatnie oszczędności publiczne.
+ Deficyt budżetowy FG < 0 –
+ujemne oszczędności publiczne.
+Sposoby finansowania deficytu
+budżetowego:
+dług publiczny, kredyty, pożyczki, sprzedaż
+publicznego majątku (prywatyzacja), nadwyżka
+budżetowa z lat poprzednich, dodruk pieniędzy.
+Sposoby ograniczenia deficytu: zmniejszenie
+wydatków budżetowych lub zwiększenie
+podatków.
+
+
+
+26
+
+Tożsamości w gospodarce
+dwusektorowej
+Tworzenie dochodu do dyspozycji gospodarstw
+domowych
+Yd = Y – T + TR
+Podział dochodu do dyspozycji gospodarstw
+domowych
+Yd = C + S
+Dochód za udostępnione zasoby
+Y = Yd + T – TR lub
+Y = C + S + T – TR = C + S + Tn
+27
+
+Równowaga w gospodarce
+dwusektorowej
+Popyt globalny
+
+AD = C + I + G
+Podstawowy warunek równowagi
+Y=AD czyli
+
+C + S + T – TR = C + I + G lub
+
+S + Tn = I + G
+Warunek równowagi sektorowej w gospodarce
+S – I = G – Tn
+28
+
+Sektor zewnętrzny (zagranica)
+Otwarcie gospodarki - prowadzenie wymiany
+zasobów, dóbr i aktywów finansowych z zagranicą.
+ Zagraniczne podmioty - gospodarstwa
+domowe, przedsiębiorstwa i państwo.
+
+
+Cel: dążące do osiągania celów właściwych
+dla tych podmiotów.
+ Funkcje:
+
+
+- nabywcy dóbr i zasobów z danej gospodarki,
+- dostawcy dóbr i zasobów do danej gospodarki.
+29
+
+Dodatkowe przepływy dochodów
+w gospodarce otwartej
+Dopływ - eksport
+Exp – odpływ dóbr krajowych z danej
+gospodarki, ale dopływ dochodów do tej
+gospodarki.
+ Odpływ – import
+Imp – napływ dóbr zagranicznych do danej
+gospodarki, ale odpływ dochodów z tej
+gospodarki.
+
+
+30
+
+Bilans handlu zagranicznego
+Część bilansu płatniczego w danej gospodarce
+= bilans handlowy
+= eksport netto Nx = Exp – Imp
+ Zrównoważony bilans handlowy Nx = 0
+ Nadwyżka w bilansie handlowym
+Nx > 0
+ Deficyt w bilansie handlu zagranicznego
+Nx < 0
+
+
+31
+
+Y
+
+Y
+
+Rynki zasobów
+
+Rynek finansowy
+S
+Gospodarstwa
+domowe
+
+T
+
+TR
+
+Fi
+
+Pp
+
+Państwo
+(sektor publiczny)
+G
+
+C
+
+Przedsiebiorstwa
+
+I
+
+Rynek towarowy
+Exp
+
+Pz
+
+AD
+
+Imp
+
+Sektor
+zewnętrzny
+
+32
+
+Równowaga w gospodarce otwartej
+Popyt globalny
+
+AD = C + I + G + Nx
+Podstawowy warunek równowagi
+Y=AD czyli
+
+C + S + T – TR = C + I + G + Nx lub
+S + Tn = I + G + Nx
+Warunek równowagi sektorowej w gospodarce
+S – I = G – Tn + Nx
+Źródła finansowania inwestycji krajowych
+I = - (G – Tn + Nx - S)
+33
+
+RÓWNOWAGA I
+NIERÓWNOWAGA
+W GOSPODARCE
+
+34
+
+Równowaga i nierównowaga
+w gospodarce
+Równowaga w gospodarce, przyczyny jej braku
+oraz zmiany produkcji w czasie to kluczowe
+zagadnienia makroekonomii.
+ Rozpatrywane zarówno z punktu widzenia
+krótkiego, jak i długiego okresu.
+
+
+
+
+Równowaga - sytuacja, gdy przy danym
+poziomie cen, w danym czasie globalny popyt
+równy jest globalnej podaży zaoferowanej
+w tym czasie w gospodarce AD=Y.
+35
+
+Równowaga w gospodarce
+
+
+
+
+
+
+Rodzaj równowagi zależy od sprawnego
+i harmonijnego współdziałania rynków:
+finansowego, towarowego i zasobów (pracy!).
+Jednoczesna równowaga na tych rynkach długookresowa równowaga (globalna, systemowa,
+makroekonomiczna).
+Decydują o niej siły podażowe.
+Jednoczesne zrównoważenie rynku
+finansowego (szczególnie pieniężnego) i towarowego
+- równowaga krótkookresowa (bieżąca).
+Decydują o niej siły popytowe.
+36
+
+Nierównowaga w gospodarce
+Bieżąca produkcja – aktualnie
+wytwarzana, rzeczywista (Y).
+ Produkcja potencjalna - wytwarzana
+przy pełnym wykorzystaniu zasobów (Y*).
+ Nierównowaga = luka produkcyjna
+Y – Y*
+lub
+Y – Y* / Y*
+
+
+37
+
+RYNEK PRACY
+I BEZROBOCIE
+
+38
+
+Rynek pracy
+Odgrywa w gospodarce naczelną rolę.
+ Od jego stanu zależy to, czy gospodarka jako
+system znajduje się w stanie równowagi
+długookresowej czy też nie.
+ Jest odmienny od pozostałych rynków.
+ Przedmiotem obrotu jest zasób pracy.
+ Równowaga - popyt na pracę zgłaszany przez
+pracodawców = podaży pracy oferowanej
+przez pracowników.
+
+
+39
+
+Popyt na pracę
+
+
+Pochodny w stosunku do popytu na
+produkty.
+
+
+
+Zgłaszają przedsiębiorstwa kierując się
+maksymalizacją zysku - zatrudnią tylko taką
+ilość osób, która zapewni produkcję dającą
+maksimum zysku (rachunek ekonomiczny)
+przy danej płacy realnej (W/P).
+
+40
+
+Determinanty popytu na pracę
+
+
+Cenowe:
+- płaca nominalna przy danym poziomie cen
+(wzrost W obniża ilość popytu na pracę);
+- poziom cen przy danej płacy nominalnej
+(wzrost P zwiększa ilość popytu na pracę);
+
+
+
+Pozacenowe:
+- zasób kapitału rzeczowego,
+- wydajność pracowników,
+- ogólny czas pracy,
+- oczekiwania przedsiębiorców.
+41
+
+Popyt na pracę (LD)
+
+W/P
+
+W/P1
+ determinant pozacenowych
+
+W/P2
+LD
+N1
+
+N2
+
+N
+
+42
+
+Podaż pracy
+Decydują jednostki dzieląc swój czasu na czas
+wolny i czas pracy (koszt alternatywny czasu pracy,
+dostarcza jednostce satysfakcji).
+ Czas poświęcany na pracę kojarzony jest z
+przykrością, wyrzeczeniem, uciążliwością, ale
+przynosi korzyści w postaci dochodów z pracy
+(płacy realnej), który można wydać na C.
+ Cena (płaca rezerwacji) po jakiej jednostka oferuje
+pracodawcy kolejne godziny pracy jest coraz
+wyższa.
+
+
+43
+
+Determinanty podaży pracy
+
+
+Cenowe:
+- płaca nominalna przy danym poziomie cen
+(wzrost W zwiększ ilość podaży pracy);
+- poziom cen przy danej płacy nominalnej (wzrost
+P zmniejsza ilość podaży pracy).
+
+
+
+Pozacenowe:
+- tempo rozwoju gospodarczego,
+- zmiana zasiłków dla bezrobotnych,
+- zmiana wieku aktywności zawodowej,
+- migracja pracowników.
+44
+
+Podaż pracy (LS)
+Akceptujący
+płacę realną jako
+płacę rezerwacji
+
+W/P
+
+LS
+
+W2/P
+W/P
+W1/P
+
+N1
+
+N
+
+N2
+
+N
+
+Nieakceptujący
+płacy realnej jako
+płacę rezerwacji
+– dobrowolnie
+bezrobotni
+
+45
+
+Podaż pracy a zasób pracy
+Efektywną podaż pracy tworzą osoby, które
+chcą pracować za proponowaną im płacę
+realną.
+ Zasób pracy (LF) - oprócz osób
+pracujących (N), w jego skład wchodzą
+także bezrobotni (U), czyli zgłaszający chęć
+do pracy, ale jej nie uzyskujący bądź też nie
+akceptujący proponowanych im warunków
+pracy.
+
+
+46
+
+Struktura zasobu pracy
+LF= N + U
+Zasób pracy - aktywni
+zawodowo (LF)
+II kw. 2015 17 267 tys.
+
+Pracujący (N)
+II kw. 2015 15 986 tys.
+
+Bierni
+zawodowo (Bz)
+II kw. 2015
+
+13 695 tys.
+
+U/LF = u
+Bezrobotni (U)
+II kw. 2015
+1 281 tys.
+
+IX 2015
+
+9,9%
+
+Podaż pracy a zasób pracy
+Pole pomiędzy LS a LF
+tworzą osoby bezrobotne
+dobrowolnie.
+
+Płaca
+realna
+LS
+
+LF bardziej stroma niż LS osoby dobrowolnie
+bezrobotne bardziej sobie
+cenią czas wolny.
+Determinanty te same co
+podaży pracy.
+Stopa zastąpienia.
+
+LF
+
+W2/P
+
+W1/P
+
+N1 N2 N
+
+N’
+
+48
+
+Równowaga i nierównowaga
+rynku pracy
+W/P
+
+Rynek pracy w
+równowadze =
+stan równowagi
+systemu
+LS
+
+LF
+
+LF – N* = U*
+bezrobocie
+naturalne
+
+LD
+
+Zatrudnienie
+równowagi =
+pełne
+zatrudnienie
+
+W2/P
+(W/P)*
+W1/P
+
+N1
+
+N*
+
+N2
+
+N
+
+49
+
+Rodzaje bezrobocia
+Sytuacja na
+rynku pracy
+
+W warunkach
+równowagi
+
+Naturalne
+
+W warunkach
+nierównowagi
+
+Dobrowolne
+
+Przymusowe
+
+50
+
+Rodzaje bezrobocia
+Przyczyny
+
+Frykcyjne
+
+Strukturalne
+(technologiczne)
+
+Monopolistyczne
+
+51
+
+Bezrobocie monopolistyczne
+W/P
+
+Spadek
+zatrudnienia
+wywołany
+wzrostem płac
+
+Wzrost nowo
+rejestrujących
+się w biurach
+pracy
+LF
+
+LS
+
+W1/P
+(W/P)*
+
+ND
+N1
+
+N*
+
+N2
+
+N
+
+52
+
+Rodzaje bezrobocia
+Przyczyny
+
+Frykcyjne
+
+Cykliczne
+(koniunkturalne)
+
+(Y – Y*) / Y* = –3 (u – u*)
+Strukturalne
+(technologiczne)
+
+Monopolistyczne
+
+53
+
+WZROST GOSPODARCZY
+I POLITYKA
+PROWZROSTOWA
+
+54
+
+Wzrost a rozwój
+
+
+Wzrost gospodarczy - proces powiększania
+podstawowych wielkości ekonomicznych (produkcji,
+dochodu, popytu globalnego, konsumpcji, inwestycji).
+
+
+
+Rozwój gospodarczy - długookresowy proces
+zmian ilościowych i jakościowych - zmiany w jakości
+wytwarzanych dóbr i usług, wprowadzenie technologii i
+nowoczesnych technik produkcji, poprawa efektywności
+gospodarki, jej struktury, stanu infrastruktury krajowej,
+zmiany w systemie regulacyjno-instytucjonalnym, poprawa
+porządku prawnego i stabilizacja polityczno-gospodarczą.
+55
+
+Czynniki wzrostu gospodarczego
+Czynniki ilościowe – wzrost ekstensywny
+- nakłady czynników produkcji.
+ Czynniki jakościowe, efektywnościowe –
+wzrost intensywny:
+postęp technologiczny, poziom i wielkość
+kapitału ludzkiego, wiedza naukowotechniczna.
+ Źródła: ilościowe, jakościowe, strukturalnpolityczne.
+
+
+56
+
+Ilościowe czynniki wzrostu
+
+
+
+
+
+
+Nakład pracy i kapitału.
+Pomija się wpływ zasobu ziemi. Teoria
+ludnościowa, pułapka maltuzjańska.
+W krajach rozwijających się, biedniejszych
+podstawowe źródło wzrostu - duży przyrost
+naturalny, niskie wyposażenie w kapitał.
+Hipoteza konwergencji - tempo wzrostu
+gospodarczego w krajach biedniejszych jest
+wyższe niż średnie tempo wzrostu
+gospodarczego krajów rozwiniętych.
+57
+
+Jakościowe czynniki wzrostu
+Wszystko co wpływa na efektywność,
+wydajność czynników produkcji.
+ Zaliczamy:
+- postęp technologiczny – innowacyjność,
+- poziom i wielkość kapitału ludzkiego,
+- wiedzę naukowo-techniczną.
+ Najnowsze teorie wzrostu gospodarczego
+uznają je za kluczowe i wpływające na poprawę
+produktywności kapitału lub wydajność pracy
+pracowników.
+
+
+58
+
+Czynniki strukturalno-polityczne
+
+
+Zaliczamy:
+- posiadane przez państwa bogactwa
+naturalne,
+- ustrój społeczno-gospodarczy,
+- ład instytucjonalny,
+- politykę rządu,
+- czynniki socjo-kulturowe.
+
+59
+
+Polityka prowzrostowa
+Rola państwa - tworzeniu warunków do zmian
+w krótkim oraz w długim okresie.
+ W krótkim – oddziaływanie na popyt globalny przez
+politykę fiskalną i monetarną.
+ W długim – oddziaływanie na stronę podażową:
+- poszerzenie zdolności wytwórczych i
+tworzenie nowych miejsc pracy - inwestycje,
+- poprawa produktywności – inwestycje,
+postęp technologiczny, rozwój kapitału
+ludzkiego,
+- właściwa alokacja zasobów, otwarcie gospodarki.
+
+
+60
+
+RÓWNOWAGA RYNKU
+FINANSOWEGO
+
+61
+
+Rynek finansowy
+Przedmiot obrotu – aktywa finansowe.
+ Części – rynki:
+- pieniądza (aktywów krótkoterminowych),
+- kapitałowy (aktywów długoterminowych),
+- walutowy (ceteris paribus).
+ Równowaga (popyt = podaży) przy danych
+realnych zasobach finansowych (FM)
+L + BD = FM = M/P + BS lub
+L - M/P = FM = BS - BD
+
+
+62
+
+Równowaga rynku finansowego
+Rynek pieniądza
+
+Rynek papierów wartościowych
+
+L - M/P = BS – BD
+L = M/P
+
+BS = BD
+
+L > M/P
+
+BS > BD
+
+L < M/P
+
+BS < BD
+63
+
+Pieniądz
+Cokolwiek, co służy za powszechnie przyjęty
+środek przenoszenia wartości w przestrzeni (kupno
+i sprzedaż towarów i usług) lub w czasie
+(oszczędzanie, zaciąganie lub spłacanie pożyczek
+i kredytów).
+
+Powszechnie akceptowalny towar, za pomocą
+którego dokonywane są płatności za dostarczone
+dobra lub kontrahenci wywiązują się ze swoich
+zobowiązań.
+64
+
+Pieniądz
+Funkcje:
+ Środek wymiany = środek płatniczy
+= środek dokonywania transakcji.
+ Miernika wartości = jednostka rozrachunkowa.
+ Środek tezauryzacji = przechowywania wartości.
+Cecha:
+
+aktyw o największym stopniu płynności.
+Rodzaje:
+
+gotówkowy, bezgotówkowy, elektroniczny.
+65
+
+Popyt na pieniądz
+•
+
+Ilość pieniądza, na jaką istnieje
+zapotrzebowanie zgłaszane przez podmioty
+gospodarcze.
+
+•
+
+Jego wielkość zależy m.in. od: wielkości produkcji
+różnych dóbr, liczby zawieranych transakcji,
+przeciętnego poziomu cen produktów i usług,
+nominalnej i realnej stopy oprocentowania
+środków pieniężnych, kosztu posiadania
+pieniądza oraz kosztu zamiany jednych aktywów
+na drugie.
+66
+
+Popyt na pieniądz motywy i determinanty
+
+
+Uzasadniany potrzebą realizacji transakcji
+(zakupu towarów i usług) = podmioty są
+zainteresowane siłą nabywczą pieniądza
+(realna wartość pieniądza wyrażona wartością
+
+towarów i usług, jakie można nabyć przy danym
+poziomie cen).
+
+Motywy: transakcyjny, ostrożnościowy
+(przezornościowy), spekulacyjny.
+ Determinanty: realny dochód i nominalna
+stopa procentowa.
+
+
+67
+
+Popyt na pieniądz
+L = k·Y – h·i
+
+k > 0; h > 0
+
+i
+
+i1
+
+kΔY
+
+i2
+
+L1
+
+L2
+
+L, M/P
+
+68
+
+Podaż pieniądza – zasób pieniądza
+
+
+
+Mierzona agregatami pieniężnymi:
+MB, M1, M2, M3
+Uzależniona od działania systemu bankowego –
+element systemu finansowego gospodarki; ogół jednostek
+organizacyjnych, zajmujących się działalnością bankową
+w kraju, cele, reguły i procedury, według których jest ona
+wykonywana oraz wzajemne więzi występujące między
+nimi.
+
+
+
+Dwustopniowy system bankowy: BC i inne banki.
+
+69
+
+Banki komercyjne
+Pośrednicy finansowi.
+ Funkcje:
+- kreują pieniądz,
+- pośredniczą pomiędzy posiadaczami zasobów
+pieniężnych.
+ Podstawą działania banków komercyjnych są
+wkłady pierwotne klientów banków;
+gdy bank udziela kredytu powstaje wkład
+pochodny (wtórny), który uznaje się za nowo
+wykreowany pieniądz bankowy.
+
+
+70
+
+Kreacja pieniądza
+BANK A
+Aktywa
+Gotówka
+(rezerwy gotówkowe)
+
+100
+
+Pasywa
+Wkład na żądanie
+
+100
+
+90
+
+Wkład na żądanie B
+
+90
+
+Kredyt dla B
+Razem
+
+190
+
+Razem
+
+Re = re·DB
+
+Cu = cu·DB
+
+re = Re/DB
+
+cu = Cu/DB
+
+190
+
+MB = Re + Cu = re·DB + cu·DB = (re + cu)DB
+M = DB + Cu = DB + cu·DB = (1 + cu)DB
+
+71
+
+Bank centralny
+Najważniejszy bank w państwie.
+ Funkcje:
+- emisja pieniądza,
+- bank banków,
+- bank państwa.
+ Prowadzi politykę pieniężną (monetarną)
+w imieniu państwa.
+
+
+72
+
+Polityka pieniężna = monetarna
+
+
+Podstawowy cel: osiągnięcie stabilizacji poziomu
+
+cen (ograniczenie wahań realnej wartości
+pieniądza) oraz wspomaganie polityki
+gospodarczej rządu.
+ Funkcje:
+- stabilizowanie poziomu cen krajowych, także
+
+kursu walutowego;
+- zapewnienie stabilności systemu finansowego;
+- stabilizowanie procesów i zmiennych
+ekonomicznych (aktywności w gospodarce).
+ Rodzaje:
+- ekspansywna,
+- restrykcyjna.
+73
+
+Instrumenty polityki pieniężnej
+
+
+
+
+instrumenty kontroli ogólnej = oddziaływanie
+makroekonomiczne,
+instrumenty kontroli selektywnej,
+oddziaływanie przez perswazję.
+
+Instrumenty kontroli ogólnej:
+- stopy procentowe banku centralnego,
+- polityka rezerw obowiązkowych,
+- operacje otwartego rynku,
+- polityka refinansowa,
+- polityka kursowa.
+74
+
+Stopy procentowe banku centralnego
+
+
+
+
+
+
+
+
+stopa lombardowa - stosowana przy udzielaniu
+kredytu lombardowego bankowi komercyjnemu na
+uzupełnienie niedoboru środków pieniężnych na
+rachunku bieżącym;
+stopa redyskontowa - wg której bank centralny
+skupuje weksle handlowe od banków
+komercyjnych;
+stopa referencyjna - dochodowość bonów
+pieniężnych sprzedawanych przez bank centralny
+bankom komercyjnym;
+stopa depozytowa - oprocentowanie
+jednodniowych lokat banków komercyjnych w
+banku centralnym.
+75
+
+Stopy procentowe NBP
+i rezerwy obowiązkowe w Polsce
+
+1) rentowność 7-dniowych bonów pieniężnych
+2) 0,9 stopy redyskonta weksli
+Źródło: www.nbp.pl
+76
+
+Operacje otwartego rynku
+
+
+
+
+Można podzielić na aktywne i bierne.
+Aktywne służą trwałej zmianie polityki
+pieniężnej. Bierne mają na celu zniwelowanie
+skutków wpływu innych czynników na ilość
+pieniądza w gospodarce.
+Popularną formą operacji otwartego rynku są
+tzw. operacje zakupu (sprzedaży) papierów
+skarbowych przez bank centralny z umową, że
+je odsprzeda - tzw. repo (odkupi - tzw. reverse
+repo) po upływie krótkiego czasu np. 7 dni, 28
+dni.
+77
+
+Operacje otwartego rynku NBP
+
+
+Podstawowe i dostrajające - równoważą popyt i podaż
+środków utrzymywanych przez banki komercyjne w banku
+centralnym. Dzięki temu bank centralny wpływa na poziom
+krótkoterminowych stóp procentowych na rynku
+międzybankowym.
+
+
+
+Podstawowe operacje otwartego rynku przeprowadzane
+przez NBP polegają na emisji własnych papierów dłużnych
+(7-dniowych bonów pieniężnych), których minimalna
+rentowność jest równa stopie referencyjnej wyznaczonej
+przez Radę Polityki Pieniężnej.
+Dostrajające prowadzone są w postaci emisji bonów
+pieniężnych o terminach zapadalności krótszych niż
+operacje podstawowe (1-, 2-, 3- i 4-dniowe).
+78
+
+Mnożnik kreacji pieniądza
+
+
+Data
+
+M1
+67 866,0
+
+M2
+140 038,7
+
+M3
+140 428,8
+
+M3/M0
+
+Grudzień 96
+
+M0
+34 196,2
+
+Maj 04
+
+66 238,9
+
+170 058,1
+
+346 624,7
+
+350 766,9
+
+5,3
+
+Wrzesień 12
+
+140 875,7
+
+457 338,7
+
+874 563,2
+
+892 680,0
+
+6,2
+
+Lut y 13
+
+142 827,5
+
+484 477,9
+
+904 434,7
+
+920 280,8
+
+Wrzesień 14
+
+166 103,6
+
+578 485,4
+
+1 003 354,3
+
+1 021 824,2
+
+6,4
+6,2
+
+185 005,3
+655 895,8
+Wrzesień 15
+mln zł
+Źródło: www.nbp.pl i obliczenia własne
+
+1 094 310,5
+
+1 107 486,8
+
+6,0
+
+4,1
+
+79
+
+Polityka pieniężna a podaż pieniądza
+Sposób oddziaływania:
+- bezpośrednia regulacja podaży pieniądza
+poprzez instrumenty polityki pieniężnej,
+- pośrednia poprzez regulację stopy
+procentowej.
+ Skuteczność instrumentów polityki
+pieniężnej:
+- rezerwy obowiązkowe – ?
+- stopy banku centralnego – +/- operacje otwartego rynku – !
+
+
+80
+
+Równowaga rynku pieniężnego
+i
+
+M/P
+
+i1
+i*
+i2
+
+L
+L1
+
+L2
+
+L, M/P
+
+M
+ L  kY  hi
+P
+81
+
+Równowaga rynku pieniężnego – LM
+M/P>L
+i
+
+i2
+
+M/P
+
+LM
+
+i
+i2
+
+A
+
+A
+
+B
+
+B
+
+i1
+
+L2
+
+i1
+
+M/P<L
+
+L1
+L1
+
+L2
+
+L, M/P
+
+M
+ L  kY  hi
+P
+
+Y1
+
+Y2
+
+Y
+
+k
+1M
+i  Y
+h
+h P
+82
+
+INFLACJA
+W GOSPODARCE
+
+83
+
+Istota inflacji
+Proces wzrostu cen dóbr objawiający się
+wzrostem przeciętnego poziomu cen.
+ Prowadzi do psucia pieniądza –
+spadku jego siły nabywczej.
+ Jedna z sił wewnętrznych, które
+przywracają stan optymalny w gospodarce,
+po wytrąceniu gospodarki ze stanu
+spoczynku (stanu równowagi
+długookresowej).
+
+
+84
+
+Teorie inflacji – przyczyny inflacji
+
+
+Monetarystyczna.
+
+
+
+Oparte na krzywej Philipsa.
+- teoria inflacji popytowej,
+- teoria inflacji podażowej,
+- teoria oczekiwań inflacyjnych.
+
+85
+
+Teoria monetarystyczna
+Główne twierdzenia:
+Ceny wyrażane są w jednostkach pieniężnych i od ilości
+jednostek pieniężnych będących w obiegu zależy poziom
+cen.
+Inflacja jest zawsze spowodowana przez nadmierną
+w stosunku do potrzeb obrotu towarowego podaż
+pieniądza.
+Pieniądz jest neutralny – nie wpływa na wielkości realne.
+Równanie obiegu pieniężnego Fishera
+Y  P = M V
+86
+
+Inflacja popytowa
+Gdy bieżący popyt wyznacza poziom produkcji
+przewyższający poziom potencjalny, bieżąca
+równowaga rynkowa osiągana jest drogą
+wzrostu cen.
+ Towarzyszy jej wzrost PKB – wzrost popytu
+wymusza przyrost produkcji (pojawia się
+luka PKB).
+ Przyczyny nadmiernego popytu:
+- deficyt budżetowy
+- nadmierna akcja kredytowa banków
+komercyjnych.
+
+
+87
+
+Inflacja podażowa
+Inaczej kosztowa - gdy rosną ceny, przy
+względnie stałym popycie nominalnym,
+z powodu wzrostu kosztów (np. pracy
+żywej lub uprzedmiotowionej,
+opodatkowania, cen importowanych dóbr).
+ Towarzyszy jej spadek PKB i realnego
+popytu – pojawia się luka PKB, od której
+zależy wzrost cen.
+
+
+88
+
+Inflacja oczekiwana
+Sposób zabezpieczenia się przed inflacją
+rzeczywistą - indeksacja.
+ Uwzględnianie w płacach i cenach
+(czynszach, oprocentowaniu) już minionej,
+bądź dopiero co nadchodzącej inflacji.
+ Wystąpienie inflacji rzeczywistej dziś
+powoduje pojawienie się inflacji
+oczekiwanej jutro.
+
+
+89
+
+Inflacja oczekiwana
+Nie wystąpi, jeśli w poprzednim okresie nie
+pojawi się inflacja rzeczywista.
+ W okresie wyjściowym źródłem inflacji
+rzeczywistej jest pojawienie się luki PKB
+(inflacyjna presja rynku).
+ Obok inflacyjnej presji rynku inflacja
+oczekiwana jest źródłem rzeczywistej
+inflacji.
+
+
+90
+
+Inflacja a polityka gospodarcza
+Inflacja rzeczywista wygasa, gdy obie siły
+napędzające inflację (presja rynku i
+oczekiwania inflacyjne) znikną.
+ Wniosek:
+Rząd może skrócić czas wychodzenia z
+inflacji wywołując recesję (ujemną lukę
+PKB), co niweluje stopniowo inflację
+oczekiwaną.
+
+
+91
+
+Skutki inflacji
+Destabilizacja gospodarki.
+ Podatek inflacyjny – senioraż; drenaż
+podatkowy.
+ Zmiany stopy procentowej i związane
+z tym skutki ekonomiczne.
+ Niepewność ekonomiczna
+(zniekształcenia informacyjne funkcji cen),
+ Techniczne koszty neutralizacji inflacji.
+
+
+92
+
+Inflacja a stopa procentowahipoteza Fishera
+r=i-
+
+
+
+i
+
+Konsumpcja
+Zapasy
+i inwestycje rzeczowe
+Produkcja
+
+Nominalny kurs
+
+Eksport
+Import
+
+93
+
+Inflacja a polityka makroekonomiczna
+
+
+
+
+
+Nie powinna kosztem inflacji walczyć
+z bezrobociem naturalnym.
+Powinna likwidować przyczyny inflacji
+a nie jej skutki:
+- ograniczać i kontrolować wydatki
+publiczne, deficyt budżetowy, dług
+publiczny,
+- nie finansować deficytu budżetowego
+dodatkowym zasobem pieniądza.
+Powinna opierać się na regułach
+(wzrostu podaży pieniądza, fiskalnych).
+94
+
+DETERMINANTY POPYTU
+GLOBALNEGO –
+RÓWNOWAGA RYNKU
+TOWAROWEGO
+
+95
+
+Założenia do modelu
+Niepełne wykorzystanie zasobów w
+gospodarce – produkcja rzeczywista
+(bieżąca) mniejsza niż produkcja potencjalna.
+ Stały poziom cen dóbr i zasobów (krótki
+okres funkcjonowania gospodarki).
+ Poziom stopy procentowej (i = r).
+ Ceteris paribus.
+Popyt globalny wyznacza rozmiary bieżącej
+produkcji.
+
+
+96
+
+Podstawowy warunek równowagi
+na rynku towarowym
+Równowaga na zagregowanym rynku
+towarowym oznacza, że w danej
+gospodarce, w danym czasie (przy danym
+poziomie cen) popyt globalny na
+wszystkie dobra i usługi (AD) równy jest
+rzeczywiście wytworzonej produkcji (Y).
+
+AD=Y
+97
+
+Istota i determinanty
+popytu globalnego
+Popyt globalny na rynku towarowym
+to wysokość realnych wydatków
+
+podmiotów krajowych i zagranicznych na
+produkcję wytworzoną w danej
+
+gospodarce przy danym poziomie cen.
+
+98
+
+Składniki popytu globalnego
+Wydatki
+gospodarstw
+domowych
+
+Wydatki
+przedsiębiorstw
+
+Wydatki
+państwa
+
+Wydatki
+podmiotów
+zagranicznych
+
+AD = C + I + G + Nx
+Część tych wydatków to wydatki autonomiczne –
+niezależne od poziomu bieżącego dochodu (produkcji),
+a pozostałe to indukowane bieżącym dochodem.
+99
+
+POPYT SEKTORA
+PRYWATNEGO
+I PUBLICZNEGO
+W GOSPODARCE
+
+100
+
+Wydatki gospodarstw domowych –
+wydatki konsumpcyjne
+Realne wydatki gospodarstw domowych na
+nabycie dóbr i usług to w całości wydatki
+konsumpcyjne zarówno na dobra trwałego
+i nietrwałego użytku. W ich skład wchodzą
+wydatki autonomiczne i indukowane na
+konsumpcję.
+C
+101
+
+Determinanty konsumpcji
+C  C  cYd
+
+Yd  Y  T  T R
+T  T  tY
+Yd  Y  T  tY  T R
+
+C
+c
+Y
+0  c 1
+
+T
+t
+Y
+0  t 1
+
+C  C  c(1  t )Y  cT  cT R
+102
+
+Oszczędności gospodarstw domowych –
+związek z wydatkami konsumpcyjnymi
+Yd  C  S
+S  Yd  C
+
+C  C  cYd
+S  C  (1  c)Yd
+S  C  s(1  t )Y  sT  sT R
+
+S
+s
+Y
+0  s 1
+
+1  t  c(1  t )  s(1  t )
+
+103
+
+Funkcja konsumpcji
+
+C
+C1
+
+C
+
+C1
+
+Δ c, s, t
+
+C
+
+Yd
+
+Yd1
+
+Yd
+104
+
+Wydatki przedsiębiorstw –
+wydatki inwestycyjne
+Realne wydatki przedsiębiorstw na
+nabycie dóbr i usług to wydatki inwestycyjne
+związane z nabyciem lub tworzeniem dóbr
+kapitałowych oraz finansowaniem zapasów.
+W ich skład wchodzą wydatki autonomiczne –
+niezależne od dochodu, ale część zależy od stopy
+procentowej.
+I
+105
+
+Decyzje inwestycyjne
+
+
+106
+
+Popyt inwestycyjny - autonomiczny
+względem dochodu
+I popyt inwestycyjny
+I2
+I1
+I
+
+Y
+107
+
+Wydatki państwa na dobra
+– wydatki rządowe, popyt sektora publicznego
+Realne wydatki państwa na
+nabycie dóbr i usług to wydatki związane
+z zapewnieniem prawidłowego
+funkcjonowania sfery budżetowej.
+Są one wydatkami autonomicznymi.
+
+108
+
+WYMIANA
+MIĘDZYNARODOWA
+I POPYT ZAGRANICZNY
+
+109
+
+Eksport netto
+Porównanie wielkości eksportu i importu.
+Eksport danej gospodarki nie zależy od
+bieżącego dochodu .
+Import do danej gospodarki w części nie
+zależy od jej dochodu, a w części jest
+indukowany .
+
+110
+
+Funkcja eksportu netto
+ΔImp
+m
+ΔY
+0  m 1
+Exp, Imp
+Nx<0
+
+Nx>0
+Imp
+Exp
+Δm
+Y
+
+Y1
+
+Y
+111
+
+STOPA PROCENTOWA
+A POPYT GLOBALNY
+
+112
+
+Stopa procentowa a konsumpcja
+
+
+M ma wpływ na poziom dochodu, a w ten sposób na
+
+konsumpcję (wpływ pośredni polityki pieniężnej na konsumpcję
+indukowaną).
+ M ma wpływ na poziom i, od której zależy
+konsumpcja autonomiczna (wpływ bezpośredni).
+Drogi bezpośredniego wpływu:
+1. Większe M to więcej środków na kredyty
+konsumpcyjne.
+2. Większe M to spadek i:
+- maleje koszt alternatywny wykorzystania S,
+- tańsze są kredyty konsumpcyjne i łatwiej je
+otrzymać,
+- pojawia się dodatni efekt majątkowy.
+
+113
+
+Stopa procentowa a inwestycje
+
+
+M ma wpływ na poziom i, od której zależą
+
+inwestycje (wpływ bezpośredni).
+Drogi wpływu:
+1. Większe M to więcej środków na kredyty
+inwestycyjne.
+2. Większe M to spadek i:
+- maleje koszt alternatywny wykorzystania SP ,
+- tańsze są kredyty inwestycyjne i łatwiej je
+otrzymać,
+- pojawia się dodatni efekt majątkowy.
+114
+
+Stopa procentowa a inwestycje
+
+i
+
+i2
+
+Δi
+i1
+
+I1
+
+ΔI
+I
+
+I
+I1
+
+I2
+
+Δb
+I
+
+popyt inwestycyjny
+115
+
+Stopa procentowa a AD oraz Y
+AD  C  c(1  t )Y  cT  cT R  I  bi  G  Exp  Im p  mY
+
+Y   o ( A  bi)
+
+Ao  C  cT  cT R  I  G  Exp  Im p
+
+Poziom dochodu równowagi na rynku towarowym zależy od:
+- mnożnika (+),
+- sumy planowanych wydatków autonomicznych (+),
+- stopy procentowej (-) przy danym stopniu reakcji
+popytu autonomicznego na zmianę stopy procentowej.
+116
+
+Równowaga w gospodarce,
+mnożnik i procesy mnożnikowe
+1
+Ao  bi 
+Y
+1  c(1  t )  m
+1
+o 
+1  c(1  t )  m
+
+Y
+ o  1
+ Ao  bi
+
+
+
+
+
+Mnożnik informuje o jaką wielokrotność zmiany
+wydatku autonomicznego zmieni się poziom
+dochodu równowagi.
+117
+
+Polityka fiskalna a dochód równowagi
+
+
+
+Y   o  Ao  bi
+
+
+
+Ao  C  cT  cT R  I  G  Exp  Im p
+Polityka fiskalna - kształtowanie wydatków i dochodów
+budżetowych, aby osiągnąć zamierzone cele gospodarcze i
+społeczne (stabilizację gospodarki na określonym poziomie
+produkcji i zatrudnienia oraz niwelowanie negatywnego wpływu
+braku tej stabilności).
+Instrumenty: podatki, wydatki rządowe oraz płatności
+transferowych.
+118
+
+Równowaga rynku towarowego - IS
+AD
+
+AD1
+Ā-bi1
+
+A
+
+AD2
+
+Y   o ( A  bi)
+
+B
+
+Ā-bi2
+Y2
+
+Y1
+
+Y
+
+i
+
+B
+
+i2
+i1
+
+A
+Y
+i
+
+b
+ ob
+
+A
+
+AD<Y
+IS
+
+Y2
+
+Y1
+
+Y
+
+AD>Y
+119
+
+RÓWNOWAGA BIEŻĄCA
+W GOSPODARCE –
+MODEL IS-LM
+
+120
+
+Równowaga bieżąca
+Krótkookresowa.
+ Jednoczesna równowaga rynku
+towarowego i pieniężnego.
+ Przy danym poziomie stopy procentowej i
+dochodu
+
+
+AD=Y
+
+oraz
+
+L=M/P
+
+121
+
+Jednoczesna równowaga na dwóch
+rynkach – model IS-LM
+i
+LM
+
+i0
+
+E
+
+M
+P
+
+A
+
+IS
+Y0
+
+Y
+
+122
+
+IS-LM – postać algebraiczna
+IS
+
+Y   o ( Ao  bi)
+
+Ao
+Y
+i
+
+b  ob
+
+LM
+M
+ kY  hi
+P
+
+k
+1M
+i Y
+h
+h P
+
+123
+
+Warunki jednoczesnej równowagi
+rynku towarowego i pieniężnego
+Ile wynosi w warunkach równowagi Y oraz i?
+Y   o ( Ao  bi)
+i
+
+Ao  C  cT  cT R  I  G  Exp  Im p
+
+k
+1 M
+Y 
+h
+h P
+
+h o
+
+b o
+
+M
+Y 
+A 
+o h  bk
+o h  bk P
+o
+o
+k o
+
+1
+
+M
+
+i 
+A 
+o h  bk
+o h  bk
+o
+o P
+
+124
+
+Warunki równowagi
+rynku pieniężnego i towarowego
+Ile wynosi Y oraz i?
+Inna postać równania czyli uproszczenie.
+
+M
+Y   A 
+f o
+m P
+Gdzie:
+
+
+
+
+
+f
+
+m
+
+
+
+
+
+h o
+h  bk o
+b o
+h  bk o
+
+mnożnik polityki fiskalnej
+
+mnożnik polityki monetarnej
+125
+
+Równowaga w modelu IS-LM
+Ostatnie równanie określa wielkość Y , przy której jednocześnie
+rynek towarowy i pieniężny są w równowadze.
+ Wyjaśnia ono, że każde zmniejszenie lub zwiększenie wydatków
+autonomicznych powoduje zmiany Y równe efektom
+mnożnikowym (mnożnik polityki fiskalnej), a zmiana podaży
+pieniądza wywołuje zmiany Y uzależnione od mnożnika
+polityki monetarnej.
+ Mnożniki wyjaśniają o ile zmieni się Y pod wpływem:
+- zmiany wydatków autonomicznych o jednostkę - mnożnik
+polityki fiskalnej;
+
+
+Uwaga: pomimo swojej nazwy ukazuje on skutki zmiany
+każdego z wydatków autonomicznych!
+
+- zmiany podaży pieniądza o jednostkę – mnożnik polityki
+monetarnej.
+126
+
+Wykorzystanie mnożników
+Znajomość wartości mnożników pozwala oszacować zmiany
+w gospodarce wywołane zmianami wydatków
+autonomicznych czy podaży pieniądza.
+ Np. jeżeli mnożnik polityki fiskalnej wynosi 1,3,
+a monetarnej 1,5; to każde zwiększenie wydatków
+autonomicznych o 100 jednostek spowoduje zwiększenie
+Y o 130 jednostek, a każde zwiększenie podaży pieniądza
+(przy P=const) o 100 jednostek wywoła zwiększenie Y
+o 150 jednostek.
+ W rzeczywistości możliwości prognozowania przyszłych
+zmian w gospodarce opierają się o bardziej skomplikowane
+modele, ale uwzględnia się w ich ramach także zależności
+wynikające z modelu IS-LM.
+
+
+127
+
+Mnożnik polityki fiskalnej
+Zależy dodatnio od mnożnika wydatkowego, ale jest od niego
+mniejszy. Jego działanie uruchamiane jest zmianą wydatków
+autonomicznych.
+
+
+
+f
+
+
+
+h o
+h  bk o
+
+
+
+o
+
+Wzrost wydatków autonomicznych:
+- nie tylko zwiększa popyt globalny i przyczynia się do wzrostu dochodu
+i produkcji, prowadząc do dalszego zwiększenia AD i Y;
+- wzrost dochodu zwiększa popyt na pieniądz i wymusza wzrost stopy
+procentowej, która ogranicza wydatki prywatne uzależnione od jej
+poziomu, a to zmniejszenie wydatków niweluje efekt początkowego
+wzrostu wydatków autonomicznych.
+128
+
+Mnożnik polityki monetarnej
+Jego działanie uruchamiane jest przez zmianę podaży pieniądza.
+
+
+
+m
+
+
+
+b o
+h  bk o
+
+Zwiększenie podaży pieniądza:
+- prowadzi do spadku stóp procentowych,
+- ta zmiana pobudza wydatki uzależnione od zmian stopy procentowej,
+głównie inwestycyjne,
+- rośnie AD oraz Y, prowadząc z kolei do wzrostu stopy
+procentowej oraz zmniejszenia AD i Y.
+129
+
+Efekty zmian w modelu IS-LM
+
+
+Z powodu powiązań między rynkiem towarowym
+i pieniężnym w modelu tym występują:
+- efekt transmisji – przenoszenia impulsów
+między rynkiem pieniężnym i towarowym;
+- efekt tłumienia – wygaszania zmian Y
+wywołanych zmianą poziomu wydatków;
+- efekt wypychania (wypierania) – wydatków
+prywatnych przez wydatki publiczne.
+130
+
+Skutki ekspansywnej polityki fiskalnej
+i zjawisko wypychania wydatków prywatnych
+i
+
+E1
+
+i1
+
+LM
+
+Y   o G
+
+A
+
+i0
+
+E
+
+IS1
+
+IS
+
+Y   f G
+
+Y0
+
+Y1
+
+Y
+
+Y
+
+131
+
+Skutki restrykcyjnej polityki pieniężnej
+i mechanizm transmisji
+i
+LM1
+i
+i1
+
+LM
+
+A
+E1
+
+i0
+
+E
+
+i  
+
+1 M
+h P
+
+IS
+
+M
+Y  
+m P
+
+Y1
+
+Y0
+
+Y
+
+132
+
+POLITYKA
+MAKROEKONOMICZNA
+W MODELU IS-LM
+
+133
+
+Efektywność ekspansywnej polityki fiskalnej
+k
+i
+
+Y
+h
+i
+
+i
+LM
+E1
+
+i1
+
+LM
+E1
+
+i1
+
+E
+i0
+
+i0
+
+E
+
+IS1
+
+IS1
+
+IS
+
+Y0
+
+Y1
+
+IS
+Y
+
+Y0
+
+Y1
+
+Y
+
+134
+
+Efektywność ekspansywnej polityki fiskalnej
+1
+i
+
+Y
+b o
+i
+
+i
+
+E1
+
+i1
+
+LM
+
+LM
+i1
+
+E
+i0
+
+E1
+E
+IS1
+
+i0
+IS1
+IS
+
+IS
+Y0
+
+Y1
+
+Y0 Y1
+
+135
+
+Efektywność polityki fiskalnej
+Y   A
+f
+
+Y 
+
+h o
+h  bk o
+
+A
+
+Większa efektywność gdy:
+- większe h,
+- większe o,
+- mniejsze b,
+- mniejsze k.
+
+A  C  cT  cT R  I  G  Exp  Im p
+
+136
+
+Efektywność ekspansywnej polityki pieniężnej
+1
+i
+
+Y
+b o
+i
+
+i
+LM
+
+i0
+
+LM
+
+E
+
+i0
+
+E1
+
+i1
+
+LM1
+
+E
+
+LM1
+
+E1
+
+i1
+
+IS
+Y0
+
+Y1
+
+IS
+Y
+
+Y0
+
+Y1
+
+Y
+
+137
+
+Efektywność ekspansywnej polityki pieniężnej
+k
+i
+
+Y
+h
+i
+
+i
+LM1
+
+LM
+
+LM
+E
+
+i0
+
+i0
+
+i1
+E1
+
+i1
+
+E
+
+LM1
+
+E1
+
+IS
+
+Y0
+
+Y1
+
+IS
+Y
+
+Y0 Y1
+
+Y
+138
+
+Efektywność polityki pieniężnej
+
+b o
+
+M
+Y 
+h  bk o P
+M
+Y  
+m P
+
+Większa efektywność gdy:
+- większe b,
+- większe o,
+- mniejsze h,
+- mniejsze k.
+
+139
+
+Pułapka płynności
+Gdy ludzie są skłonni do trzymania
+każdej ilości pieniędzy przy danej
+stopie procentowej (bardzo niskiej),
+niezależnie od wielkości podaży
+pieniądza (k ) - krzywa LM jest
+płaska, a zmiana wielkości M/P
+nie powoduje zmiany jej położenia.
+Polityka monetarna nie wpływa
+na zmiany stopy procentowej i Y.
+
+k
+i
+
+Y
+h
+i
+
+E
+
+Polityka fiskalna charakteryzuje się
+największą efektywnością –
+nie występuje efekt wypierania.
+
+LM
+
+i0
+IS
+
+IS1
+Y1
+
+Y0
+
+Y
+140
+
+Przypadek klasyczny
+Gdy popyt na pieniądz jest zupełnie
+niewrażliwy na zmianę stopy
+procentowej (h 0) - krzywa LM jest
+pionowa - to polityka monetarna jest
+maksymalnie skuteczna - jeśli chodzi o
+zmianę Y, natomiast nie ma wpływu
+na zmianę stopy procentowej.
+
+k
+i
+
+Y
+h
+LM
+
+i
+
+LM1
+
+Polityka fiskalna nie ma wpływu na
+zmianę Y, a zmienia jedynie stopę
+procentową – jest nieskuteczna,
+wystąpi efekt całkowitego wypierania.
+
+IS1
+E
+
+i0
+i1
+
+E1
+
+i2
+IS
+Y0
+
+Y1
+
+Y
+141
+
+Zarządzanie popytem globalnym
+Restrykcyjna pieniężna,
+ekspansywna fiskalna
+
+i
+
+LM
+E2
+i2
+
+Obie restrykcyjne
+
+E
+
+LM1
+
+E3
+
+i0
+
+Obie ekspansywne
+
+i1
+
+E1
+Restrykcyjna fiskalna,
+ekspansywna pieniężna
+
+IS1
+
+IS
+Y0
+
+Y1
+
+Y2
+
+Y
+
+142
+
+

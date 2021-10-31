@@ -2,6 +2,7 @@ from models.tfm.tfm import Tfm
 from models.document.document import Document
 from models.queryvector.queryvector import QueryVector
 from tools.tools import Tools
+from tools.filetools import FileTools
 from math import log
 
 class Controller(object):
@@ -11,6 +12,8 @@ class Controller(object):
         self.documents = self.create_docs()
         self.terms_dict = self.create_terms_dict(self.create_terms())
         self.tfm_matrix = Tfm(len(self.documents), len(self.terms_dict.keys()))
+        self.tfm_idf_matrix = Tfm(len(self.documents), len(self.terms_dict.keys()))
+
         
         
         
@@ -76,6 +79,13 @@ class Controller(object):
         return terms_dict
         
     def create_docs(self):
+        documents_paths = FileTools.get_files_from_dir(self.views.get_docs_path())
+        documents = []
+        for doc in documents_paths:
+            documents.append(Document(doc))
+        return documents
+    
+    def create_docs_from_files(self):
         doc_count = int(self.views.get_doc_count())
         documents = []
         for _ in range(doc_count):
@@ -90,23 +100,21 @@ class Controller(object):
             self.tfm_matrix.matrix.append(list(terms.values()))
             self.clear_dict_values(terms)
         
-        self.views.display_matrix(self.tfm_matrix, terms)
         
-    def create_tfm_idf_matrix(self, matrix):
-        tfm_idf_matrix = []
+    def fill_tfm_idf_matrix(self, matrix):
         for row in matrix:
-            tfm_idf_matrix.append(Tools.mul_vectors(row, self.idf_vec))
-        return tfm_idf_matrix
+            self.tfm_idf_matrix.matrix.append(Tools.mul_vectors(row, self.idf_vec))
         
     def calculate_idf(self, matrix):
         idf = []
         idf_out = []
         nj = 0
-        for i in range(len(matrix)):
-            for j in range(len(matrix[i])):
+        for i in range(len(matrix[0])):
+            for j in range(len(matrix)):
+                #print(f"Seria {i}: Wartość: {matrix[j][i]}")
                 if matrix[j][i] != 0:
                     nj += 1
-                   
+                     
             idf.append(nj)
             nj = 0
                     
@@ -116,7 +124,14 @@ class Controller(object):
             
         return idf_out
             
-        
+    def chebyshev_cmp_matrix(self, matrix):
+        comparison_matrix = []
+        for row in range(len(matrix)):
+            comparison_matrix.append([])
+            for doc in matrix:
+                comparison_matrix[row].append(Tools.chebyshev_dist(matrix[row], doc)) 
+                
+        self.views.display_comparison_matrix(comparison_matrix, "Miara Czebyszewa")
     
     def cosine_cmp_matrix(self, matrix):
         comparison_matrix = []

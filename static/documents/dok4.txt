@@ -1,0 +1,3023 @@
+Stanisław Pryputniewicz
+
+MECHANIKA OGÓLNA
+
+MATERIAŁY POMOCNICZE
+DO
+WYKŁADÓW I ĆWICZEŃ
+
+SPIS TREŚCI
+Przedmowa
+1. Podstawowe pojęcia, definicje i aksjomaty statyki
+1.1. Wprowadzenie
+1.2. Modele ciał rzeczywistych
+1.3. Siła. Układy sił
+1.4. Aksjomaty statyki
+1.5. Stopnie swobody. Więzy - podparcia bryły sztywnej
+1.6. Podstawowe definicje
+1.6.1. Rzut siły na oś
+1.6.2. Moment siły względem punktu
+1.6.3. Moment siły względem osi
+1.6.4. Para sił
+Zadania
+Pytania kontrolne
+2. Redukcja ogólnego układu sił
+2.1. Równoległe przesunięcie siły
+2.2. Redukcja ogólnego układu sił do jednej siły i momentu
+2.3. Redukcja równoległego układu sił
+2.4. Redukcja zbieżnego układu sił
+2.5. Redukcja płaskiego układu sił
+Zadania
+Pytania kontrolne
+3. Analityczne metody analizy statycznej konstrukcji
+3.1. Redukcja ogólnego układu sił do dwóch sił skośnych
+3.2. Warunki równowagi układu sił
+3.3. Wykorzystanie warunków równowagi do obliczania reakcji więzów
+Zadania
+Pytania kontrolne
+4. Wykreślne metody analizy statycznej konstrukcji
+4.1. Redukcja płaskiego układu sił
+4.1.1. Redukcja sił zbieżnych
+4.1.2. Redukcja układu sił niezbieżnych. Wielobok sznurowy
+4.2. Zastępowanie jednego układu sił innym jemu równoważnym układem
+4.2.1. Rozkładanie siły na dwie składowe o znanych liniach działania
+4.2.2. Rozkładanie siły na trzy składowe o znanych liniach działania
+4.2.3. Zastępowanie jednej pary sił inną parą sił
+4.3. Wykreślny sposób wyznaczania reakcji
+Zadania
+Pytania kontrolne
+
+3
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+5. Warunki równowagi ciała przy uwzględnieniu tarcia
+5.1. Warunki równowagi ciała przy uwzględnieniu tarcia posuwistego
+5.2. Warunki równowagi ciała przy uwzględnieniu tarcia tocznego
+Zadania
+Pytania kontrolne
+6. Siły wewnętrzne w konstrukcjach prętowych (część I). Układy kratowe
+6.1. Definicja sił wewnętrznych
+6.2. Siły wewnętrzne w konstrukcjach prętowych
+6.3. Układy kratowe
+6.3.1. Wprowadzenie
+6.3.2. Analiza kinematyczna kratownic
+6.3.3. Analiza statyczna kratownic
+6.3.3.1. Metoda zrównoważenia węzłów
+6.3.3.2. Metoda Rittera
+6.3.3.3. Metoda Cremony
+6.3.3.4. Metoda Culmanna
+Zadania
+Pytania kontrolne
+7. Siły wewnętrzne w konstrukcjach prętowych (część II). Wykresy sił
+wewnętrznych
+7.1. Obliczanie sił wewnętrznych w układach statycznie wyznaczalnych
+7.2. Siły wewnętrzne jako funkcje położenia przekroju poprzecznego
+Zadania
+Pytania kontrolne
+8. Kinematyka punktu materialnego. Ruch postępowy i obrotowy bryły
+materialnej
+8.1. Kinematyka punktu materialnego
+8.1.1. Sposoby opisu ruchu
+8.1.2. Prędkość punktu materialnego
+8.1.3. Przyspieszenie punktu materialnego
+8.1.4. Podział ruchów punktu materialnego
+8.2. Ruch postępowy bryły materialnej
+8.3. Ruch obrotowy bryły dookoła stałej osi
+8.3.1. Opis ruchu obrotowego
+8.3.2. Prędkość punktów bryły w ruchu obrotowym
+8.3.3. Przyspieszenie punktów bryły w ruchu obrotowym
+Zadania
+Pytania kontrolne
+9. Ruch płaski bryły
+9.1. Opis ruchu
+9.2. Równania ruchu płaskiego
+9.3. Prędkość w ruchu płaskim
+9.4. Przyspieszenie w ruchu płaskim
+Zadania
+Pytania kontrolne
+4
+
+Spis treści
+___________________________________________________________________________
+10. Kinematyczna metoda badania geometrycznej niezmienności układów
+10.1. Plan biegunów
+10.2. Badanie warunku dostatecznego geometrycznej niezmienności
+10.2.1. Warunek geometrycznej niezmienności jednej tarczy
+10.2.2. Warunek geometrycznej niezmienności układu trójprzegubowego
+10.2.3. Analiza geometrycznej niezmienności układu przez rozkład układu na
+podukłady
+10.2.4. Analiza geometrycznej niezmienności bazująca na planie biegunów
+10.3. Wyznaczanie kątów obrotu chwilowego układu o jednym stopniu swobody
+Zadania
+Pytania kontrolne
+11. Geometria mas. Geometryczne charakterystyki pól figur płaskich
+11.1. Geometria mas
+11.1.1. Środek masy i środek ciężkości
+11.1.2. Momenty bezwładności ciała doskonale sztywnego
+11.1.2.1. Określenia i definicje
+11.1.2.2. Momenty bezwładności przy równoległym przesunięciu układu
+współrzędnych
+11.1.2.3. Momenty bezwładności względem osi układu obróconego
+11.1.2.4. Główne momenty bezwładności
+11.2. Geometryczne charakterystyki pól figur płaskich
+11.2.1. Współrzędne środka ciężkości
+11.2.2. Momenty bezwładności pola figury płaskiej
+11.2.2.1. Określenia i definicje
+11.2.2.2. Momenty bezwładności przy równoległym przesunięciu układu
+współrzędnych
+11.2.2.3. Momenty bezwładności dla obróconego układu osi
+11.2.2.4. Osie główne i główne momenty bezwładności
+Zadania
+Pytania kontrolne
+12. Dynamika punktu materialnego i układu punktów materialnych
+12.1. Podstawowe prawa i definicje
+12.1.1. Prawa Newtona
+12.1.2. Pole sił
+12.1.3. Praca i moc
+12.1.4. Pęd i kręt
+12.1.5. Energia kinetyczna
+12.2. Równania różniczkowe ruchu
+12.2.1. Równania różniczkowe ruchu punktu swobodnego
+12.2.2. Równania różniczkowe ruchu punktu nieswobodnego
+12.2.3. Równania różniczkowe ruchu układu punktów
+12.3. Zasady zachowania
+12.3.1. Zasada zachowania pędu
+12.3.2. Zasada zachowania krętu
+12.3.3. Zasada zachowania energii
+Zadania
+Pytania kontrolne
+5
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+13. Dynamika ciała doskonale sztywnego
+13.1. Opis ruchu kulistego i ogólnego
+13.2. Kręt ciała sztywnego
+13.2.1. Kręt w ruchu ogólnym
+13.2.2. Kręt w ruchu kulistym
+13.3. Energia kinetyczna ciała sztywnego
+Zadania
+Pytania kontrolne
+14. Podstawy mechaniki analitycznej (część I). Zasada przemieszczeń wirtualnych.
+Zasada d'Alemberta
+14.1. Więzy i ich klasyfikacja
+14.2. Przemieszczenia możliwe i wirtualne
+14.3. Więzy idealne
+14.4. Ogólne równanie dynamiki
+14.5. Zasada przemieszczeń wirtualnych
+14.6. Zasada d'Alemberta
+Zadania
+Pytania kontrolne
+15. Podstawy mechaniki analitycznej (część II). Równania Lagrange'a drugiego
+rodzaju
+15.1. Układy holonomiczne. Współrzędne uogólnione
+15.2. Siły uogólnione
+15.3. Równania Lagrange'a drugiego rodzaju we współrzędnych uogólnionych
+Zadania
+Pytania kontrolne
+Dodatek. Rachunek wektorowy i tensorowy
+1. Cel i treść dodatku
+2. Oznaczenia i umowa sumacyjna
+3. Wektory i tensory jako operatory liniowe
+4. Składowe wektora i tensora w układzie współrzędnych kartezjańskich
+5. Transformacja składowych wektora i tensora przy zmianie układu współrzędnych
+6. Podstawowe działania na wektorach
+7. Podstawowe działania na tensorach określonych w tym samym punkcie
+przestrzeni R3
+Literatura
+
+6
+
+PRZEDMOWA
+
+Literatura poświęcona mechanice ogólnej (mechanice teoretycznej) jest bardzo
+bogata. Istnieje szereg monografii zarówno ogólnych jak i poświęconych
+jedynie zagadnieniom wybranym. Studiowanie ich wymaga z reguły
+przygotowania wstępnego, które mogą ułatwić niniejsze materiały. Materiał
+zawarty w kolejnych rozdziałach obejmuje piętnaście wykładów
+przewidzianych programem studiów dla kierunku budownictwo na Wydziale
+Inżynierii Lądowej i Środowiska Uniwersytetu Zielonogórskiego
+Mając na uwadze względy dydaktyczne, w każdym rozdziale podano:
+- zasadnicze wiadomości dotyczące omawianego zagadnienia,
+- zbiór przykładowych zadań wraz z pełnymi rozwiązaniami,
+- tematy zadań do samodzielnego rozwiązania oraz pytania kontrolne.
+W części uzupełniającej, zamieszczonej w formie dodatku, przedstawiono
+syntezę rachunku wektorowego i tensorowego w zakresie zbliżonym zarówno
+do potrzeb mechaniki ogólnej (teoretycznej) jak i wytrzymałości materiałów,
+teorii sprężystości i teorii plastyczności, wykładanych na następnych latach
+studiów.
+Zamieszczony wykaz literatury ograniczony został tylko do niezbędnego
+zakresu i obejmuje pozycje łatwiej dostępne.
+Autor
+
+Stanisław Pryputniewicz
+___________________________________________________________________________
+
+1. PODSTAWOWE POJĘCIA, DEFINICJE
+I AKSJOMATY STATYKI
+1.1. Wprowadzenie
+Mechanika ogólna, zwana również mechaniką teoretyczną, jest nauką badającą
+ogólne prawa ruchu obiektów (ciał) rzeczywistych, lub ich spoczynku.
+Pod pojęciem obiektu rzeczywistego rozumiemy zarówno obiekt istniejący
+w rzeczywistości jak i obiekt możliwy do zrealizowania.
+Poszczególne ciała rzeczywiste mają najrozmaitsze kształty, a materiały,
+z których one zostały wykonane (lub będą wykonane) mają różne właściwości.
+Opisanie i badanie ruchu takich ciał rzeczywistych jest zadaniem bardzo
+trudnym. Dlatego też ciała rzeczywiste w mechanice będziemy zastępowali ich
+modelami fizycznymi.
+Model fizyczny jest to "myślowo" uproszczony obiekt rzeczywisty,
+zapewniający dostatecznie dokładne odwzorowanie zjawisk zachodzących
+w obiekcie rzeczywistym, a jednocześnie umożliwiający zastosowanie prostego
+opisu matematycznego tych zjawisk.
+Żadne z ciał w przyrodzie nie istnieje samodzielnie a zawsze znajduje się
+w otoczeniu innych ciał. Powstaje więc, poza przyjęciem modelu fizycznego
+ciała, kolejny problem - odpowiedniego modelowania otoczenia. Wpływ
+otoczenia na analizowane ciało będziemy określali oddziaływaniem tego
+otoczenia, reprezentowanym przez siły.
+W wielu zadaniach wygodnie jest wyróżnić z otoczenia pewne ciało, które
+w naturalny sposób traktowane jest jako nieruchomy układ odniesienia, na
+którym oparte jest ciało analizowane. Z uwagi na różnorodność możliwych
+połączeń stykających się ciał wprowadza się w mechanice modele podparć
+(połączeń).
+ Sposób modelowania obiektu rzeczywistego, oddziaływań na ten obiekt
+oraz połączeń z innymi obiektami omówiono w dalszej części niniejszego
+rozdziału.
+1.2. Modele ciał rzeczywistych
+W mechanice przyjmuje się następujące modele ciał rzeczywistych:
+ Punkt materialny - ciało o rozmiarach znikomo małych w porównaniu
+z rozmiarami obszaru, w którym się znajduje. Punktowi materialnemu
+9
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+przypisujemy pewną skończoną ilość materii. Powiadamy, że punkt
+materialny obdarzony jest pewną masą.
+ Układ punktów materialnych - ciało zawierające dowolną ilość
+punktów materialnych o rozmiarach znikomo małych, wobec rozmiarów
+ciała.
+ Continuum materialne (ośrodek ciągły) - ciało szczelnie wypełnione
+punktami materialnymi (obszar zajęty przez ciało jest wypełniony materią
+w sposób ciągły).
+ Ciało doskonale sztywne lub nieodkształcalne - jest to wyidealizowane
+pojęcie ciała, którego punkty nie zmieniają wzajemnych odległości pod
+wpływem sił działających na nie. Zastępczo będziemy też używali
+pojęcia bryła sztywna a w przypadku gdy jeden z wymiarów ciała będzie
+mały w stosunku do dwóch pozostałych (zagadnienie płaskie) – tarcza
+sztywna. Ciała, których rozmiary poprzeczne są bardzo małe
+w porównaniu z ich długością nazywamy prętami.
+
+1.3. Siła. Układy sił
+W mechanice pod pojęciem siły rozumiemy miarę mechanicznego
+oddziaływania ciał materialnych, w wyniku którego oddziaływujące ciała mogą
+nadawać sobie przyspieszenia lub deformacje.
+Siła jest wielkością wektorową - charakteryzuje się ona wartością liczbową
+(modułem), punktem przyłożenia, kierunkiem i zwrotem. Zgodnie z układem
+jednostek SI jednostką siły jest 1 niuton (N) i pochodne 1kN=103N,
+1MN=106N.
+Zbiór sił działających na ciało nazywamy układem sił.
+Dwa układy sił
+nazywamy
+równoważnymi układami sił jeżeli działając na to samo ciało, wywołują
+jednakowy skutek (jednakowe przyspieszenie, deformacje). Symbolicznie
+zapisujemy to następująco:
+
+W przypadku kiedy układ sił
+, tj.
+
+jest równoważny jednej sile
+
+siłę tę nazywamy wypadkową danego układu sił. W dalszych rozdziałach
+pokażemy, że nie każdy układ sił posiada wypadkową.
+10
+
+Rozdział 1. Podstawowe pojęcia, definicje i aksjomaty statyki
+___________________________________________________________________________
+
+Jeżeli ciało doskonale sztywne, obciążone układem sił
+,
+znajduje się w spoczynku, to taki układ sił nazywamy zrównoważonym
+układem sił (równoważnym sile zerowej)
+
+Mówimy również, że w tym przypadku ciało znajduje się w równowadze.
+Siły działające na ciało możemy podzielić na dwie grupy:
+ siły zewnętrzne działające na określoną powierzchnię zewnętrzną ciała,
+tzw. siły powierzchniowe,
+ siły objętościowe, działające na każdą cząstkę ciała.
+Przykładem sił powierzchniowych może być parcie cieczy na ciało w niej
+zanurzone. Siły te mają wymiar [jednostka siły/jednostka powierzchni], np.
+[kN/m2].
+Przykładem sił objętościowych może być siła ciężkości, która jest
+proporcjonalna do masy. Dlatego też siły objętościowe często nazywa się siłami
+masowymi. Siły te mają wymiar [jednostka siły/ jednostka objętości], np.
+[kN/m3].
+1.4. Aksjomaty statyki
+Aksjomat1. Układ dwóch sił przyłożonych do ciała doskonale sztywnego jest
+układem zrównoważonym wtedy i tylko wtedy, kiedy siły te są równe co do
+modułu, działają na tej samej prostej i mają przeciwne zwroty (rys.1.1).
+
+Rys.1.1
+
+Rys.1.2
+
+Aksjomat 2. Układ sił zaczepionych w jednym punkcie można zastąpić jedną
+siłą wypadkową i odwrotnie jedna siła może być zastąpiona pewną liczbą sił
+zaczepionych w danym punkcie (rys.1.2).
+
+11
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Aksjomat 3. Skutek działania dowolnego układu sił, przyłożonego do ciała
+sztywnego, nie zmieni się, jeżeli do tego układu dodamy lub odejmiemy od
+niego zrównoważony układ sił (rys.1.3).
+
+Rys.1.3
+
+Rys.1.4
+
+Aksjomat 4. Każdemu działaniu towarzyszy równe co do wartości, przeciwnie
+skierowane i leżące na tej samej prostej przeciwdziałanie (rys.1.4).
+
+Rys.1.5
+Aksjomat 5. Każde ciało nieswobodne można myślowo oswobodzić z więzów
+zastępując ich działanie reakcjami, a następnie rozpatrywać je jako ciało
+swobodne znajdujące się pod działaniem sił czynnych (obciążenia) i biernych
+(reakcji więzów) (rys.1.5). Aksjomat ten nazywany jest "aksjomatem więzów".
+Wniosek. Z aksjomatów 3 i 1 wynika następujący ważny wniosek:
+Każdą siłę działającą na ciało sztywne można przesunąć dowolnie
+wzdłuż jej linii działania, tak jak wektor ślizgający się (rys.1.6).
+
+Rys.1.6
+W aksjomacie 5 pojawiło się szereg nowych pojęć, które wyjaśnimy niżej.
+12
+
+Rozdział 1. Podstawowe pojęcia, definicje i aksjomaty statyki
+___________________________________________________________________________
+
+1.5. Stopnie swobody. Więzy - podparcia bryły sztywnej
+Jeżeli rozpatrujemy ciało materialne (np. konstrukcję budowlaną), to zwykle nie
+może ono zajmować dowolnego miejsca w przestrzeni lub poruszać się
+dowolnie.
+Ciałem swobodnym nazywamy takie ciało, które może zajmować dowolne
+położenie w przestrzeni; w przeciwnym przypadku ciało nazywamy
+nieswobodnym.
+Więzami nazywamy warunki, które nakładają ograniczenia na ruch ciała lub
+na jego położenie w przestrzeni. Więzy mogą być geometryczne, jeżeli są to
+ograniczenia na położenie ciała w przestrzeni, lub też mogą być kinematyczne,
+jeżeli nakładają ograniczenia na prędkość lub przyspieszenie. Dalej będziemy
+zajmowali się głównie więzami geometrycznymi.
+Mówimy, że ciało posiada "s" stopni swobody, jeżeli do jednoznacznego
+określenia jego położenia potrzeba "s" parametrów.
+Punkt materialny w przestrzeni posiada 3 stopnie swobody, na powierzchni 2 stopnie swobody a zmuszony do pozostania na pewnym torze - 1 stopień
+swobody. Ogólnie układ "n" punktów materialnych z "w" więzami posiada
+s=3n-w stopni swobody. I tak, np. dla dwóch punktów (n=2), które zachowują
+stałą odległość (w=1), mamy s=5 stopni swobody.
+Bryła sztywna swobodna ma w przestrzeni 6 stopni swobody. Układ "N"
+brył z "w" więzami ma s = 6N-w stopni swobody.
+Tarcza sztywna ma na płaszczyźnie 3 stopnie swobody. Układ "N" tarcz
+z "w" więzami ma więc s = 3N-w stopni swobody.
+Stopnie swobody nabierają dla nas dodatkowego sensu, oznaczają one
+najmniejszą liczbę więzów, przy użyciu których możliwe jest unieruchomienie
+danego ciała. Unieruchomienie to realizowane jest poprzez dołączenie danego
+ciała materialnego do pewnego nieruchomego układu odniesienia, zwanego
+ostoją.
+W dalszej części przedstawimy najczęściej spotykane rodzaje podparć. Dla
+prostoty rysunku zestawimy jedynie podparcia płaskie, tzn. takie gdzie siły
+reakcji leżą w jednej płaszczyźnie. Żadnego kłopotu (poza rysunkiem) nie
+sprawi wyobrażenie sobie podparć przestrzennych oraz sił ich zastępujących.
+Podparcie przegubowo-nieprzesuwne. Na rys.1.7 przedstawiono
+podparcie przegubowo-nieprzesuwne w konstrukcji stalowej (rys.1.7.a)
+i żelbetowej (rys.1.7.b), schematy takiego podparcia (rys.1.7.c) oraz siły
+zastępujące działanie więzów, czyli reakcje (rys.1.7.d).
+13
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Rys.1.7
+Podparcie przegubowo-przesuwne. Na rys.1.8.a przedstawiono tego typu
+podporę wykonaną w konstrukcji stalowej, na rys.1.8.b schematy takiego
+podparcia, a na rys.1.8.c - reakcje.
+
+Rys.1.8
+Pełne utwierdzenie. Przykłady więzów, które przyjmować będziemy jako
+pełne utwierdzenie, przedstawiono na rys.1.9. Rysunek 1.9.a przedstawia
+utwierdzenie belki drewnianej w ścianie, rysunek 1.9.b - pełne utwierdzenie
+słupa stalowego, zaś rysunek 1.9.c - utwierdzenie słupa żelbetowego. Schematy
+tego typu więzów przedstawiono na rysunku 1.9.d, a na rysunku 1.9.e pokazano
+reakcje.
+
+Rys.1.9
+Istnieją jeszcze inne sposoby podparcia, z którymi zapoznamy się bliżej na
+zajęciach z wytrzymałości materiałów i z mechaniki budowli.
+
+14
+
+Rozdział 1. Podstawowe pojęcia, definicje i aksjomaty statyki
+___________________________________________________________________________
+
+W przypadku kiedy analizujemy połączenie danej tarczy z tarczą
+odniesienia (ostoją) mówimy, o więzach zewnętrznych. W konstrukcjach, które
+modelujemy układem tarcz sztywnych, obok więzów zewnętrznych występują
+również więzy wewnętrzne. Oznaczamy je tak samo jak więzy zewnętrzne.
+Przykłady pokazano na rys.1.10.
+
+Rys.1.10
+W praktyce inżynierskiej interesować nas będą przede wszystkim takie
+konstrukcje (układy tarcz, brył sztywnych), które są unieruchomione względem
+tarczy odniesienia. Uzyskuje się to przez wprowadzenie do układu
+odpowiedniej liczby odpowiednio rozmieszczonych więzów.
+Układy
+spełniające te warunki nazywamy układami geometrycznie niezmiennymi.
+Warunkiem koniecznym geometrycznej niezmienności jest odpowiednia
+liczba więzów, która nie może być mniejsza od sumy stopni swobody
+poszczególnych części składowych układu. Przykładowo, dla układu 3 brył
+sztywnych minimalna liczba więzów wynosi 6∙3=18 a dla układu 2 tarcz
+sztywnych - 2∙3=6.
+Liczba więzów spełniająca warunek konieczny nie wystarcza jednak do
+zabrania układowi wszystkich stopni swobody. Wprowadzone podpory
+i połączenia muszą być jeszcze odpowiednio rozmieszczone. Sprawdzanie
+właściwego ich rozmieszczenia to badanie warunku dostatecznego
+geometrycznej niezmienności. Do problemu badania geometrycznej
+niezmienności wrócimy jeszcze w rozdziale 10.
+1.6. Podstawowe definicje
+1.6.1. Rzut siły na oś
+Rzutem siły
+na oś l o wersorze (wektorze jednostkowym)
+nazywamy iloczyn skalarny wektorów
+; oznaczamy go przez Pl
+
+15
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Jeżeli powyższe wektory dane są we współrzędnych kartezjańskich {xi}
+o wersorach osi , to korzystając z umowy sumacyjnej (patrz "DODATEK"),
+mamy
+
+ Z (1.5) wynika, że rzuty siły na osie układu są równe odpowiednim
+współrzędnym jej wektora.
+
+1.6.2. Moment siły względem punktu
+Momentem siły względem punktu 0 (rys.1.11.a) nazywamy wektor
+iloczynem wektorowym (patrz "Dodatek")
+
+dany
+
+gdzie jest wektorem położenia punktu zaczepienia siły A względem punktu 0.
+
+Rys.1.11
+Z własności iloczynu wektorowego wynikają następujące wnioski:
+ moment siły względem punktu leżącego na linii jej działania równy jest
+zero (bo
+są kolinearne);
+ wartość momentu siły względem punktu równa się iloczynowi wartości
+siły (P) i odległości punktu od linii działania siły (h), zwanej „ramieniem
+siły” (Mo=Ph) (rys.1.11.b);
+ moment siły
+względem punktu 0 nie zmieni się jeżeli siłę
+przesuniemy dowolnie wzdłuż jej linii działania;
+ jednostką momentu jest Nm i pochodne: kNm, MNm.
+
+16
+
+Rozdział 1. Podstawowe pojęcia, definicje i aksjomaty statyki
+___________________________________________________________________________
+
+1.6.3. Moment siły względem osi
+Momentem siły
+względem osi l o wersorze nazywamy rzut na oś l wektora
+momentu siły względem dowolnego punktu tej osi (rys.1.12). Można to zapisać
+następująco:
+
+lub korzystając ze współrzędnych odpowiednich wektorów, w postaci:
+
+gdzie
+
+jest symbolem permutacyjnym (patrz "Dodatek").
+
+Rys.1.12
+
+Rys.1.13
+
+Moment siły względem osi posiada następujące własności:
+ jest niezależny od wyboru punktu na osi,
+ jest równy zeru, gdy siła przecina oś, lub gdy jest do niej równoległa,
+ jest równy sumie momentów poszczególnych składowych siły względem
+tej osi.
+1.6.4. Para sił
+Parą sił nazywamy dwie siły o równych wartościach (modułach), lecz różnych
+zwrotach i równoległych liniach działania (rys.1.13).
+Wektor
+
+zwany momentem pary sił posiada następujące własności:
+ jest on prostopadły do płaszczyzny działania obu sił,
+
+17
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+ jest niezależny od wyboru punktu 0 i jest wielkością stałą, a jego wartość
+równa jest iloczynowi wartości jednej z sił pary i odległości między
+siłami (ramienia pary) - Mo=P∙h,
+ jest wektorem swobodnym, tzn. może być przyłożony w dowolnym
+punkcie,
+ układ par leżących w jednej płaszczyźnie jest równoważny jednej parze
+sił, której moment równa się sumie momentów par.
+Przykład 1.1.
+Sprawdzić warunek konieczny geometrycznej niezmienności układu
+przedstawionego na rysunku 1.14. Korzystając z "aksjomatu więzów",
+narysować układy sił czynnych i biernych działających na poszczególne tarcze
+układu.
+Układ składa się z trzech tarcz i ostoi połączonych między sobą. Każda
+z tarcz traktowana oddzielnie ma 3 stopnie swobody; razem 3∙3=9. W układzie
+występują podparcia przegubowe (A, B, C, D) i podparcie przegubowoprzesuwne (E), które wprowadzają razem 3∙3+1=9 więzów.
+
+Rys.1.14
+Tak więc równość
+3∙3 = 2∙4+1
+świadczy o wystarczającej liczbie więzów. Warunek konieczny geometrycznej
+niezmienności układu jest spełniony.
+Układ sił czynnych i biernych działających na poszczególne tarcze
+przedstawiono na rys.1.14.b. Ponieważ w przegubach nie znane są wartości
+i kierunki sił, siły te opisano przez pary współrzędnych (V, H). Reakcja
+w punkcie E jest prostopadła do kierunku możliwego przesuwu i nie znana jest
+jedynie jej wartość RE.
+18
+
+Rozdział 1. Podstawowe pojęcia, definicje i aksjomaty statyki
+___________________________________________________________________________
+
+Przykład 1.2.
+Dana siła
+o wartości 10 kN tworzy z osiami kartezjańskiego układu
+współrzędnych kąty: /4, /4 i /2. Napisać wektor siły w przyjętym układzie.
+Obliczyć rzut siły na oś o wersorze:
+
+Współrzędne wektora siły wynoszą:
+
+Wektorowy zapis siły ma postać:
+Rzut siły na oś l wynosi:
+
+Przykład 1.3.
+Siła
+) zaczepiona jest w punkcie A(2,3,4). Przyjmując, że
+współrzędne punktu podane są w metrach a współrzędne siły w kN należy
+obliczyć: moment siły względem punktu B(1,2,5), moment siły względem osi
+OB, gdzie O jest początkiem układu współrzędnych.
+Wektor wodzący punktu A względem B wynosi:
+
+Zgodnie z definicją moment siły
+
+względem punktu B wynosi:
+
+Obliczymy teraz wersor osi OB. W tym celu wyznaczamy moduł wektora
+
+Wersor osi OB można zapisać następująco:
+
+19
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Moment siły
+
+względem tej osi (punkt B leży na osi) wynosi:
+
+ZADANIA
+Zadanie 1. Dane są dwie płyty oraz pręty metalowe, które mogą być mocowane
+do płyt przegubowo. Podaj sposoby równoległego umocowania względem siebie
+płyt tak aby stanowiły one układ geometrycznie niezmienny. Jaka minimalna
+liczba prętów mocujących jest niezbędna?
+Zadanie 2. Sprawdzić warunek konieczny geometrycznej niezmienności
+układów przedstawionych na rysunku 1.15. Nazwać występujące w układach
+rodzaje podparć.
+
+Rys.1.15
+Zadanie 3. Korzystając z "aksjomatu więzów", narysować siły czynne i bierne
+działające na poszczególne tarcze układu przedstawionego na rysunku 1.15.a.
+Zadanie 4. Bryła materialna I działa na bryłę materialną II w punkcie A(4,2,1)
+z siłą
+Przyjmując, że współrzędne punktów
+podane są w metrach a współrzędne siły w kN, obliczyć:
+a) reakcję bryły II na działanie bryły I,
+b) moment siły względem punktu B(0,3,5),
+c) momenty siły względem osi układu współrzędnych.
+Odpowiedź:
+
+20
+
+Rozdział 1. Podstawowe pojęcia, definicje i aksjomaty statyki
+___________________________________________________________________________
+
+Zadanie 5. Dana jest tarcza o kształcie sześciokąta foremnego o boku a = 6,0 m.
+W płaszczyźnie tarczy działa układ sił (rys.1.16), których wartości wynoszą:
+Należy obliczyć:
+a) sumę rzutu sił na osie układu współrzędnych,
+b) sumę rzutu sił na oś AB,
+c) sumę momentów sił względem punktu O,
+d) sumę momentów sił względem osi x3.
+Odpowiedź:
+
+Rys.1.16
+
+Rys.1.17
+
+Zadanie 6. Na bryłę materialną o kształcie sześcianu o boku a=4m (rys.1.17)
+działa układ czterech sił, których wartości wynoszą:
+Obliczyć:
+a) sumę rzutów sił na osie układu,
+b) sumę rzutów sił na oś AG,
+c) sumę momentów sił względem punktu A,
+d) sumę momentów sił względem osi AG.
+Odpowiedź:
+
+21
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+PYTANIA KONTROLNE
+1. Co to znaczy, że układ jest geometrycznie niezmienny ?
+2. Podaj treść tzw. "aksjomatu więzów".
+3. Omów podstawowe rodzaje podparć tarczy sztywnej.
+4. Podaj definicje: rzutu siły na oś, momentu siły względem
+momentu siły względem osi.
+
+22
+
+punktu,
+
+Stanisław Pryputniewicz
+___________________________________________________________________________
+
+2. REDUKCJA OGÓLNEGO UKŁADU SIŁ
+2.1. Równoległe przesunięcie siły
+Korzystając z aksjomatów statyki można dowieść następujące twierdzenie:
+Siła, przyłożona w dowolnym punkcie ciała sztywnego, równoważna jest
+takiej samej sile, przyłożonej w dowolnie innym punkcie tego ciała i
+parze sił, której moment równy jest momentowi danej siły względem
+nowego punktu przyłożenia.
+
+
+Rys.2.1.
+Niech w punkcie A ciała sztywnego przyłożona będzie siła
+punkcie B przykładamy dodatkowo zrównoważony układ sił
+że
+. Zgodnie z aksjomatem 3 mamy
+tworzy parę sił, którą można zastąpić momentem pary
+
+(rys.2.1). W
+taki,
+
+Układ sił
+
+Ostatecznie otrzymujemy więc w punkcie B siłę oraz moment.
+2.2. Redukcja ogólnego układu sił do jednej siły i momentu
+Niech dany będzie dowolny układ „n” sił
+Wprowadzimy dwa następujące określenia:
+ Sumę sił
+
+nazywać będziemy wektorem głównym układu sił.
+ Sumę momentów sił względem dowolnego punktu (środka redukcji)
+
+nazywać będziemy momentem głównym układu sił względem tego punktu.
+23
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Korzystając z konstrukcji równoległego przesunięcia siły dowieść można
+jedno z podstawowych twierdzeń statyki.
+Dowolny przestrzenny układ sił w ogólnym przypadku można zastąpić
+równoważnym mu układem, składającym się z jednej siły, przyłożonej
+w dowolnym punkcie ciała (w środku redukcji) i równej wektorowi
+głównemu danego układu sił i jednej pary sił, której moment równy jest
+momentowi głównemu układu sił względem wybranego środka
+redukcji.
+
+Rys.2.2
+Za środek redukcji przyjmujemy początek układu współrzędnych (rys.2.2.a).
+Dokonujemy równoległego przesunięcia każdej z sił
+z punktu „i” do punktu
+„O”. W wyniku tej operacji otrzymujemy układ sił zbieżnych zaczepionych
+w punkcie „O” oraz układ momentów
+(rys.2.2.b).
+Siły zaczepione w jednym punkcie „O” składamy do jednej siły
+
+Podobnie sumujemy momenty sił
+
+Przeanalizujemy teraz jakie zmiany nastąpią przy zmianie środka redukcji.
+Niech w punkcie „O” dany będzie układ zredukowany
+. Obierzmy
+nowy środek redukcji w punkcie „K” określonym wektorem położenia
+(rys.2.3).
+
+24
+
+Rozdział 2. Redukcja ogólnego układu sił
+___________________________________________________________________________
+
+Rys.2.3
+Układ wektorów
+przenosimy do punktu „K”. Ponieważ wektor
+jest
+wektorem swobodnym, jego przesunięcie nie pociąga żadnych zmian.
+Przesunięcie wektora
+, jako operacja równoległego przesunięcia siły,
+powoduje pojawienie się w punkcie „K” dodatkowego momentu
+który dodany do wektora
+punktu „K”.
+
+daje moment główny
+
+względem nowego
+
+Wniosek.
+Zredukowanie układu n sił względem innego środka redukcji powoduje
+jedynie zmianę momentu głównego układu sił, nie wywołując zmiany
+wektora głównego, tzn.
+
+Zrzutujmy wektor momentu głównego
+
+Ponieważ
+
+na kierunek wektora głównego Ro
+
+a więc
+
+Stwierdzamy, że każdy układ sił ma dwa niezmienniki:
+1) wektor główny
+2) rzut momentu głównego
+obliczonego względem dowolnego środka
+redukcji na kierunek wektora głównego
+Punkt będący środkiem redukcji wybieraliśmy dotychczas dowolnie.
+Jeżeli znajdziemy taki środek redukcji „C”, że wektor momentu głównego
+i wektor główny
+będą kolinearne, to taki zredukowany układ wektorów
+
+25
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+nazywamy skrętnikiem a ich linię działania przechodząca przez punkt „C”
+nazywa się osią centralną układu sił
+Gdy zdarzy się, że wektor momentu głównego
+układu sił, obliczony
+względem dowolnego punktu, będzie prostopadły do wektora głównego
+(
+), to z zależności (2.8) wynika, że skrętnik upraszcza się wyłącznie do
+wektora głównego (bo
+). Oznacza to, że układ sił
+daje się zredukować wyłącznie do jednej siły
+, którą nazywamy
+wypadkową układu sił. W takim przypadku oś centralna nazywa się linią
+działania wypadkowej.
+Podsumowując można stwierdzić, że ogólny układ sił redukuje się do
+skrętnika, a tylko w szczególnym przypadku udaje się go zredukować do jednej
+siły wypadkowej. Warunkiem koniecznym i dostatecznym na to aby układ sił
+redukował się do wypadkowej jest:
+a) istnienie różnego od zera wektora głównego (
+),
+b) prostopadłość wektora momentu głównego względem jednego dowolnie
+wybranego środka redukcji do linii działania wektora głównego.
+Przykład 2.1.
+Na sześcian o boku a=2,0 m działają dwie siły
+(rys.2.4) o równych
+modułach
+. Wyznaczyć położenie osi centralnej układu sił.
+
+Rys.2.4
+Zapisujemy analitycznie wektory sił
+
+oraz wektory położenia punktów zaczepienia sił
+
+26
+
+Rozdział 2. Redukcja ogólnego układu sił
+___________________________________________________________________________
+
+Redukujemy układ sił do początku układu współrzędnych:
+
+Równanie osi centralnej wyznaczymy na podstawie niżej przedstawionego
+rozumowania.
+Obierając za punkt redukcji punkt „C” leżący na osi centralnej, zgodnie z (2.6)
+mamy
+Jeżeli oznaczymy
+następująco:
+
+, to równanie (a) można zapisać
+
+Ponieważ punkt „C” jest punktem osi centralnej, to zgodnie z definicją
+wektory
+i są kolinearne, czyli
+
+Podstawiając do (c) zależności (b), otrzymujemy poszukiwane równanie osi
+centralnej
+
+W rozwiązywanym przykładzie mamy:
+
+lub po uproszczeniu:
+Powyższe równanie jest równoważne dwom równaniom płaszczyzn:
+Prosta przecięcia tych dwóch płaszczyzn, czyli prosta AB (rys.2.4) jest
+poszukiwaną osią centralną.
+27
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+2.3. Redukcja równoległego układu sił
+Równoległy układ sił występuje wtedy, gdy linie działania wszystkich sił są do
+siebie równoległe. Kierunek działania sił określimy za pomocą wektora
+jednostkowego (rys.2.5).
+
+Rys.2.5
+Dla uproszczenia słownictwa, wprowadza się pojęcie algebraicznej
+wartości siły P, która równa się co do bezwzględnej wartości modułowi
+wektora siły, znak dodatni oznacza zwrot zgodny ze zwrotem wektor
+, a znak
+ujemny – zwrot przeciwny. Zapis siły upraszcza się do postaci:
+Przyjmując za środek redukcji punkt O, otrzymujemy wektor główny
+
+który jest równoległy do wektora oraz moment główny układu sił
+
+którego wektor jest prostopadły do wektora
+Z faktu prostopadłości
+wynika , że w przypadku
+równoległy
+układ sił można zredukować wyłącznie do jednej siły wypadkowej
+Linię działania wypadkowej wyznaczymy korzystając z następującego
+twierdzenia Varignona:
+Moment siły wypadkowej względem dowolnego punktu równa się sumie
+momentów poszczególnych sił układu względem tego samego punktu,
+tzn.
+
+28
+
+Rozdział 2. Redukcja ogólnego układu sił
+___________________________________________________________________________
+
+Dla równoległego układu sił mamy
+
+a stąd po przekształceniach
+
+Równanie to równoważne jest trzem równaniom skalarnym:
+
+Współrzędne (2.15) określają punkt zwany środkiem sił równoległych, przez
+który przechodzi linia działania wypadkowej
+Przykład 2.2.
+Bryła przedstawiona na rysunku 2.6 obciążona jest siłami równoległymi:
+P1=400 kN, P2=200 kN, P3=100 kN, P4=300 kN. Znaleźć wypadkową i środek
+danego układu sił.
+
+Rys.2.6
+Kierunek działania sił określamy wektorem jednostkowym
+Wypadkowa
+
+(rys.2.6).
+
+jest równoległa do układu sił i ma zwrot wektora .
+29
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Punkty zaczepienia mają następujące współrzędne:
+Zgodnie ze wzorami (2.15) współrzędne środka sił równoległych wynoszą:
+
+Linia działania wypadkowej przechodzi przez punkt S(-1,5; 2,5; 3,5) oraz punkty
+B i C bryły (rys.2.6).
+2.4. Redukcja zbieżnego układu sił
+Układ sił zbieżnych w przestrzeni to taki układ sił, w którym linie działania
+wszystkich sił przecinają się w jednym punkcie. Zadanie redukcji układu sił
+zbieżnych znacznie się upraszcza, albowiem za środek redukcji można przyjąć
+wspólny punkt przecięcia. Ponieważ momenty sił względem punktu przecięcia
+ich linii działania są równe zeru, przeto:
+
+Dochodzimy więc do sformułowania:
+Układ sił zbieżnych może być zastąpiony jedną siłą wypadkową (ich
+sumą geometryczną), której linia działania przechodzi przez punkt
+zbieżności.
+Przykład 2.3.
+Na prostopadłościenną bryłę w punkcie A działają siły (rys.2.7):
+Znaleźć wypadkową tego zbieżnego układu sił.
+W pierwszej kolejności zapiszemy wektory jednostkowe kierunków AC i OA.
+I tak
+
+30
+
+Rozdział 2. Redukcja ogólnego układu sił
+___________________________________________________________________________
+
+Rys.2.7
+Analitycznie zapisane wektory sił mają postać:
+
+lub po podstawieniu danych:
+
+Współrzędne wypadkowej wynoszą:
+
+a jej moduł
+
+Wypadkowa zaczepiona jest w punkcie A.
+31
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+2.5. Redukcja płaskiego układu sił
+Płaskim układem sił nazywać będziemy układ „n” sił, których linie działania
+leżą w jednej płaszczyźnie. Za tę płaszczyznę przyjmiemy płaszczyznę „xy”
+(rys.2.8).
+
+Rys.2.8
+Zapis analityczny siły redukuje się do postaci
+
+Przyjmując za środek redukcji punkt O, otrzymujemy wektor główny
+leżący w płaszczyźnie sił oraz moment główny
+, którego wektor jest prostopadły do płaszczyzny „xy”.
+Korzystając z definicji momentu względem osi, moment główny może być
+zapisany również w postaci
+
+gdzie Mo jest algebraiczną wartością momentu głównego. Liczba Mo określa
+zarówno wartość bezwzględną jak i zwrot.
+Z warunku prostopadłości wektorów
+
+wynika następujący wniosek:
+
+Jeżeli płaski układ sił posiada różny od zera wektor główny
+, to
+posiada wypadkową
+. Jeżeli natomiast
+to układ sił może
+(ale nie musi) redukować się do pary, której wektor jest prostopadły do
+płaszczyzny działania sił.
+
+32
+
+Rozdział 2. Redukcja ogólnego układu sił
+___________________________________________________________________________
+
+Równanie prostej działania wypadkowej można wyznaczyć z poznanego
+wcześniej twierdzenia Varignona, z którego wynika, że
+Rozpisując równanie (2.18) we współrzędnych, otrzymuje się
+
+gdzie:
+
+Stąd mamy ostatecznie równanie prostej działania wypadkowej
+
+lub w postaci odcinkowej
+
+Przykład 2.4.
+Znaleźć wypadkową układu sił działających na tarczę przedstawioną na rys.2.9.
+Przyjąć następujące dane:
+
+Rys.2.9
+
+33
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Z zależności geometrycznych mamy:
+Współrzędne wypadkowej wynoszą:
+
+Moment względem osi „z”
+
+Zgodnie ze wzorem (2.33)
+
+Jest to poszukiwane równanie prostej działania wypadkowej
+
+ZADANIA
+Zadanie 1. Na bryłę w kształcie ostrosłupa, o podstawie kwadratu, działają dwie
+siły (rys.2.10), których moduły wynoszą:
+. Bok
+podstawy jest równy a = 2,0 m a wysokość h= 4,0 m. Wyznaczyć położenie osi
+centralnej układu sił.
+Odpowiedź: Oś centralna jest miejscem przecięcia się następujących
+płaszczyzn: 2z + x = 0 i 5y = 4.
+
+34
+
+Rozdział 2. Redukcja ogólnego układu sił
+___________________________________________________________________________
+
+Rys.2.10
+
+Rys.2.11
+
+Zadanie 2. Na bryłę w kształcie ostrosłupa, o wymiarach jak na rys.2.11
+działają trzy równoległe do osi „z” siły. Moduły tych sił wynoszą:
+Znaleźć wypadkową i środek danego układu sił.
+Odpowiedź: Wypadkowa W = 100 kN ma zwrot zgodny z osią „z”, a jej linia
+działania przechodzi przez punkt S(6; 6; -16).
+Zadanie 3. Znaleźć wypadkową układu sił działającego na sześciokątną tarczę
+(rys.2.12). Moduły sił wynoszą:
+
+Odpowiedź:
+
+Rys.2.12
+
+Rys.2.13
+
+Zadanie 4. Znaleźć wypadkową układu sił działających na tarczę przedstawioną
+na rysunku 2.13. Przyjąć następujące dane:
+.
+Odpowiedź:
+35
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Prosta działania wypadkowej opisana jest równaniem
+
+PYTANIA KONTROLNE
+1. Podaj i udowodnij twierdzenie o równoległym przesunięciu siły.
+2. Omów redukcję ogólnego układu sił.
+3. Wyprowadź równanie osi centralnej układu sił.
+4. Omów sposób wyznaczania wypadkowej i środka sił równoległych.
+5. Omów sposób wyznaczania wypadkowej płaskiego układu sił.
+
+36
+
+Stanisław Pryputniewicz
+___________________________________________________________________________
+
+3. ANALITYCZNE METODY ANALIZY STATYCZNEJ
+KONSTRUKCJI
+
+3.1. Redukcja ogólnego układu sił do dwóch sił skośnych
+Każdy układ sił da się sprowadzić do dwóch sił wichrowatych (skośnych),
+z których jedna przechodzi przez środek redukcji "0" (rys.3.1).
+
+Rys.3.1
+Punktem wyjścia jest zredukowany układ
+, który przekształcamy dalej.
+Przyjmujemy płaszczyznę
+i przechodzącą przez punkt "0". Wektor
+jako prostopadły do płaszczyzny zastępujemy parą sił, działających w tej
+płaszczyźnie
+, o ramieniu d, przy czym musi zachodzić
+. Żądamy aby jedna z sił pary przechodziła przez środek redukcji.
+Składając siły
+do jednej siły leżącej w płaszczyźnie β, otrzymujemy
+w rezultacie dwie siły skośne
+.
+3.2. Warunki równowagi układu sił
+Pojęcie zrównoważonego układu sił omówiono w rozdziale 1. Zgodnie
+z pierwszym aksjomatem statyki układ dwóch sił przyłożonych do ciała
+doskonale sztywnego jest układem zrównoważonym wtedy i tylko wtedy, kiedy
+siły te są równe co do modułu, działają wzdłuż tej samej prostej i mają
+przeciwne zwroty. Tak więc, dowolny układ sił jest w równowadze, gdy
+redukuje się do dwóch sił skośnych, specjalnie usytuowanych, a mianowicie sił
+leżących na jednej prostej, równych co do bezwzględnej wartości i mających
+przeciwne zwroty. Wektor główny i moment główny o takich dwóch sił są
+równe zeru.
+37
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Warunek równowagi można więc sformułować następująco:
+Dowolny układ sił jest w równowadze jeżeli wektor główny tego układu
+jest równy zeru oraz moment główny względem dowolnego punktu jest
+równy zeru, tzn.
+
+Powyższe dwa równania wektorowe zapisać można w następującej
+równoważnej postaci skalarnej:
+
+Równania (3.1) lub (3.2-3) noszą nazwę równań równowagi ogólnego
+układu sił.
+Zgodnie ze wzorem (2.6) jeżeli
+względem jednego punktu, to wielkości te są równe zeru względem każdego
+innego punktu. Wybór punktów w przestrzeni nie ma więc znaczenia.
+Wszystkie układy sił będące w równowadze są układami równoważnymi.
+Przeanalizujemy dalej jak wyglądają skalarne równania równowagi
+szczególnych przypadków układu sił.
+A. Równoległy układ sił
+Jeżeli przyjmiemy, że kierunek działania sił pokrywa się z kierunkiem osi "z", to
+z równań (3.2) pozostaje tylko jedno, a mianowicie to, które wyraża sumę
+rzutów sił na oś równoległą do linii działania sił. Z równań (3.3) pozostaną te
+dwa, które wyrażają sumy momentów względem osi nierównoległych do linii
+działania sił. Tak więc mamy trzy równania skalarne
+
+a pozostałe równania spełnione są tożsamościowo.
+38
+
+Rozdział 3. Analityczne metody analizy statycznej konstrukcji
+___________________________________________________________________________
+
+B. Zbieżny układ sił
+Ponieważ w przypadku zbieżnego układu sił mamy tożsamościowo
+warunki równowagi redukują się do postaci
+lub skalarnie
+
+,
+
+Wynika z tego, że warunkiem koniecznym i dostatecznym równowagi sił
+zbieżnych jest, aby sumy rzutów wszystkich sił na osie układu były równe zeru.
+C. Płaski układ sił
+Warunki równowagi płaskiego układu sił otrzymuje się natychmiast z równań
+(3.2) i (3.3), które redukują się do trzech
+
+Pozostałe trzy spełnione są tożsamościowo.
+Tak więc, płaski układ sił znajduje się w równowadze, jeżeli sumy rzutów
+wszystkich sił na osie układu są równe zeru i moment wszystkich sił względem
+dowolnego punktu płaszczyzny działania sił jest równy zeru.
+Można dowieść, że warunki równowagi (3.6) da się też zapisać w dwóch
+innych, alternatywnych postaciach.
+I. Jeżeli moment układu względem trzech dowolnych punktów nieleżących na
+jednej prostej jest równy zeru, to płaski układ sił jest w równowadze
+
+II. Jeżeli moment układu sił względem dwóch punktów jest równy zeru oraz
+rzut sił na oś nieprostopadłą do odcinka łączącego t punkty jest równy zeru, to
+płaski układ sił jest w równowadze
+
+Udowodnimy wreszcie bardzo praktyczne przy rozwiązywaniu zadań
+twierdzenie:
+Trzy siły leżące w jednej płaszczyźnie są tylko wtedy w równowadze,
+gdy ich linie działania przecinają się w jednym punkcie właściwym
+lub niewłaściwym.
+39
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Wyobraźmy sobie trzy siły
+
+o różnych liniach działania (rys.3.2).
+
+Rys.3.2
+Można zawsze przesunąć dwie z nich wzdłuż ich linii działania do wspólnego
+punktu „0” i zastąpić jedną siłą . Wtedy trzecia siła musi być równa (- )
+i leżeć na linii działania . Oznacza to, że linia działania trzeciej siły musi
+przejść również przez punkt "0".
+3.3. Wykorzystanie warunków równowagi do obliczania reakcji więzów
+Zgodnie z "aksjomatem więzów" (aksjomat 5) każde ciało nieswobodne można
+myślowo oswobodzić z więzów, zastępując ich działanie reakcjami, a następnie
+rozpatrywać je jako ciało swobodne, znajdujące się pod działaniem sił czynnych
+(obciążenia) i biernych (reakcji). Jeżeli rozpatrywane ciało znajduje się
+w równowadze to układ sił czynnych i biernych musi być układem
+zrównoważonym. Wynika stąd wniosek, że reakcje nie mogą być dobrane
+dowolnie. Muszą one spełniać warunki równowagi danego układu sił.
+Jeżeli liczba niewiadomych reakcji jest równa liczbie niezależnych
+liniowo równań równowagi, które możemy napisać dla danego układu
+ciał, to reakcje możemy obliczyć jednoznacznie. Taki układ ciał
+nazywamy układem statycznie wyznaczalnym.
+Układy, w których nie jest możliwe określenie sił panujących w więzach
+wyłącznie w oparciu o warunki równowagi (liczba reakcji jest większa od liczby
+równań równowagi) nazywamy układami statycznie niewyznaczalnymi.
+Przeanalizujemy dalej jakie są warunki statycznej wyznaczalności
+poszczególnych układów konstrukcyjnych. O układach tych założymy, że są
+geometrycznie niezmienne. Liczbę niewiadomych reakcji więzów oznaczymy
+przez "r".
+
+40
+
+Rozdział 3. Analityczne metody analizy statycznej konstrukcji
+___________________________________________________________________________
+
+Układ „N” brył sztywnych.
+Dla każdej bryły, na którą działa przestrzenny układ sił, zgodnie z (3.2), można
+napisać 6 warunków równowagi. Tak więc warunek statycznej wyznaczalności
+ma postać
+r = 6N .
+Układ „n” tarcz sztywnych.
+Dla każdej tarczy, na którą działa płaski układ sił można napisać 3 liniowo
+niezależne warunki równowagi. Warunek statycznej wyznaczalności ma postać
+r = 3n .
+Układ „w” punktów materialnych.
+Na punkt materialny działa zbieżny układ sił. Dla jednego punktu można więc
+napisać 3 warunki równowagi. Warunek statycznej wyznaczalności ma postać
+r = 3w .
+W przypadku kiedy siły działające na punkt leżą ponadto w jednej płaszczyźnie
+r = 2w .
+Wykorzystanie warunków równowagi do obliczania reakcji zilustrujemy
+kilkoma przykładami.
+Przykład 3.1.
+Znaleźć reakcje w prętach podtrzymujących cienką płytę poziomą jednorodną
+o ciężarze G obciążoną siłą P działającą na kierunku AB. Dane: P = 9 kN,
+G = 6 kN, a = b = 5,0 m, c = 4,0 m, d = 2,0 m (rys.3.3)
+
+Rys.3.3
+Siłami czynnymi działającymi na płytę są siła P oraz G. Siłami biernymi
+(reakcjami) są oddziaływania prętów. Zakładamy, że siły w prętach są
+rozciągające (dążą do wydłużenia pręta) i oznaczamy je Si (i=1,...,6).
+41
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+W sumie mamy sześć warunków równowagi (niezależnych). Analizowany
+układ jest więc układem statycznie wyznaczalnym.
+Warunki równowagi zapisane w przyjętym (rys.3.3.b) układzie
+współrzędnych mają postać:
+1)
+2)
+3)
+4)
+5)
+6)
+Występujące w równaniach funkcje trygonometryczne można łatwo wyznaczyć
+mając dane: a,b,c,d.
+Otrzymany układ równań można zapisać krótko w postaci macierzowej
+:
+gdzie: A jest macierzą kwadratową współczynników przy niewiadomych, s jest
+jednokolumnową macierzą niewiadomych a b macierzą
+jednokolumnową
+współczynników zależnych od obciążenia czynnego.
+Z kursu matematyki wiadomo, że warunkiem istnienia rozwiązania układu
+równań jest różna od zera wartość wyznacznika macierzy A:
+
+Warunek ten może być traktowany jako warunek dostateczny geometrycznej
+niezmienności układu. Dla detA = 0 układ jest geometrycznie zmienny.
+Uwzględniając w równaniach równowagi dane liczbowe, otrzymano
+następujące wartości sił reakcji:
+
+Tutaj znak minus oznacza, że rzeczywisty zwrot siły jest przeciwny do
+założonego (pręt jest ściskany).
+Przykład 3.2.
+Obliczyć reakcje w układzie przedstawionym na rysunku 3.4.
+Dane: G = 10 kN, P = 5 kN, M = 8 kNm, q = 0,5 kN/m, α= π/6.
+42
+
+Rozdział 3. Analityczne metody analizy statycznej konstrukcji
+___________________________________________________________________________
+
+Rys.3.4
+W układzie występują trzy niewiadome: HA ,VA ,S (rys.3.4.b). A ponieważ dla
+płaskiego układu sił można napisać trzy niezależne warunki równowagi,
+analizowany układ jest układem statycznie wyznaczalnym.
+Warunki równowagi mają postać:
+
+1)
+2)
+3)
+Po podstawieniu danych liczbowych mamy:
+HA =3,90kN, VA =3,75kN, S=4,50kN.
+Przykład 3.3.
+Obliczyć reakcje ostoi oraz siły wzajemnego oddziaływania w miejscu
+połączenia tarcz przedstawionych na rysunku 3.5.
+Dane: P = 100 kN, q = 20 kN/m, M = 120 kNm.
+Układ składa się z trzech tarcz, można więc napisać 3∙3 = 9 warunków
+równowagi. Mamy również 9 niewiadomych: HA, VA, VB, HB, RC, HD, VD,
+HE, VE; układ jest układem statycznie wyznaczalnym. Pisząc wprost po trzy
+warunki równowagi dla układów sił działających na poszczególne tarcze,
+otrzymamy do rozwiązania
+układ dziewięciu równań z dziewięcioma
+niewiadomymi. Trudność tę można pokonać, zapisując równania równowagi
+w odpowiedniej kolejności
+.
+a) Warunki równowagi tarczy III
+1)
+2)
+3)
+43
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+b) Warunki równowagi tarczy I i II (rys.3.5.c)
+4)
+5)
+6)
+
+88kN,
+
+W równaniu 6) występują dwie niewiadome, należy więc napisać kolejne
+warunki równowagi.
+
+Rys.3.5
+c) Warunki równowagi tarczy I
+7)
+8)
+9)
+
+44
+
+Rozdział 3. Analityczne metody analizy statycznej konstrukcji
+___________________________________________________________________________
+
+Wracając do równania (6) mamy:
+Dodatkowe warunki równowagi, np. tarczy II, mogą być traktowane jako
+sprawdzenie:
+1)
+2)
+3)
+
+Wniosek.
+Rozkład układu na części składowe pozwala na bilans niewiadomych i liczby
+niezależnych równań równowagi, a więc na stwierdzenie czy dany układ jest
+układem statycznie wyznaczalnym. W przypadku uzyskania odpowiedzi
+pozytywnej warunki równowagi należy zapisywać w takiej kolejności i postaci,
+aby wielkości niewiadomych można było obliczyć w prosty sposób. Wymaga to
+nabrania wprawy, którą uzyskuje się po rozwiązaniu dużej liczby zadań.
+ZADANIA
+Zadanie 1. Obliczyć reakcje w układzie przedstawionym na rys.3.6.
+Dane: P1= 300 kN, P2= 600 kN, α=π /6.
+Odpowiedź:
+
+Rys.3.6
+
+Rys.3.7
+
+Zadanie 2. Obliczyć reakcje w układzie przedstawionym na rys.3.7.
+Dane: P1= 60 kN, P2= 120 kN, q = 48 kN/m.
+Odpowiedź: VA= 57 kN, HA= 28 kN, VB= 3,0 kN, HB= 4,0 kN.
+45
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Zadanie 3. Obliczyć reakcje w belce ciągłej przegubowej przedstawionej na
+rys.3.8. Dane: P1= 12 kN, P2= 20 kN, M = 50 kNm, q = 2 kN/m, α= π/3.
+
+Rys.3.8
+Odpowiedź: RE= 9,66 kN, RC= 47,7 kN, HA= 10 kN, VA= -16,1 kN,
+MA = -177 kNm.
+PYTANIA KONTROLNE
+1. Omówić redukcję ogólnego układu sił do dwóch sił skośnych.
+2. Omówić warunki równowagi ogólnego układu sił.
+3. Podać twierdzenie o równowadze trzech sił.
+4. Jaki układ nazywamy układem statycznie wyznaczalnym ?
+5. Omówić sposób obliczania reakcji w układach statycznie
+wyznaczalnych.
+
+46
+
+Stanisław Pryputniewicz
+___________________________________________________________________________
+
+4. WYKREŚLNE METODY ANALIZY STATYCZNEJ
+KONSTRUKCJI
+4.1. Redukcja płaskiego układu sił
+Wiele z zagadnień dotyczących płaskiego układu sił można rozwiązać
+korzystając nie z omawianych w poprzednich rozdziałach metod analitycznych
+a z odpowiednich metod wykreślnych. Metody wykreślne były w przeszłości
+podstawowym narzędziem statycznej analizy konstrukcji. Obecnie, w wyniku
+znacznego postępu w doskonaleniu metod i narzędzi obliczeniowych, metody
+wykreślne są stosowane rzadko. Wydaje się jednak, że poznanie kilku
+podstawowych konstrukcji wykreślnych powinno znacznie ułatwić zrozumienie
+sensu fizycznego przeprowadzanych analiz.
+W przypadku korzystania z metod wykreślnych pamiętać należy
+o zachowaniu skali długości i skali sił. W skali długości rysujemy schemat
+analizowanego układu konstrukcyjnego, ze szczególnym uwzględnieniem
+rozmieszczenia działających sił (plan sił). We wszystkich konstrukcjach,
+w których wykonujemy działania na siłach, siły rysujemy w skali sił;
+jednostkom siły przyporządkowujemy jednostki długości.
+4.1.1. Redukcja sił zbieżnych
+Zbieżny układ sił (rys.4.1) redukuje się do wypadkowej , której linia działania
+przechodzi przez punkt zbieżności. Wypadkowa
+jest równa wektorowi
+głównemu , który znajdujemy rysując w skali wielobok sił - ciąg wektorów i
+równoległych do wektorów sił. Kolejność rysowania sił jest tutaj dowolna.
+
+Rys.4.1
+W szczególnym przypadku może być tak, że koniec ostatniej siły pokryje się
+na wieloboku sił z początkiem siły pierwszej. Taki wielobok sił nazywamy
+wielobokiem zamkniętym.
+47
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Zamknięcie się wieloboku sił zbieżnych jest warunkiem koniecznym
+i dostatecznym ich równowagi ( = ).
+4.1.2. Redukcja układu sił niezbieżnych. Wielobok sznurowy
+Niech na układ działają trzy siły 1, 2 i 3. Wypadkowa
+tego układu jest
+równa wektorowi głównemu , który znajdujemy rysując wielobok sił (rys.4.2).
+
+Rys.4.2
+Dla określenia położenia wypadkowej, należy znaleźć jeden punkt leżący na
+linii jej działania. W tym celu obok wieloboku sił obieramy dowolny punkt 0
+i łączymy go z początkiem i końcem każdej siły. Otrzymujemy w ten sposób
+odcinki OAi zwane promieniami wieloboku sił. Promienie te, po nadaniu im
+zwrotów, mogą być traktowane jako składowe poszczególnych sił wieloboku,
+tzn.:
+ 1 = 1 + 2 ,
+2=- 2+ 3,
+3=- 3+ 4.
+Siły 1 i 2 przeniesione do dowolnego punktu B1 na kierunku działania siły 1
+tworzą układ równoważny tej sile (dla przejrzystości na rys.4.2 nie naniesiono
+faktycznych długości wektorów i). Podobnie przenosząc siły - 2 i 3 do
+punktu przecięcia prostej 2' z kierunkiem siły 2 (punkt B2) otrzymujemy układ
+sił -S2 i S3 równoważny sile 2. Kontynuując to postępowanie, w punkcie B3
+na kierunku siły 3 zaczepiamy siły - 3 i 4 równoważne sile 3. Proste
+1',2',3',4' na planie sił, równoległe do odpowiednich promieni wieloboku sił,
+nazywamy promieniami wieloboku sznurowego.
+48
+
+Rozdział 4. Wykreślne metody analizy statycznej konstrukcji
+___________________________________________________________________________
+
+Siły 2 i - 2 oraz 3 i - 3 tworzą układy równoważne zeru. Cały układ
+sprowadza się więc do takich dwóch sił 1 i 4, że
+= 1+ 4. Punkt K
+przecięcia się tych sił (promieni 1' i 4') jest szukanym punktem, przez który
+przechodzi linia działania wypadkowej .
+Przy wykreślnej redukcji układu płaskiego możemy spotkać się
+z następującymi przypadkami:
+1. Wielobok sił otwarty, skrajne promienie wieloboku sznurowego
+przecinają się w jednym punkcie (rys.4.2). W tym przypadku, jak
+pokazano wyżej, układ sił ma wypadkową
+= , a wielobok sznurowy
+nazywamy otwartym.
+2. Wielobok sił zamknięty ( = ), skrajne promienie wieloboku
+sznurowego są do siebie równoległe (rys.4.3). Układ ten redukuje się do
+pary sił 1 i 4, którą określają skrajne promienie wieloboku sznurowego.
+I w tym przypadku wielobok sznurowy nazywamy otwartym.
+
+Rys.4.3
+3. Wielobok sił zamknięty ( = ), skrajne promienie wieloboku
+sznurowego leżą na wspólnej prostej (rys.4.4). Układ sił jest w tym
+przypadku w równowadze a wielobok nazywamy zamkniętym.
+
+Rys.4.4
+49
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Z powyższego wynika, że istnieją dwa wykreślne warunki równowagi
+płaskiego układu sił:
+ wielobok sił musi być zamknięty
+ i wielobok sznurowy musi być zamknięty.
+4.2. Zastępowanie jednego układu sił innym jemu równoważnym
+układem
+4.2.1. Rozkładanie siły na dwie składowe o znanych liniach działania
+Siłę rozłożymy na dwie składowe o liniach działania a i b, przecinających się
+z linią działania siły
+w jednym punkcie (rys.4.5). W tym celu rysujemy
+wielobok sił, w którym boki a' i b' są odpowiednio równoległe do a i b. Zwroty
+sił a i b dobieramy tak, aby suma tych sił była równa sile .
+
+Rys.4.5
+Jeżeli linie a i b są równoległe do linii działania siły (rys.4.6), to wstępnie
+siłę rozkładamy na dwa dowolne inne kierunki, np. 1'i 2'. Następnie składową
+1 o kierunku 1' rozkładamy na składowe o liniach działania b i z,
+a składową 2 o kierunku 2' na składowe o liniach działania a i z. Siły na
+kierunku z tworzą zrównoważoną dwójkę sił, a siły a i b są poszukiwanymi
+składowymi siły .
+
+Rys.4.6
+50
+
+Rozdział 4. Wykreślne metody analizy statycznej konstrukcji
+___________________________________________________________________________
+
+Konstrukcja ta to omawiana wcześniej metoda wieloboku sznurowego. Po
+przyjęciu punktu O, promienie 1 i 2 przenosimy równolegle do dowolnego
+punktu B1 na kierunku siły . Brakujący promień z otrzymamy łącząc punkty
+przecięcia promieni 1' i 2' z liniami a i b. Promień ten, przeniesiony równolegle
+na wielobok sił, wyznacza poszukiwane siły a i b. Można pokazać, że taki
+sam wynik otrzyma się przyjmując nie promień zamykający z a drugi
+zmożliwych, tzn. z' (rys.4.6).
+4.2.2. Rozkładanie siły na trzy składowe o znanych liniach działania
+Dana jest siła
+
+oraz trzy proste a, b, c wzdłuż których mają działać siły a, b
+i c będące składowymi siły (rys.4.7).
+
+Rys.4.7
+Znajdujemy najpierw prostą pomocniczą k przechodzącą przez punkty A
+i B, w których przecinają się po dwie dowolnie obrane proste działania sił.
+Następnie rozkładamy znaną siłę na dwie siły c i k o liniach działania
+przecinających się z tą siłą (na rys.4.7 linie c i k). Dalej siłę k, działającą
+wzdłuż prostej pomocniczej k, rozkładamy na pozostałe dwa kierunki.
+Przedstawiona konstrukcja nazywana jest konstrukcją Culmanna a prosta
+pomocnicza prostą Culmanna. Zwroty wektorów a, b i c dobieramy tak aby
+ich suma była równa sile .
+4.2.3. Zastąpienie jednej pary sił inną parą sił
+Dana jest para sił ( ,- ) o liniach działania a i b (rys.4.8). Parę tę należy
+zastąpić parą sił ( ,- ) o znanych liniach działania m i n.
+Siły i - przesuwamy do punktów przecięcia z prostymi m i n (punkty A
+i B). Punkty A i B łączymy prostą z. Siłę zaczepioną w punkcie A rozkładamy
+na dwie składowe i o liniach działania z i m. Podobnie postępujemy z siłą 51
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+. Otrzymane siły i - tworzą dwójkę sił zrównoważonych, a siły
+poszukiwaną parą sił.
+
+i - są
+
+Rys.4.8
+4.3. Wykreślny sposób wyznaczania reakcji
+Omówione metody wykreślnej redukcji układów sił oraz zastępowania jednych
+układów sił innymi układami mogą być wykorzystywane do wyznaczania
+reakcji w wielu konstrukcjach płaskich. W przypadku kiedy będziemy
+poszukiwali nie składowych danej siły a siły ją równoważące, to
+w przedstawionych w poprzednim punkcie konstrukcjach wykreślnych zwroty
+sił należy dobrać tak, aby wielobok sił był zamknięty.
+Sposób wyznaczania reakcji prześledzimy na kilku przykładach.
+W przykładach tych będziemy często korzystali z poznanego w rozdziale
+trzecim twierdzenia o równowadze trzech sił.
+Przykład 4.1.
+Na układ konstrukcyjny, który w odpowiedniej skali przedstawiono na rysunku
+4.9, działa siła P = 45 kN. Należy wyznaczyć reakcje podporowe.
+
+Rys.4.9
+
+52
+
+Rozdział 4. Wykreślne metody analizy statycznej konstrukcji
+___________________________________________________________________________
+
+Dla występujących w układzie podparć przegubowo-przesuwnych znane są
+linie działania reakcji (proste prostopadłe do kierunku możliwego przesuwu).
+Siłę należy więc zrównoważyć trzema siłami o znanych liniach działania: a,b
+i c. Korzystamy tu z konstrukcji Culmanna. Siłę P równoważymy siłami c i k
+a następnie siłę
+
+k rozkładamy na składowe A i B. Wyznaczone w ten
+sposób reakcje oraz siła tworzą zamknięty wielobok sił.
+Przykład 4.2.
+Dla przedstawionego na rys.4.10 układu należy wyznaczyć reakcje A i B.
+Z właściwości występujących podparć wynika, że reakcja A przechodzi
+przez punkt A, a linia działania reakcji B jest prostopadła do kierunku
+możliwego przesuwu (prosta b). Nieznane moduły reakcji oraz nieznany
+kierunek reakcji
+A wyznaczymy korzystając z konstrukcji wieloboku
+sznurowego. W przyjętej skali kreślimy wielobok sił, obieramy biegun 0
+i rysujemy promienie wieloboku sił (1,2,3,4).
+
+Rys.4.10
+Równolegle do nich rysujemy wielobok sznurowy. Ponieważ wiadomo, że
+punkt A leży na linii działania reakcji A to pierwszy z promieni wieloboku
+sznurowego (1') prowadzimy przez ten punkt. Poszukiwany promień z',
+zamykający wielobok sznurowy musi przechodzić przez punkty przecięcia
+skrajnych promieni 1' i 4' z liniami działania reakcji.
+Promień z równoległy do z', wykreślony z punktu 0, dzieli sumę sił czynnych
+na dwie poszukiwane reakcje. Punkt A5 jest punktem przecięcia prostej
+równoległej do znanego kierunku reakcji B i promienia z. Zwroty reakcji A
+i B dobieramy tak, aby otrzymać zamknięty wielobok sił.
+53
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Przykład 4.3.
+Wyznaczyć reakcje w układzie przedstawionym na rysunku 4.11.
+
+Rys.4.11
+Przedstawiony układ jest układem trójprzegubowym z jednym przegubem
+pozornym w nieskończoności. Znane są linie działania reakcji B i C. Linię
+działania reakcji
+
+A otrzymamy analizując warunki równowagi tarczy I. Na
+tarczę tę działają dwie siły - siła A i siła w przegubie D, które w przypadku
+równowagi muszą leżeć na jednej prostej AD. Zadanie sprowadziliśmy do
+zrównoważenia siły trzema siłami o zadanych liniach działania a, b i c.
+Prostą Culmanna przyjęto tutaj łącząc punkt przecięcia linii działania siły
+i prostej a z punktem przecięcia prostych b i c. Ponieważ pomocnicza siła k
+jest równoległa do b i c, przy wyznaczaniu reakcji B i C skorzystano
+z konstrukcji wieloboku sznurowego (promienie 1,2,z').
+W przypadku wielu sił działających na układ można skorzystać z zasady
+superpozycji (można sumować wpływy poszczególnych sił).
+Przykład 4.4.
+Wyznaczyć reakcje
+A,
+B i
+przedstawionego na rysunku 4.12.
+
+C występujące w podporach układu
+
+Przedstawiony układ składa się z trzech tarcz, ostoi i 9 więzów. Tarcze I
+i II połączone są trzema prętami nie przecinającymi się w jednym punkcie; są
+więc układem geometrycznie niezmiennym, który może być traktowany jako
+jedna tarcza. Tarcza ta połączona jest z ostoją trzema więzami o liniach
+działania nie przecinających się w jednym punkcie.
+
+54
+
+Rozdział 4. Wykreślne metody analizy statycznej konstrukcji
+___________________________________________________________________________
+
+Rys.4.12
+Do tak utworzonego nowego układu odniesienia, w sposób geometrycznie
+niezmienny, dołączono tarczę III. Analizę statyczną rozpoczynamy od tej tarczy.
+Na tarczę III działają trzy siły - siła , C i wypadkowa sił w prętach x i y. Siły
+te muszą przecinać się w jednym punkcie (twierdzenie o równowadze trzech
+sił), którym jest punkt E.
+Znając kierunek siły d przystępujemy do analizy układu tarcz I i II, na
+który podobnie jak poprzednio działają trzy siły -
+
+D i B o znanych liniach
+działania oraz A, której linia działania musi przechodzić przez punkt A i punkt
+F, wspólny dla trzech sił. Moduły i zwroty poszukiwanych reakcji otrzymujemy
+z wieloboku sił.
+Chcąc wyznaczyć siły w prętach łączących tarcze, należy rozważyć warunki
+równowagi poszczególnych myślowo wyciętych tarcz.
+W przypadku występowania większej liczby sił czynnych można skorzystać
+z zasady superpozycji.
+ZADANIA
+Zadanie 1. Wyznaczyć wykreślne reakcje w układzie przedstawionym na
+rysunku 4.13.
+
+Rys.4.13
+
+Rys.4.14
+55
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Zadanie 2. Wyznaczyć reakcje w przedstawionym na rysunku 4.14 układzie
+trójprzegubowym.
+Zadanie 3. Wyznaczyć siły we wszystkich prętach układu przedstawionego na
+rysunku 4.15. Skorzystać z zasady superpozycji.
+
+Rys.4.15
+
+Rys.4.16
+
+Zadanie 4. Korzystając z metody wykreślnej, wyznaczyć reakcje podporowe
+i siły w prętach układu przedstawionego na rysunku 4.16.
+PYTANIA KONTROLNE
+1. Jakie są wykreślne warunki równowagi płaskiego zbieżnego układu sił?
+2. Jakie są wykreślne warunki równowagi płaskiego niezbieżnego układu sił?
+3. Omów zagadnienie zwane konstrukcją Culmanna.
+4. Omów zasady konstrukcji wieloboku sznurowego.
+5. Omów zasady wykreślnego wyznaczania reakcji.
+
+56
+
+Stanisław Pryputniewicz
+___________________________________________________________________________
+
+5. WARUNKI RÓWNOWAGI CIAŁA PRZY UWZGLĘDNIENIU
+TARCIA
+
+5.1. Warunki równowagi ciała przy uwzględnieniu tarcia posuwistego
+Dla wyjaśnienia podstawowych właściwości sił tarcia dokonamy analizy
+schematu przedstawionego na rysunku 5.1.
+
+Rys.5.1.
+Doświadczenie uczy, że przy odpowiednio małym obciążeniu płytki
+oporowej A nie nastąpi przesunięcie ciała B po płycie D. Fakt ten można byłoby
+uznać za sprzeczny z II prawem Newtona, według którego już najmniejsza siła
+powinna nadawać ciału przyspieszenie, a więc wywoływać ruch ciała.
+Sprzeczność ta jest jednak pozorna. Wyjaśnimy to analizując układ sił
+działających na myślowo oswobodzone z więzów ciało B.
+Na ciało B działa siła czynna , która jest wypadkową poziomej siły
+pochodzącej od obciążenia płytki A i siły ciężkości ( = + ). Siła czynna
+równoważona jest siłą bierną , która leży na linii działania siły i która
+spełnia warunek równowagi
+
+Siłę , dla wygody analizy, można rozłożyć na dwie składowe:
+normalną do powierzchni stykających się ciał i
+- leżącą w płaszczyźnie
+styczności ciał. Składowa nazywa się reakcją normalną a siła - siłą tarcia
+posuwistego. Wektorowy warunek równowagi (5.1) można zastąpić dwoma
+warunkami skalarnymi:
+
+57
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Zwiększając siłę czynną S dochodzimy do stanu krytycznego, przy którym
+ciało B traci równowagę statyczną i zaczyna poruszać się po płycie D. Siłę tarcia
+odpowiadającą stanowi krytycznemu nazywamy maksymalną siłą tarcia i jej
+wartość oznaczamy Tmax .
+Ciało B znajduje się tak długo w spoczynku jak długo spełniony jest warunek:
+
+Znajomość maksymalnej siły tarcia przy projektowaniu wielu budowli jest
+niezbędna. Przykładowo wymienimy tu takie budowle jak mury oporowe
+i zapory wodne, w których maksymalna siła tarcia musi być większa
+(z odpowiednim współczynnikiem bezpieczeństwa) od sił czynnych dążących
+do przesunięcia budowli.
+Z wystarczającą dokładnością przyjmuje się, że maksymalna siła tarcia jest
+proporcjonalna do składowej normalnej reakcji, tzn.
+
+Bezwymiarowy współczynnik proporcjonalności f, zwany współczynnikiem
+tarcia posuwistego, zależy od rodzaju stykających się ciał (rodzaju
+powierzchni). Jego wielkość ustalana jest doświadczalnie i najczęściej
+podawana jest w tablicach.
+Zwraca się uwagę na to, że równość(5.4) jest słuszna tylko w przypadku
+równowagi krytycznej. W warunkach równowagi statycznej siłę tarcia
+wyznaczamy z równań równowagi.
+Przedstawiony wyżej sposób opisu reakcji R przez składową normalną N do
+powierzchni kontaktu i składową leżącą w płaszczyźnie stycznej T będziemy
+stosowali również w innych od omawianej sytuacjach kontaktu ciał (patrz np.
+rys. 5.2).
+
+Rys.5.2.
+
+58
+
+Rozdział 5. Warunki równowagi ciała przy uwzględnieniu tarcia
+___________________________________________________________________________
+
+Zilustrujemy to na przykładzie tarcia ciał wiotkich.
+Niech wiotka lina opasuje nieruchomy walec kołowy (rys.5.3). Należy
+określić taką siłę naciągu liny P1, która jest wystarczająca do zrównoważenia
+siły Q, przyłożonej do drugiego końca liny, jeśli uwzględni się tarcie między
+liną a walcem. Doświadczenie uczy, że dzięki tarciu siła P1 może być dużo
+mniejsza od siły Q.
+
+Rys.5.3.
+Ponieważ postawione zadanie dotyczy stanu krytycznego, w którym małe
+zwiększenie siły Q powoduje ruch liny po powierzchni walca (zgodnie z ruchem
+wskazówek zegara), można przyjąć, że siła tarcia jest proporcjonalna do
+składowej normalnej. Składowa normalna reakcji i siła tarcia rozłożone są w
+sposób ciągły na całej długości r. Oznaczmy przez N i T wektory tych sił
+odniesione do jednostki długości liny. Siły te są funkcjami kąta , tj.
+N=N(), T= f N(). Siła naciągu w linie w dowolnym miejscu na walcu jest
+również funkcją kąta : S = S().
+Układ sił działających na myślowo oswobodzony z więzów element liny
+ds=rd przedstawiono na rysunku 5.3.b. Pominięto tutaj ciężar własny liny.
+Warunki równowagi tych sił (sumy rzutów na kierunki i ) mają postać:
+
+Jest to układ dwóch równań różniczkowych. Podstawiając dalej:
+
+59
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+po elementarnych przekształceniach otrzymujemy następujące równanie
+różniczkowe:
+
+Po scałkowaniu w przedziale
+brzegowych
+
+i po uwzględnieniu warunków
+
+ostatecznie otrzymujemy
+Można również postawić pytanie odwrotne: jaka potrzebna jest siła P2 aby
+pokonać siłę Q oraz tarcie? Zmieniając na rysunku 5.3.b kierunek siły tarcia T
+i przeprowadzając podobne rozumowanie jak wyżej, otrzymuje się
+
+Tak więc warunek statycznej równowagi liny można zapisać następująco:
+
+5.2. Warunki równowagi ciała przy uwzględnieniu tarcia tocznego
+Rozpatrzmy walec, który może toczyć się po poziomej powierzchni i na który
+działa pozioma siła czynna S. Oprócz siły S na walec działają jeszcze: siła
+ciężkości Q oraz reakcja podłoża o składowych N i T. Przykładając reakcję
+w punkcie kontaktu C tak jak na rys.5.4.a, widzimy, że tak przyjęty układ sił nie
+spełnia warunków równowagi (suma momentów jest różna od zera).
+Doświadczenie uczy jednak, że przy dostatecznie małej sile S walec pozostaje
+w równowadze.
+
+Rys.5.4
+60
+
+Rozdział 5. Warunki równowagi ciała przy uwzględnieniu tarcia
+___________________________________________________________________________
+
+Sprzeczność tą można wyjaśnić rezygnując z założenia o absolutnej
+sztywności stykających się ciał i przyjmując układ sił jak na rys. 5.4.b lub jemu
+równoważnym rys. 5.4.c.
+Moment
+nazywa się momentem tarcia tocznego.
+Warunki równowagi walca mają teraz postać:
+
+Można z nich wyznaczyć poszukiwane wartości N, T, MT .
+Równowaga statyczna walca zachowana jest do momentu
+
+Wielkość
+nazywa się współczynnikiem tarcia tocznego i ma wymiar
+długości.
+Z równań (5.12) i (5.10) wynika, że maksymalny moment tarcia tocznego
+jest proporcjonalny do siły normalnej (do siły nacisku walca).
+Warunek równowagi statycznej walca (5.12) można zapisać również
+w postaci:
+lub po uwzględnieniu (5.11)3 w postaci:
+Przykład 5.1.
+Na chropowatej powierzchni nachylonej do poziomu pod kątem = /6
+znajduje się ciało o masie m = 20 kg. Ciało to utrzymywane jest na powierzchni
+liną AB (nieważką). Określić siłę tarcia T między ciałem a powierzchnią
+i minimalny naciąg liny S dla dwóch wartości współczynnika tarcia:
+f1 = 0,8 i f2 = 0,2 (rys.5.5).
+
+Rys.5.5.
+61
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Na analizowane ciało działają następujące siły: siła ciężkości Q = mg,
+reakcja liny S oraz reakcja podłoża, którą przedstawiamy przez dwie składowe
+T i N (rys.5.5.b). Warunki równowagi mają postać:
+mg sin- T - S = 0,
+N - mg cos= 0.
+Dodatkowo spełniony musi być warunek
+T fN .
+Z powyższych trzech zależności wyznaczamy trzy nieznane siły: T, S, N.
+Dla f1 = 0,8 mamy: T = 100 N; S = 0; N = 173,21 N,
+a dla f2 = 0,2: T = 34,6 N; S = 63,4 N; N = 173,21 N.
+Przykład 5.2.
+Obliczyć dla jakich wartości siły P działającej na prostopadłościenny blok
+(rys.5.6) spełnione są warunki stateczności bloku. Przyjąć następujące dane:
+h = 0,8 m, b = 0,6 m, masa bloku m = 200 kg, = /6, współczynnik tarcia
+między blokiem a podłożem f = 0,2.
+
+Rys.5.6.
+Ruch bloku może nastąpić w dwóch przypadkach:
+a) w przypadku poślizgu bloku po podłożu (rys. 5.6.b),
+b) w przypadku obrotu dookoła punktu A (rys. 5.6.c).
+Dla pierwszego przypadku warunki równowagi sił mają postać
+P cos- T = 0,
+N + P sin- mg = 0.
+
+(a)
+
+W przypadku równowagi granicznej spełniona też jest równość
+T=fN.
+62
+
+(b)
+
+Rozdział 5. Warunki równowagi ciała przy uwzględnieniu tarcia
+___________________________________________________________________________
+
+Z rozwiązania powyższych równań mamy:
+
+Jeżeli zostanie przekroczona wartość tej siły, to rozpocznie się poślizg po
+podłożu.
+W przypadku obrotu dookoła punktu A do warunków (a) i (b) dochodzi
+jeszcze warunek równowagi momentów względem punktu A:
+Stąd mamy:
+
+Po przekroczeniu tej wartości nastąpi obrót względem punktu A.
+ZADANIA
+Zadanie 1. Płyta jednorodna AB o masie m i długości l opiera się o idealnie
+gładką ścianę OB i chropowatą podłogę OA. Określić przy jakim kącie
+nachylenia płyty możliwa jest jej równowaga, jeżeli współczynnik tarcia płyty
+i podłogi wynosi f (rys.5.7).
+Odpowiedź:
+
+Rys.5.7.
+
+Rys.5.8.
+
+Zadanie 2. Do jednorodnego prostopadłościanu I o masie M, stojącego na
+chropowatej poziomej powierzchni II, przystawiono pod kątem jednorodną
+belkę III o masie m i długości 2l. Współczynnik tarcia między belką
+a powierzchnią II wynosi f1, między prostopadłościanem a powierzchnią II - f2,
+a między belką a prostopadłościanem f3= 0. Określić warunki równowagi
+całego układu (rys.5.8).
+63
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Odpowiedź:
+
+Zadanie 3. Jaką siłę działania statku P pokona marynarz trzymający linę z siłą
+Q = 0,5 kN przy następującym nawinięciu jej na boje cumownicze:
+a) jeden raz (rys. 5.9),
+b) dwa razy,
+c) trzy razy.
+Jedno owinięcie walca wynosi około . Przyjąć f = 0,2.
+Odpowiedź: a) P = 4,04 kN, b) P = 32,07 kN, c) P = 264,0 kN
+
+Rys.5.9.
+Zadanie 4. Obliczyć kąt opasania walca liną, potrzebny do utrzymania siłą
+P=2kN ciężaru Q = 20 kN, jeśli współczynnik tarcia wynosi f = 0,2.
+Odpowiedź: = 11,5 rd.
+Zadanie 5. Na powierzchni nachylonej do poziomu pod kątem znajduje się
+walec o promieniu r. Dla jakich kątów nachylenia walec będzie znajdować się w
+stanie równowagi statycznej. Współczynnik tarcia posuwistego wynosi f,
+a tarcia tocznego .
+Odpowiedź:
+
+PYTANIA KONTROLNE
+1. Omówić warunki równowagi ciała przy uwzględnieniu tarcia
+posuwistego.
+2. Podać warunki stateczności dowolnie obciążonego prostopadłościanu
+ustawionego na poziomym podłożu.
+3. Omówić warunki równowagi walca przy uwzględnieniu tarcia tocznego.
+
+64
+
+Stanisław Pryputniewicz
+___________________________________________________________________________
+
+6. SIŁY WEWNĘTRZNE W KONSTRUKCJACH PRĘTOWYCH.
+KRATOWNICE
+6.1. Definicja sił wewnętrznych
+Rozważmy bryłę materialną obciążoną układem sił
+będącym w równowadze. Do sił tych zaliczamy zarówno siły czynne jak i bierne
+(rys.6.1).
+
+Rys.6.1
+Przetnijmy myślowo bryłę dowolną płaszczyzną α na dwie części A i B
+(rys.6.1.b). Na płaszczyźnie przekroju wystąpią rozłożone w sposób ciągły
+wektory wzajemnych oddziaływań oddzielonych części, które
+możemy
+zredukować do wektora głównego i momentu głównego . Za punkt redukcji
+najczęściej przyjmuje się środek przekroju α-α. Tak więc oddziaływanie części
+B na część A zastępujemy wektorami
+zaczepionymi w punkcie C
+(rys.6.1.c). Podobnie oddziaływanie części A na część B zastępujemy
+wektorami
+. Na podstawie trzeciego prawa Newtona wektory te mają
+taką samą wartość i ten sam kierunek jak w poprzednim przypadku, lecz zwroty
+przeciwne.
+Każda z dwóch odciętych części bryły musi być, podobnie jak cała bryła,
+również w równowadze. O ile znamy wszystkie siły zewnętrzne (czynne
+i bierne), to z sześciu równań równowagi zapisanych dla jednej z odciętych
+części bryły można wyznaczyć sześć wielkości niewiadomych: trzy składowe
+wektora głównego
+i trzy składowe momentu głównego . Wielkości te,
+reprezentujące wzajemne oddziaływanie odciętych myślowo części bryły,
+nazywamy siłami wewnętrznymi.
+65
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+6.2. Siły wewnętrzne w konstrukcjach prętowych
+W praktyce mamy do czynienia przeważnie z bryłami o kształtach regularnych.
+W konstrukcjach inżynierskich występują często elementy konstrukcyjne,
+których rozmiary poprzeczne są małe w porównaniu z ich długością. Zgodnie
+z wcześniejszymi ustaleniami, elementy takie nazywamy prętami, a ich zespoły
+układami prętowymi. Teoretycznym modelem pręta jest linia, która jest
+miejscem geometrycznym środków figur płaskich, jakimi są przekroje
+poprzeczne pręta (przekroje prostopadłe do osi pręta).
+W tak zdefiniowanych konstrukcjach prętowych przyjmujemy, że
+zredukowanego układu sił wewnętrznych szukać będziemy zawsze w przekroju
+poprzecznym pręta, a środkiem redukcji będzie zawsze środek ciężkości pola
+przekroju poprzecznego, a więc punkt leżący na osi pręta. Zredukowany układ
+wektorów
+zapisać możemy w dowolnie przyjętym układzie
+współrzędnych. W praktyce przyjmuje się lokalny układ współrzędnych {xi}
+o początku w środku ciężkości pola przekroju α-α tak, aby oś x1 była normalna
+do płaszczyzny α-α (rys.6.2).
+
+Rys.6.2
+Poszczególne składowe wektorów
+nazywamy siłami wewnętrznymi
+(przekrojowymi), a biorąc pod uwagę efekt ich działania, dodatkowo określamy
+je następująco:
+– siła normalna (podłużna),
+siła poprzeczna (tnąca) w kierunku osi x2 ,
+siła poprzeczna (tnąca) w kierunku osi x3 ,
+moment skręcający,
+moment zginający względem osi x2 ,
+moment zginający względem osi x3 (rys.6.2).
+66
+
+Rozdział 6. Siły wewnętrzne w konstrukcjach prętowych. Kratownice
+___________________________________________________________________________
+
+W teorii konstrukcji prętowych obciążenia sprowadza się do punktów osi
+ciężkości pręta. Jeżeli wszystkie siły zewnętrzne leżą w jednej płaszczyźnie, to
+występuje płaski układ obciążenia. Na rysunku 6.3 przedstawiono płaski układ
+obciążenia pręta siłami skupionymi i rozłożonymi w sposób ciągły oraz
+momentami skupionymi i rozłożonymi w sposób ciągły. W tym przypadku siły
+wewnętrzne redukują się do:
+- siły normalnej N,
+- jednej siły poprzecznej Q,
+- jednego momentu zginającego M (rys.6.3.b).
+
+Rys.6.3
+Znakowanie sił wewnętrznych związane jest z przyjętym układem
+współrzędnych. W praktyce dążymy jednak do tego, by zasada znakowania była
+niezależna od przyjętego układu współrzędnych.
+Zasadę taką można zastosować tylko do znakowania siły normalnej,
+której dodatnia wartość oznacza rozciąganie pręta (rys.6.4.a).
+
+Rys.6.4
+67
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+W płaskich układach prętowych przyjmuje się, że dodatnia siła poprzeczna
+usiłuje obrócić odciętą część pręta zgodnie z ruchem wskazówek zegara
+(rys.6.4.b).
+Dla momentu zginającego przyjmuje się zasadę, że dodatni moment
+wywołuje rozciąganie dolnych włókien pręta (rys.6.4.c). W przypadku prętów
+pochyłych przed przystąpieniem do obliczeń zaznacza się linią przerywaną te
+włókna, które umownie uważamy za "dolne".
+Siły wewnętrzne w wielu układach prętowych mogą być wyznaczone
+z warunków równowagi myślowo odciętych części układu. O układach takich
+mówimy, że są one układami statycznie wewnętrznie wyznaczalnymi.
+Dla rzeczywistych odkształcalnych konstrukcji warunki równowagi należy
+zapisywać w aktualnej konfiguracji (konfiguracji po deformacji). Prowadzi to do
+bardzo złożonych zadań. Problem ten upraszcza się znakomicie, gdy
+przyjmiemy, że przemieszczenia konstrukcji są bardzo małe. Założenie to jest
+dla większości konstrukcji uzasadnione, gdyż w technice wymagamy na ogół
+ich dużej sztywności. Wyjątek stanowią
+tu
+konstrukcje cięgnowe
+i pneumatyczne. Założenie małych przemieszczeń pozwala zaniedbać
+rozróżnianie konfiguracji przed i po odkształceniu. Inaczej mówiąc, przy
+układaniu równań równowagi pręty traktujemy jak ciała sztywne zajmujące pod
+obciążeniem konfigurację początkową. Stwierdzenie powyższe stanowi treść tak
+zwanej zasady zesztywnienia.
+W praktyce spotyka się bardzo różnorodne konstrukcje prętowe. Ich
+nazewnictwo kształtowało się na przestrzeni stuleci. Najczęściej spotykane
+układy prętowe to: kratownica, belka, łuk, rama, cięgno, ruszt. Układy te będą
+przedmiotem szczegółowej analizy prowadzonej w ramach nauczania
+wytrzymałości materiałów i mechaniki budowli.
+W dalszej części omówimy jedynie dokładniej metody wyznaczania sił
+wewnętrznych w statycznie wyznaczalnych kratownicach oraz ogólne zasady
+wyznaczania sił wewnętrznych w tych statycznie wyznaczalnych układach
+prętowych, w których płaszczyzna obciążenia pokrywa się z płaszczyzną układu
+(belki, ramy, łuki).
+6.3. Układy kratowe (kratownice)
+6.3.1. Wprowadzenie
+Kratownicą nazywamy układ prostoliniowych prętów pryzmatycznych (o stałym
+przekroju) połączonych ze sobą w węzłach za pomocą pozbawionych tarcia
+przegubów. Przyjmujemy dodatkowo, że obciążenie zewnętrzne działa
+wyłącznie w postaci sił skupionych przyłożonych w węzłach (rys.6.5).
+
+68
+
+Rozdział 6. Siły wewnętrzne w konstrukcjach prętowych. Kratownice
+___________________________________________________________________________
+
+Rys.6.5
+W podanej wyżej definicji nie zostało bliżej sprecyzowane wzajemne
+rozmieszczenie prętów kratownicy. Możliwa jest zatem nieskończona
+różnorodność struktur geometrycznych kratownic. Ograniczając się do
+kratownic płaskich, dokonamy ogólnego ich podziału na:
+- kratownice o strukturze prostej, które powstają z trójkąta wyjściowego drogą
+tworzenia węzłów przez kolejne dołączanie dwóch prętów nie leżących na
+jednej prostej (rys.6.5.a),
+- kratownice o strukturze złożonej, które nie dadzą się zbudować w wyżej
+opisany sposób (rys.6.5.b).
+
+Rys.6.6
+W prętach kratownicy występują tylko siły normalne stałe na całej długości
+pręta. Zgodnie z przyjętymi wcześniej zasadami znakowania, siły te będziemy
+uważali za dodatnie, jeżeli będą one rozciągały pręt. Dodatnie zwroty sił
+działających na węzły i wybrany pręt zaznaczono na rys.6.6.
+6.3.2. Analiza kinematyczna kratownic
+Z uwagi na dużą różnorodność struktur, istotnego znaczenia nabiera badanie
+geometrycznej niezmienności kratownic (analiza kinematyczna). O ile
+sprawdzenie warunku koniecznego jest tu proste, to sprawdzenie warunku
+dostatecznego geometrycznej niezmienności może być bardzo złożone.
+Jeżeli mielibyśmy w przestrzeni w węzłów wzajemnie niezwiązanych, to
+posiadałyby one 3w stopni swobody. Należałoby zatem dla ich unieruchomienia
+wprowadzić 3w więzów. Jeśli dwa węzły połączymy prętem, to odbierzemy im
+69
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+jeden stopień swobody. Liczba wszystkich więzów wewnętrznych jest równa
+liczbie prętów p. Podpory odbierają układowi kratowemu r stopni swobody.
+Łączna liczba więzów wewnętrznych i zewnętrznych wynosi zatem (p+r).
+Zależność
+p + r ≥3w
+jest warunkiem koniecznym geometrycznej niezmienności kratownicy
+przestrzennej, przy czym dla unieruchomienia kratownicy musi być r ≥6.
+W przypadku kratownic płaskich każdy węzeł ma dwa stopnie swobody
+i warunek konieczny geometrycznej niezmienności ma postać
+p + r ≥2w ,
+
+przy r ≥3.
+
+Spełnienie powyższych warunków nie gwarantuje jeszcze geometrycznej
+niezmienności, o której decyduje nie tylko odpowiednia liczba prętów i więzów
+podporowych, lecz także ich rozmieszczenie. Można pokazać, że warunek
+dostateczny geometrycznej niezmienności spełniają kratownice o strukturze
+prostej. Uzasadnienie tego stwierdzenia oraz sposób badania geometrycznej
+niezmienności kratownic o strukturze złożonej przedstawiono w rozdziale 10.
+Sprawdzenie warunku dostatecznego można dokonać również poprzez zbadanie wyznacznika układu równań równowagi węzłów (patrz punkt 3.3).
+6.3.3. Analiza statyczna kratownic
+Każdy z węzłów kratownicy jest w równowadze pod wpływem sił zewnętrznych
+i sił w prętach, tworzących zbieżny układ sił. Możemy zatem ułożyć po trzy
+równania równowagi dla każdego węzła; łącznie możemy ułożyć 3w równań.
+Niewiadomymi są siły w prętach i reakcje. Liczba niewiadomych wynosi (p+r).
+Wynika stąd wniosek, że w przypadku kratownic geometrycznie niezmiennych
+warunkiem statycznej wyznaczalności kratownicy przestrzennej jest zależność
+p + r = 3w .
+Dla kratownic płaskich mamy odpowiednio:
+p + r = 2w .
+Siły w prętach kratownic statycznie wyznaczalnych wyznaczamy
+korzystając tylko z warunków równowagi. Dalej zajmować się będziemy
+kratownicami płaskimi. W zależności od sposobu korzystania z warunków
+równowagi istnieje kilka metod wyznaczania sił w prętach kratownic.
+Spośród metod analitycznych omówimy:
+- metodę zrównoważenia węzłów,
+- metodę Rittera - równoważenie odciętych części kratownicy.
+Do metod wykreślnych należą:
+- metoda Cremony - graficznego równoważenia węzłów,
+- metoda Culmanna - graficznego równoważenia odciętych części kratownicy.
+70
+
+Rozdział 6. Siły wewnętrzne w konstrukcjach prętowych. Kratownice
+___________________________________________________________________________
+
+6.3.3.1. Metoda zrównoważenia węzłów
+Metoda polega na ułożeniu dla każdego z węzłów równań równowagi przez
+rzutowanie sił na dwie nierównoległe proste, na przykład Pix= 0, Piy= 0.
+Otrzymamy zatem 2w równań, co równa się łącznej liczbie niewiadomych sił w
+prętach i składowych reakcji (p+r). Taki sposób postępowania, formalnie prosty
+i możliwy do zastosowania dla każdej kratownicy statycznie wyznaczalnej,
+prowadzi do znacznej liczby równań liniowych.
+Okazuje się jednak, że zapisując warunki równowagi węzłów
+w odpowiedniej kolejności i wyznaczając każdorazowo po dwie niewiadome,
+można uniknąć rozwiązywania dużych układów równań.
+Przykład 6.1.
+Jako przykład rozważmy kratownicę przedstawioną na rysunku 6.7.
+
+Rys.6.7
+Zauważmy, że składowe reakcji można wyznaczyć niezależnie z trzech warunków
+równowagi kratownicy jako tarczy sztywnej:
+1)
+2)
+3)
+Dalej zapisujemy warunki równowagi tego węzła, w którym są co najwyżej dwie
+niewiadome. Węzłami takimi są węzły 1 i 5.
+71
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Węzeł 1
+
+Węzeł5
+
+Teraz przystępujemy do zapisania warunków równowagi kolejno węzłów 4 i 3.
+Węzeł 4
+
+Węzeł 3
+W tym momencie mamy obliczone wszystkie 10 niewiadomych (skorzystaliśmy
+z 10 równań równowagi). Pozostałe warunki równowagi węzłów mogą być
+traktowane jako sprawdzenie poprawności obliczeń.
+Węzeł 3
+.
+Węzeł 2
+
+Ważnym ułatwieniem jest szybkie rozpoznanie w kratownicy prętów,
+w których siły są równe zeru (tak zwanych prętów zerowych).
+Jeżeli w węźle nieobciążonym zbiegają się tylko dwa pręty o różnych
+kierunkach, to obydwa są zerowe. Ponadto jeżeli w węźle nieobciążonym
+zbiegają się trzy pręty, z których dwa leżą na jednej prostej, to siła
+w pozostałym pręcie równa się zeru.
+6.3.3.2. Metoda Rittera
+Siły w prętach możemy również wyznaczyć rozpatrując równowagę
+wyodrębnionych części kratownicy. Ten sposób postępowania jest szczególnie
+korzystny wówczas gdy chcemy obliczyć siły tylko w wybranych prętach.
+Prześledzimy to na przykładzie.
+72
+
+Rozdział 6. Siły wewnętrzne w konstrukcjach prętowych. Kratownice
+___________________________________________________________________________
+
+Przykład 6.2.
+Należy wyznaczyć siły w prętach kratownicy przedstawionej na rys.6.8 i
+zaznaczonych przekrojami
+
+Rys.6.8
+Na odciętą przekrojem
+(rys.6.8.c) prawą część kratownicy działają siły
+zewnętrzne i niewiadome siły w prętach: N4-3, N4-8, N9-8. Gdybyśmy warunki
+równowagi tej części kratownicy zapisali w postaci
+otrzymalibyśmy układ trzech równań z trzema niewiadomymi. Układając trzy
+równania sumy momentów względem punktów 8, 5 i 4, otrzymujemy równania
+niezależne, każde z jedną niewiadomą. Punkty 8, 5 i 4, zwane punktami Rittera,
+leżą na przecięciu dwu spośród trzech prętów, przez które prowadziliśmy
+przekrój.
+Warunki równowagi mają postać:
+
+Jeżeli wcześniej z warunków równowagi całej kratownicy wyznaczymy reakcje
+
+73
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+to poszukiwane siły w prętach wynoszą:
+
+Ten sam wynik otrzymalibyśmy rozpatrując równowagę lewej odciętej
+przekrojem
+części kratownicy.
+Postępując podobnie, możemy obliczyć siły w innych prętach kratownicy,
+np. określonych przekrojem
+. Warunki równowagi lewej odciętej
+przekrojem
+części kratownicy mają postać (rys.6.8.b):
+
+Stąd:
+6.3.3.3. Metoda Cremony
+Metoda Cremony jest wykreślnym odpowiednikiem metody analitycznego
+równoważenia węzłów. Sporządzając wieloboki sił dla poszczególnych węzłów
+(rys.6.9.b,c), otrzymamy kolejno poszukiwane siły. Zauważmy, że każda siła
+wewnętrzna występuje w rysowanych wielobokach dwa razy. Można więc te
+wieloboki złączyć w jedną figurę, w której każda siła wewnętrzna będzie
+występować tylko jeden raz. Figurę taką nazywamy planem sił Cremony.
+Przy jego sporządzaniu zasadą jest umieszczenie sił w poszczególnych
+wielobokach w takiej kolejności, w jakiej napotykamy je obiegając węzeł
+w ustalonym kierunku (w prezentowanym przykładzie - zgodnie z ruchem
+wskazówek zegara). W takiej samej kolejności należy składać siły budując
+wielobok sił zewnętrznych.
+Przykład 6.3.
+Sposób postępowania ilustruje plan sił Cremony sporządzony dla kratownicy
+przedstawionej na rysunku 6.9.
+Reakcje podpór obliczono analitycznie.
+Dla ułatwienia wszystkie pola kratownicy oraz pola między siłami
+zewnętrznymi opisujemy małymi literami od a do j. Na wieloboku sił będziemy
+oznaczać początek siły literą pola, które jest przed siłą, natomiast koniec siły
+literą pola, które jest za siłą, przy czym "przed" i "za" wyznacza obrót
+wskazówek zegara.
+Podstawą wspólnego wieloboku sił jest wielobok sił zewnętrznych a-b-c-d-e-a
+(rys.6.9.d).
+74
+
+Rozdział 6. Siły wewnętrzne w konstrukcjach prętowych. Kratownice
+___________________________________________________________________________
+
+Rys.6.9
+Znajdywanie sił wewnętrznych rozpoczynamy od tego węzła, w którym są co
+najwyżej dwie niewiadome (w przykładzie węzeł 1). Kolejność dodawania sił
+zgodną z ruchem wskazówek zegara oznaczono na rys.6.9.a łukiem. Z punktu b
+(koniec wektora
+) rysujemy kierunek siły N1-5 a z punktu a (początek
+) - kierunek siły N1-2. Przecięcie obu prostych wyznacza punkt f.
+Zwrot sił nanosimy na odpowiednie pręty kratownicy zgodnie z kierunkiem
+poruszania się po wieloboku sił (zwroty te rysujemy przy węźle 1).
+wektora
+
+75
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Zauważmy, że siła Na-f (N1-5) działa do węzła, jest więc siłą ściskającą
+(znak "-"), natomiast siła Nf-a (N1-2) działa od węzła, a zatem jest siłą
+rozciągającą (znak "+").
+Kolejno rozważamy węzeł 2. Na planie Cremony mamy już narysowane siły
+e-a i a-f. Przecięcie kierunków sił w prętach 2-5 i 2-3 wyznacza punkt g. Dalej
+przechodzimy do następnych węzłów, wyznaczając siły przekrojowe kratownicy.
+Sprawdzeniem poprawności konstrukcji jest zamknięcie się, z dokładnością
+wynikającą z przyjętej skali, planu sił.
+6.3.3.4. Metoda Culmanna
+Metoda Culmanna odpowiada analitycznej metodzie Rittera. Znajduje ona
+zastosowanie wówczas, gdy należy wyznaczyć siły w określonych prętach
+kratownicy.
+Przykład 6.4.
+Wykorzystanie metody Culmanna prześledzimy na przykładzie kratownicy
+przedstawionej na rysunku 6.10.
+
+Rys.6.10
+Wyznaczymy siły w prętach, które zostały przecięte przekrojem α-α. Lewa
+odcięta część kratownicy pozostaje w równowadze pod działaniem siły i sił
+w prętach:
+. Zadanie polega na zrównoważeniu znanej siły
+przez trzy
+siły o danych nie przecinających się w jednym punkcie prostych działania.
+Zadanie to omówione zostało szczegółowo w rozdziale czwartym.
+
+76
+
+Rozdział 6. Siły wewnętrzne w konstrukcjach prętowych. Kratownice
+___________________________________________________________________________
+
+Metoda Culmanna może spełniać rolę pomocniczą w przypadku, gdy
+zbudowanie planu Cremony nie jest bezpośrednio możliwe.
+ZADANIA
+Zadanie 1. Korzystając z metody równoważenia węzłów, obliczyć siły
+w prętach kratownicy przestrzennej przedstawionej na rysunku 6.11. Siła
+P=4,0kN działa wzdłuż prostej AB. Zapisać warunki równowagi sił w węzłach
+A i C.
+
+Rys.6.11
+Odpowiedź: N1= -2,99 kN, N2= 2,12 kN, N3= -3,99 kN,
+N4= 2,65 kN, N5= -2,65 kN, N6= 3,44 kN.
+Zadanie 2. Obliczyć siły w prętach kratownic przedstawionych na rys.6.12.
+Poprawność obliczeń sprawdzić metodą graficzną Cremony.
+
+Rys.6.12
+77
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Zadanie 3. Korzystając z metody Rittera, obliczyć siły w zaznaczonych prętach
+kratownicy przedstawionej na rysunku 6.13. Poprawność obliczeń sprawdzić
+metodą Culmanna.
+
+Rys.6.13
+PYTANIA KONTROLNE
+1. Podaj definicję sił wewnętrznych.
+2. Podaj nazwy i sposób działania sił wewnętrznych (przekrojowych)
+w pręcie.
+3. Co to znaczy, że konstrukcja prętowa jest statycznie wyznaczalna ?
+4. Omów tzw. "zasadę zesztywnienia".
+5. Co to jest kratownica ?
+6. Podaj oraz omów warunek konieczny geometrycznej niezmienności
+kratownic.
+7. Omów metodę zrównoważenia węzłów i metodę Rittera.
+8. Omów metodę Cremony.
+
+78
+
+Stanisław Pryputniewicz
+___________________________________________________________________________
+
+7. SIŁY WEWNĘTRZNE W KONSTRUKCJACH PRĘTOWYCH
+WYKRESY SIŁ WEWNĘTRZNYCH
+
+7.1. Obliczanie sił wewnętrznych w układach statycznie wyznaczalnych
+W poprzednim rozdziale, po zdefiniowaniu sił wewnętrznych, stwierdziliśmy,
+że siły te w statycznie wyznaczalnych konstrukcjach prętowych mogą być
+wyznaczone przez badanie warunków równowagi myślowo wydzielonej części
+konstrukcji. Bardziej szczegółowo zajmowaliśmy się tam układami kratowymi,
+w których siły wewnętrzne redukują się do sił normalnych. W ramach
+niniejszego rozdziału przykładami zilustrujemy sposób obliczania sił
+wewnętrznych w takich płaskich układach prętowych, w których siły
+wewnętrzne opisane są pełnym zestawem: siłą normalną, siłą tnącą i momentem
+zginającym.
+Przykład 7.1.
+Wyznaczyć siły wewnętrzne w przekroju α-α belki przedstawionej na rysunku
+7.1, przyjmując x = 0,5 l.
+
+Rys.7.1
+79
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Rozpatrując warunki równowagi sił działających na lewą myślowo odciętą
+część belki (rys.7.1.c), otrzymujemy:
+∑Px = -Pcosβ + N(x) = 0 , stąd N(x) = Pcosβ,
+∑Py = -Psinβ - Q(x) = 0 , stąd Q(x) = -Psinβ,
+(7.1)
+∑Mα = -Psinβ∙x - M(x) = 0 , stąd M(x) = -Psinβ∙x ,
+a po podstawieniu x = 0,5 l:
+Nα = Pcosβ, Qα = -Psinβ, Mα = -0,5Plsinβ.
+Łatwo można sprawdzić, że taki sam wynik otrzymuje się, rozpatrując
+warunki równowagi drugiej odciętej części belki (rys.7.1.d), po uprzednim
+obliczeniu reakcji z warunków równowagi całej belki (rys.7.1.b).
+7.2. Siły wewnętrzne jako funkcje położenia przekroju poprzecznego
+Jak się później okaże siły wewnętrzne będą miały istotne znaczenie w procesie
+projektowania, to znaczy przy dobieraniu materiału, odpowiednich wymiarów
+przekroju
+itp.
+Stąd
+też
+nasuwa
+się
+konieczność
+określenia
+najniekorzystniejszego układu N, Q, M, co będzie możliwe po określeniu sił
+przekrojowych w każdym przekroju poprzecznym konstrukcji. Możliwość taką
+otrzymamy budując funkcje, w których zmienną niezależną x będzie położenie
+przekroju poprzecznego, a zmiennymi zależnymi odpowiednio siła podłużna
+N(x), siła poprzeczna Q(x) i moment zginający M(x).
+W świetle tego, równania sił wewnętrznych dla belki analizowanej
+w przykładzie 7.1 otrzymujemy, przyjmując w relacji (7.1) 0≤x≤l. Analiza
+otrzymanych sił przekrojowych będzie znacznie wygodniejsza, jeśli narysujemy
+obraz geometryczny funkcji ich zmienności.
+Celem sporządzenia wykresów sił przekrojowych musimy przyjąć układ
+współrzędnych, do którego odniesiemy poszczególne wykresy. Mamy już
+przyjętą oś x. Pozostaje jeszcze przyjąć osie zmiennych zależnych N, Q, M. Na
+dobrą sprawę wszystko jedno jak przyjmiemy te osie (ich zwroty), jeśli na
+rysunku zaznaczymy znaki sił wewnętrznych. Jedynie, ze względów
+praktycznych, w stosunku do wykresu momentów zginających M(x) poczynimy
+umowę następującą:
+Rzędne funkcji M(x) odkładać będziemy po stronie włókien rzeczywiście
+rozciąganych, tzn. jeżeli M>0 - to po stronie umownie przyjętych włókien
+"dolnych", a jeżeli M<0 - to po stronie przeciwnej.
+Wykresy sił wewnętrznych dla belki analizowanej w przykładzie 7.1
+przedstawiono na rysunkach 7.1.e,f,g.
+
+80
+
+Rozdział 7. Siły wewnętrzne w konstrukcjach prętowych. Wykresy sił wewnętrznych
+___________________________________________________________________________
+
+Przykład 7.2.
+Sporządzić wykresy sił wewnętrznych dla belki przedstawionej na rysunku 7.2.a.
+
+Rys.7.2
+Z warunków równowagi sił działających na cały układ (rys.7.2.b) obliczamy
+reakcje
+
+Dokonujemy myślowego rozcięcia belki przekrojem usytuowanym
+w odległości x (0 < x < l) od lewej podpory. Na płaszczyznach przekroju α-α
+występują siły wewnętrzne N(x), Q(x), M(x). W celu wyznaczenia tych sił
+zbadamy równowagę jednej z odciętych części belki. Przykładowo dla lewej
+części otrzymujemy równania:
+
+Warto zauważyć, że siła poprzeczna Q(x) jest pochodną funkcji M(x), tzn.
+Ekstremum funkcji M(x) wypada dla przekroju xo=0,5l, w którym siła
+poprzeczna jest równa zeru: Q(xo) = 0.
+81
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Ekstremum to wynosi
+M(x)=0,125gl2.
+Wykresy funkcji Q(x) i M(x) przedstawiono na rysunkach 7.2.e, f.
+Przykład 7.3.
+Obliczyć reakcje i siły wewnętrzne w belce przedstawionej na rysunku 7.3.a.
+
+Rys.7.3
+a. Obliczenie reakcji
+Z warunków równowagi tarczy II (rys.7.3.b) mamy
+
+82
+
+Rozdział 7. Siły wewnętrzne w konstrukcjach prętowych. Wykresy sił wewnętrznych
+___________________________________________________________________________
+
+Analizując warunki równowagi tarczy I, otrzymujemy
+
+b. Obliczenie sił wewnętrznych
+Łatwo można zauważyć, że w odróżnieniu od poprzednich przykładów zmiany sił
+wewnętrznych N, Q, M nie można opisać pojedynczymi równaniami. Konieczne
+jest tu budowanie funkcji N, Q, M dla kolejnych przedziałów
+charakterystycznych. Funkcje te można zapisać w jednym globalnym układzie
+współrzędnych lub, co jest wygodniejsze, w lokalnych układach współrzędnych
+przyjmowanych niezależnie dla każdego przedziału charakterystycznego.
+Przedział A-F
+Dokonujemy myślowego rozcięcia belki przekrojem α1-α1 usytuowanych
+w odległości x1 (0<x1<2) od podpory A.
+Warunki równowagi odciętej części A-α1 (rys.7.3.c) pozwalają wyznaczyć siły
+wewnętrzne w tym przedziale:
+
+Przedział F-G
+Dokonujemy myślowego rozcięcia belki przekrojem α2-α2 usytuowanym
+w odległości x2 (2<x2<4) od podpory A i zapisujemy warunki równowagi lewej
+odciętej części (rys.7.3.d):
+
+Przedział B-G
+Dokonujemy myślowego wycięcia fragmentu belki przekrojem α3-α3 odległym o
+x3 (0<x3<2) od podpory B i przekrojem przechodzącym przez przegub C
+(rys.7.3.f). Poszukiwane siły wewnętrzne otrzymujemy z warunków równowagi
+sił działających na tak wycięty fragment belki:
+83
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Równanie sił podłużnych, poprzecznych i momentów zginających w kolejnych
+przedziałach znajdziemy, postępując analogicznie.
+Przedział C-B (rys.7.3.g)
+
+Przedział C-D (rys.7.3.h)
+
+Przedział E-D (rys.7.3.e)
+
+Wykresy sił wewnętrznych przedstawiono na rys.7.3.
+Przykład 7.4
+Dla układu (zwanego ramą)przedstawionego na rys.7.4.a napisać funkcje sił
+przekrojowych i sporządzić ich wykresy.
+Analizując warunki równowagi ramy jako układu trójprzegubowego,
+otrzymujemy następujące wartości reakcji:
+Dla każdego przedziału ramy przyjmujemy lokalne układy odniesienia
+opisujące położenie przekrojów normalnych do osi ramy. Funkcje sił
+przekrojowych w poszczególnych przedziałach mają następującą postać:
+Przedział A-D (rys.7.4.c)
+
+84
+
+Rozdział 7. Siły wewnętrzne w konstrukcjach prętowych. Wykresy sił wewnętrznych
+___________________________________________________________________________
+
+Rys.7.4
+Przedział B-E (rys.7.4.d)
+
+Przedział D-C (rys.7.4.e)
+
+85
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Przedział C-E (rys.7.4.f)
+
+Wykresy sił wewnętrznych przedstawiono na rysunkach 7.4.g,h,i.
+Przy sporządzaniu tych wykresów przyjęto zasadę odkładania rzędnej siły
+wewnętrznej w danym przekroju zawsze prostopadle do osi pręta.
+Zasadę tę będziemy konsekwentnie stosować również w kolejnych
+przykładach.
+Przykład 7.5.
+Dla układu przedstawionego na rys.7.5.a napisać funkcje sił przekrojowych
+i sporządzić ich wykresy.
+Reakcje podporowe mają następujące wartości:
+
+Sposób obliczenia sił wewnętrznych w przedziale B-D (rys.7.5.c) i D-C
+(rys.7.5.d) nie różni się od przedstawionego w poprzednich przykładach
+i dlatego bliżej zajmiemy się tylko przedziałem A-C (rys.7.5).
+Przedział ten charakteryzuje się tym, że zmienia się orientacja kątowa
+przekroju normalnego od osi pręta kołowego. Położenie przekroju normalnego
+może być tu opisane na wiele różnych sposobów. Jako zmienną niezależną
+przyjmujemy kąt φ (0 < φ <π/2).
+Warunki równowagi sił działających na odciętą część układu (rys.7.5.b)
+zapisujemy następująco:
+
+Stąd, po podstawieniu wartości reakcji i zależności geometrycznych
+x = 4(1-cosφ) , y = 4sinφ,
+mamy:
+
+Wykresy sił wewnętrznych przedstawiono na rysunkach7.5.e,f,g.
+86
+
+Rozdział 7. Siły wewnętrzne w konstrukcjach prętowych. Wykresy sił wewnętrznych
+___________________________________________________________________________
+
+Rys.7.5
+Dotychczas rozwiązane przykłady uzasadniają dość oczywiste twierdzenia,
+a mianowicie:
+ w punktach przyłożenia skupionej siły zewnętrznej, prostopadłej do osi,
+funkcja siły poprzecznej jest nieciągła i w punktach tych możemy
+mówić o lewostronnej i prawostronnej wartości siły poprzecznej; "skok"
+siły poprzecznej jest tu równy wartości siły skupionej prostopadłej do
+osi;
+
+87
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+ w punktach przyłożenia skupionej siły zewnętrznej stycznej do osi
+pręta, funkcja siły podłużnej jest nieciągła i w punktach tych możemy
+mówić o lewostronnej i prawostronnej wartości siły normalnej; "skok"
+siły normalnej jest tu równy wartości siły skupionej stycznej do osi;
+ w punktach przyłożenia skupionego momentu, funkcja momentu
+zginającego jest nieciągła i w punktach tych możemy mówić tylko
+o lewostronnej i prawostronnej wartości momentu zginającego; "skok"
+momentu zginającego jest tu równy wartości momentu skupionego.
+Na zakończenie rozdziału odnotujemy jeszcze kilka ważnych uwag
+ułatwiających sporządzanie wykresów w układach składających się z prętów
+prostych.
+ W przedziale, w którym nie występuje obciążenie, siły poprzeczne mają
+wartość stałą, a momenty zginające zmieniają się liniowo
+(zależność
+(7.2)).
+ W przedziale, w którym występuje obciążenie równomiernie rozłożone,
+siły poprzeczne zmieniają się liniowo, a moment zginający jest funkcją
+kwadratową (zależność (7.2)).
+ Nie zawsze dla sporządzania wykresów M(x), Q(x), N(x) potrzebne
+będą równania określające te funkcje. Wystarczy bowiem obliczyć
+wartości tych funkcji w punktach charakterystycznych i uwzględniając
+wyżej podane uwagi można będzie narysować wykresy w pozostałych
+przekrojach.
+Problem wyznaczania sił wewnętrznych bardziej szczegółowo omawiany
+będzie na zajęciach z wytrzymałości materiałów i mechaniki budowli.
+
+ZADANIA
+Tematem zadań do samodzielnego rozwiązania jest wyznaczenie sił
+wewnętrznych w układach przedstawionych na rysunkach 7.6 do 7.10. Do
+tematów dołączono rozwiązania zadań w postaci wykresów sił wewnętrznych.
+Rozwiązania te służyć powinny jedynie do sprawdzenia końcowego wyniku
+samodzielnych obliczeń.
+PYTANIA KONTROLNE
+1. Omów ogólne zasady wyznaczania sił wewnętrznych w statycznie
+wyznaczalnych konstrukcjach prętowych.
+2. Omów ogólne zasady sporządzania wykresów sił wewnętrznych
+(przekrojowych).
+3. Jaka jest zależność między siłą poprzeczną i momentem zginającym ?
+4. W jaki sposób siły i momenty skupione wpływają na charakter zmiany
+sił wewnętrznych ?
+88
+
+Rozdział 7. Siły wewnętrzne w konstrukcjach prętowych. Wykresy sił wewnętrznych
+___________________________________________________________________________
+
+Rys.7.6
+
+Rys.7.7
+
+Rys.7.8
+89
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Rys.7.9
+
+Rys.7.10
+90
+
+Stanisław Pryputniewicz
+___________________________________________________________________________
+
+8. KINEMATYKA PUNKTU MATERIALNEGO.
+RUCH POSTĘPOWY I OBROTOWY BRYŁY MATERIALNEJ
+
+Kinematyka jest nauką o ruchu, przy czym nie wnika się tu w przyczyny, które
+ten ruch wywołują.
+Ruchem będziemy nazywali zmiany położenia rozpatrywanego ciała
+względem układu odniesienia uważanego za nieruchomy. Położeniem ciała albo
+konfiguracją będziemy nazywali obszar przestrzeni euklidesowej, na który
+w sposób wzajemnie jednoznaczny i ciągły odwzorowano jego punkty. Ruch
+będzie zmianą tego odwzorowania, czyli kolejnością jego konfiguracji w czasie.
+Pojęcie ruchu jest pojęciem względnym, gdyż zależy od przyjętego układu
+odniesienia.
+8.1. Kinematyka punktu materialnego
+8.1.1. Sposoby opisu ruchu
+Mówimy, że znany jest ruch punktu materialnego względem przyjętego układu
+odniesienia, jeżeli znany jest sposób określenia położenia tego punktu
+w dowolnej chwili czasu.
+Wprowadźmy w analizowanej przestrzeni Euklidesa prostokątny
+prawoskrętny układ współrzędnych 0xyz, a w nim trójkę wektorów
+jednostkowych osi i (i=1,2,3) (rys.8.1).
+
+Rys.8.1
+
+Rys.8.2
+
+W tak zorientowanej przestrzeni ruch punktu możemy opisać, podając
+zależność funkcyjną wektora położenia od czasu t (rys.8.1)
+
+Jest to wektorowy sposób opisu ruchu.
+91
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Oznaczmy przez x,y,z współrzędne poruszającego się punktu M.
+Współrzędne te zależą od czasu, czyli są funkcjami zmiennej t:
+Powyższe trzy równania nazywamy kinematycznymi równaniami ruchu.
+Ruch punktu materialnego można również opisać podając równanie
+trajektorii punktu w postaci:
+oraz sposób poruszania się tego punktu po trajektorii (rys.8.2)
+Jest to, tzw. naturalny sposób opisu ruchu. Wielkość s(t) przedstawia tutaj
+drogę punktu materialnego.
+Wszystkie trzy przedstawione sposoby opisu ruchu są ze sobą związane
+następującymi zależnościami :
+
+a trajektorię ruchu (8.3) otrzymujemy rugując w równaniach (8.2) parametr t.
+Przy zapisie związków (8.5) kropką
+oznaczono pochodną względem
+czasu, tzn.
+
+8.1.2. Prędkość punktu materialnego
+Prędkość punktu jest wektorem określonym przez pierwszą pochodną wektora
+położenia względem czasu (rys.8.3)
+
+Rys.8.3
+92
+
+Rys.8.4
+
+Rozdział 8. Kinematyka punktu materialnego. Ruch postępowy i obrotowy bryły materialnej
+___________________________________________________________________________
+
+Prędkość jest wektorem związanym z poruszającym się punktem
+
+mającym moduł
+
+kierunek styczny do toru i zwrot w stronę ruchu.
+Korzystając z (8.5)3, możemy powiedzieć, że moduł prędkości jest równy
+pochodnej drogi względem czasu, tzn.:
+
+8.1.3. Przyspieszenie punktu materialnego
+Jeżeli wektor prędkości
+traktować jako wektor położenia, to jego koniec
+zakreśli krzywą zwaną hodografem prędkości (rys.8.4). Prędkość, z jaką koniec
+wektora porusza się po hodografie, nazywamy przyspieszeniem
+
+Przyspieszenie jest wektorem związanym z poruszającym się punktem
+
+mającym moduł
+i kierunek styczny do hodografu prędkości.
+Wektor przyspieszenia jest w ogólnym przypadku nachylony pod pewnym
+kątem do toru. W niektórych zadaniach wygodniej jest do opisu przyspieszenia
+przyjąć znany z matematyki naturalny układ współrzędnych (rys.8.5). Wektory
+jednostkowe osi tego układu oznaczymy kolejno:
+. Naturalny układ
+współrzędnych jest układem ruchomym, związanym z poruszającym się
+punktem.
+
+93
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Rys.8.5
+
+Rys.8.6
+
+Wektor przyspieszenia w naturalnym układzie współrzędnych możemy
+zapisać następująco:
+Można pokazać, że
+
+gdzie
+
+jest promieniem krzywizny.
+
+W ogólnym przypadku wektor przyspieszenia można uważać za sumę
+geometryczną przyspieszenia stycznego
+i przyspieszenia normalnego
+,
+zwróconego w stronę wklęsłości toru (rys.8.6):
+
+8.1.4. Podział ruchów punktu materialnego
+Ze względu na przyspieszenie normalne rozróżnia się dwa rodzaje ruchów:
+a) ruch prostoliniowy, jeżeli =0,
+b) ruch krzywoliniowy, jeżeli
+W zależności od przyspieszenia stycznego
+z następującymi rodzajami ruchów:
+a) ruchem jednostajnym, jeżeli
+b) ruchem jednostajnie zmiennym, jeżeli
+c) ruchem niejednostajnie zmiennym, jeżeli
+W ruchu jednostajnym mamy:
+
+94
+
+mamy
+
+do
+
+czynienia
+
+Rozdział 8. Kinematyka punktu materialnego. Ruch postępowy i obrotowy bryły materialnej
+___________________________________________________________________________
+
+W przypadku ruchu jednostajnie zmiennego otrzymujemy:
+
+Gdy
+mówimy o ruchu jednostajnie przyspieszonym, a dla
+o ruchu jednostajnie opóźnionym.
+
+–
+
+Przykład 8.1
+Dane są kinetyczne równania ruchu punktu materialnego w układzie
+prostokątnym 0xyz:
+gdzie: R i B są stałymi zadanymi w metrach a
+
+stałą posiadającą wymiar 1/s.
+
+Znaleźć trajektorię ruchu, położenie punktu na trajektorii, jego prędkość,
+przyspieszenie, przyspieszenia styczne i normalne w chwili t=0.
+Trajektoria punktu
+Podnosząc dwa pierwsze równania do kwadratu i dodając obustronnie, mamy
+Jest to równanie walca o promieniu R, oś którego pokrywa się z osią z (rys.8.7a)
+
+Rys.8.7
+Opuśćmy teraz z punktu M prostą prostopadłą do płaszczyzny x0y. Położenie
+punktu N określają współrzędne:
+Porównując te równości z równaniami ruchu, znajdujemy
+
+95
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Stąd wynika, że kąt
+zmienia się proporcjonalnie do czasu, a więc punkt M
+równomiernie porusza się po linii śrubowej, znajdującej się na pobocznicy
+walca.
+W chwili t=0 mamy x=R, y=0, z=0, a to znaczy, że punkt M znajduje się na
+płaszczyźnie x0y w miejscu M0 (rys.8.7).
+Prędkość punktu
+Współrzędne prędkości wynoszą:
+a jej moduł
+
+W chwili t=0 mamy:
+
+Przyspieszenie punktu
+Współrzędne przyspieszenia wynoszą:
+a jego moduł
+Przyspieszenie styczne znajdujemy z zależności (8.14) i wynosi ono
+
+Przyspieszenie normalne wynosi:
+.
+W chwili t=0 mamy:
+
+Położenie wektora prędkości (0) i wektora przyspieszenia (0) w chwili t=0
+przedstawiono na rysunku 8.7b.
+
+96
+
+Rozdział 8. Kinematyka punktu materialnego. Ruch postępowy i obrotowy bryły materialnej
+___________________________________________________________________________
+
+8.2. Ruch postępowy bryły materialnej
+Niech bryła porusza się tak, że położenia chwilowe są równoległe do położenia
+początkowego (rys.8.8). Taki ruch będziemy nazywać postępowym.
+
+Rys.8.8
+Wektor położenia dowolnego punktu P może być wyrażony przez wektor
+położenia innego punktu A następująco:
+
+Zgodnie z założeniem ruchu
+= const, a więc trajektroje ruchu
+wszystkich punktów są do siebie przystające. Trajektorie te mogą być liniami
+krzywymi lub prostymi. W tym ostatnim przypadku ruch postępowy nazywamy
+translacją lub przesunięciem prostym.
+Różniczkując równanie (8.16) względem czasu, znajdujemy prędkość
+dowolnego punktu
+Podobnie znajdujemy przyspieszenie
+
+Z równań (8.16), (8.17) i (8.18) wynika, że ruch postępowy jest całkowicie
+określony ruchem jednego punktu bryły. Zagadnienie ruchu postępowego
+sprowadza się pod względem kinematycznym do ruchu punktu. Wektory
+prędkości i przyspieszenia są w tym ruchu wektorami swobodnymi.
+8.3. Ruch obrotowy bryły dookoła stałej osi
+8.3.1. Opis ruchu obrotowego
+Omówimy teraz ruch bryły mającej dwa punkty stałe. W takim przypadku bryła
+może jedynie obracać się dookoła osi „l” przechodzącej przez te dwa punkty,
+zwanej osią obrotu (rys.8.9).
+97
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Do określenia chwilowego położenia bryły przeprowadzimy przez oś obrotu
+dwie płaszczyzny: stałą 0i ruchomą związaną z poruszającą się bryłą.
+Chwilowe położenia płaszczyzny , a więc i poruszającej się bryły określimy
+kątem zawartym pomiędzy obiema płaszczyznami. Kąt ten nazywamy kątem
+obrotu.
+
+
+
+
+Rys.8.9
+
+
+
+Równanie ruchu bryły zapiszemy w postaci:
+
+Ruch dowolnego punktu bryły będzie określony jeżeli dane będzie równanie
+(8.19) oraz odległość hi tego punktu od osi obrotu.
+Pierwszą pochodną kąta obrotu względem czasu nazywamy prędkością
+kątową ruchu obrotowego. Prędkość tą będziemy uważali za wektor związany
+z osią obrotu, mający moduł
+, kierunek osi i zwrot zgodny z regułą śruby
+prawoskrętnej (rys.8.9).
+Drugą pochodną kąta obrotu, czyli pierwszą pochodną prędkości kątowej,
+nazywamy przyspieszeniem kątowym. Przyspieszenie to będziemy uważali za
+wektor związany z osią obrotu, mający moduł
+, kierunek
+pokrywający się z osią i zwrot zgodny ze zwrotem prędkości kątowej, gdy obrót
+jest przyspieszony, przeciwny zaś gdy obrót jest opóźniony (rys.8.9).
+8.3.2. Prędkość punktów bryły w ruchu obrotowym
+Weźmy pod uwagę jeden punkt bryły „P”. Punkt ten porusza się po okręgu
+o promieniu hi. Jego prędkość jest wektorem stycznym do tego okręgu,
+zwróconym w stronę obrotu (rys.8.10).
+98
+
+Rozdział 8. Kinematyka punktu materialnego. Ruch postępowy i obrotowy bryły materialnej
+___________________________________________________________________________
+
+Prędkość liniowa dowolnego punktu bryły w ruchu obrotowym jest równa
+iloczynowi wektorowemu prędkości kątowej
+i wektora położenia
+łączącego dowolny punkt osi l z poruszającym się punktem bryły
+
+Rys.8.10
+
+Rys.8.11
+
+Moduł prędkości liniowej wynosi
+
+Sprowadźmy nasze równania wektorowe do równań kinematycznych.
+W tym celu wprowadzamy układ współrzędnych 0xyz (rys.8.11). Wektor
+położenia można zapisać następująco:
+Uwzględniając (8.22) w (8.20), mamy
+
+czyli
+
+Po rozwinięciu wyznacznika otrzymujemy równania kinematyczne w postaci:
+
+99
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Na osi obrotu wszystkie punkty mają prędkość równą zeru. Przyrównując do
+zera składowe (8.25), znajdziemy równanie osi obrotu w układzie 0xyz:
+
+8.3.3. Przyspieszenie punktów bryły w ruchu obrotowym
+Załóżmy, że oś obrotu przechodzi przez początek układu współrzędnych.
+Uwzględniając, że
+, możemy zapisać:
+
+Pierwszy składnik wyrażenia (8.27)
+
+nazywa się przyspieszeniem obrotowym. Ma ono wartość:
+
+a jego kierunek pokrywa się z kierunkiem wektora prędkości liniowej.
+Drugi składnik wyrażenia (8.27)
+
+nazywa się przyspieszeniem doosiowym. Przyspieszenie to ma wartość
+
+kierunek promienia okręgu i zwrot od rozpatrywanego punktu do osi obrotu.
+Przykład 8.2
+Bryła obraca się dookoła nieruchomej osi l, danej wersorem
+
+i przechodzącej przez punkt A(2,4,6), ze stałą prędkością kątową, której moduł
+wynosi =3rd/s. Wyznaczyć prędkość liniową tego punktu bryły, który
+przechodzi przez punkt przestrzeni B(4,10,12).
+Ponieważ wektor prędkości kątowej pokrywa się z osią obrotu, to przy
+założeniu, że obrót jest prawoskrętny w stosunku do osi, mamy
+100
+
+Rozdział 8. Kinematyka punktu materialnego. Ruch postępowy i obrotowy bryły materialnej
+___________________________________________________________________________
+
+Zgodnie z (8.24) prędkość punktu bryły znajdującego się w punkcie B wynosi
+
+a jej moduł jest równy
+
+Przykład 8.3
+W mechanizmie jak na rysunku 8.12 korba OA obraca się ze stałą prędkością
+kątową . Znaleźć równanie ruchu wodzika B oraz jego prędkość.
+
+Rys.8.12
+Kąt obrotu korby OA, obracającej się ze stałą prędkością kątową, wynosi
+(a)
+Korzystając z zależności geometrycznych (rys.8.12), współrzędne punktu B
+wynoszą:
+
+101
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+Podstawiając (a), otrzymujemy poszukiwane kinematyczne równania ruchu
+punktu B
+
+Współrzędne prędkości punktu B otrzymujemy obliczając pochodne po czasie :
+
+Dla t=0 mamy:
+
+Odpowiednio dla
+
+mamy:
+
+ZADANIA
+Zadanie 1. Dane są kinematyczne równania ruchu punktu materialnego:
+
+Znaleźć trajektorię ruchu, położenie punktu na trajektorii, jego prędkość,
+przyspieszenie, przyspieszenie styczne i normalne w chwili t 1=0,5s.
+Współrzędne położenia punktu, dla czasu przyjmowanego w sekundach,
+podano w metrach.
+Odpowiedź: Punkt porusza się po paraboli,
+
+102
+
+Rozdział 8. Kinematyka punktu materialnego. Ruch postępowy i obrotowy bryły materialnej
+___________________________________________________________________________
+
+Zadanie 2. Dane są równania ruchu dwóch punktów A i B:
+
+Znaleźć kąt zawarty między wektorami prędkości tych punktów w chwili ich
+spotkania.
+Odpowiedź: = /2 .
+Zadanie 3. Koło o promieniu R toczy się po osi x, przy czym prędkość liniowa
+środka koła jest stała i równa vo. Na kole opiera się pręt OM mogący obracać
+się dookoła przegubu stałego 0 (rys.8.13). Znaleźć prędkość kątową obrotu pręta
+dookoła punktu 0.
+Odpowiedź:
+
+Rys.8.13
+
+Rys.8.14
+
+Zadanie 4. W mechaniźmie pasowym przedstawionym na rysunku 8.14
+zadane jest równanie ruchu klocka 1:
+
+(czas podany jest w sekundach). Promienie kół wynoszą :
+
+Należy obliczyć prędkość, przyspieszenie obrotowe, przyspieszenie doosiowe
+i całkowite punktu M w czasie kiedy droga przebyta przez klocek 1 wynosi
+0,42m.
+Odpowiedź:
+
+103
+
+Mechanika ogólna. Materiały pomocnicze do wykładów i ćwiczeń
+___________________________________________________________________________
+
+PYTANIA KONTROLNE
+1. Omówić sposoby opisu ruchu punktu materialnego.
+2. Podać definicję prędkości i przyspieszenia punktu materialnego.
+3. Jak obliczamy przyspieszenie styczne i normalne?
+4. Podać definicję prędkości kątowej i przyspieszenia kątowego.
+5. Wyprowadzić równanie osi obrotu bryły w stałym układzie
+współrzędnych.
+6. Narysować wektory prędkości i przyspieszenia punktu w ruchu
+obrotowym przyspieszonym i opóźnionym.
+
+104
+
+Stanisław Pryputniewicz
+___________________________________________________________________________
+
+9. RUCH PŁASKI BRYŁY
+
+9.1. Opis ruchu
+Ruch płaski bryły sztywnej jest to taki ruch, w którym każdy punkt tej bryły
+porusza się tylko w jednej płaszczyźnie. Jak się łatwo zorientować, jest to
+możliwe tylko wtedy, gdy płaszczyzny te są do siebie równoległe. Wszystkie
+punkty bryły leżące na prostych prostopadłych do owych płaszczyzn wykonują
+takie same ruchy. Wystarczy zatem rozpatrywać ruch punktów w jednej
+płaszczyźnie, zwanej płaszczyzną kierującą. Dalej zajmować się więc będziemy
+ruchem przekroju S bryły po płaszczyźnie kierującej (rys.9.1).
+
+Rys.9.1
+
+

@@ -14,8 +14,14 @@ class Views(object):
     
     @staticmethod
     def get_doc_path():
-        doc_path = input("Podaj ścieżkę do dokumentu:\t")
-        return doc_path
+        root_path = r'./static/documents/'
+        doc_path = input("Podaj nazwę dokumentu:\t")
+        return root_path + doc_path
+    
+    @staticmethod
+    def get_docs_path():
+        root_path = r'./static/documents/'
+        return root_path
     
     @staticmethod
     def get_query():
@@ -24,7 +30,7 @@ class Views(object):
     
     @staticmethod
     def display_matrix(matrix, terms, additional_info=''):
-        os.system("clear")
+        # os.system("clear")
         if additional_info == '':
             print("========== MACIERZ TFM ==========")
         print(additional_info)
@@ -32,7 +38,7 @@ class Views(object):
             print(key, end=' ')
         print()
         print(str(matrix))
-        sleep(5)
+        # sleep(5)
             
         
     @staticmethod 
