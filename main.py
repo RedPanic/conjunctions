@@ -3,6 +3,7 @@ from controller.controller import Controller
 from views.views import Views
 
 class App(object):
+    '''Main app class'''
     @staticmethod
     def main(args):
         views = Views()
