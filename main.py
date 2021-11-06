@@ -2,6 +2,7 @@ import sys
 from controller.controller import Controller
 from views.views import Views
 
+
 class App(object):
     '''Main app class'''
     @staticmethod
@@ -9,16 +10,21 @@ class App(object):
         views = Views()
         controller = Controller(views)
         controller.fill_matrix(controller.terms_dict, controller.documents)
-        controller.views.display_matrix(controller.tfm_matrix, controller.terms_dict)
-        controller.idf_vec = controller.calculate_idf(controller.tfm_matrix.matrix)
+        controller.views.display_matrix(
+            controller.tfm_matrix, controller.terms_dict)
+        controller.idf_vec = controller.calculate_idf(
+            controller.tfm_matrix.matrix)
         controller.fill_tfm_idf_matrix(controller.tfm_matrix.matrix)
-        controller.views.display_matrix(controller.tfm_idf_matrix, controller.terms_dict ,"=========== Macierz TFM-IDF ===========")
-        
+        controller.views.display_matrix(
+            controller.tfm_idf_matrix, controller.terms_dict, "=========== Macierz TFM-IDF ===========")
+
         controller.cosine_cmp_matrix(controller.tfm_idf_matrix.matrix)
         controller.manhattan_cmp_matrix(controller.tfm_idf_matrix.matrix)
         controller.euclidean_cmp_matrix(controller.tfm_idf_matrix.matrix)
         controller.chebyshev_cmp_matrix(controller.tfm_idf_matrix.matrix)
         
-        
+        controller.query_vector = controller.create_query_vector()
+        controller.get_docs_rank(controller.tfm_idf_matrix.matrix, controller.query_vector.vector)
+
 if __name__ == '__main__':
     App.main(sys.argv)
