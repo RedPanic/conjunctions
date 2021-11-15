@@ -165,6 +165,8 @@ class Controller(object):
 
         self.views.display_comparison_matrix(
             comparison_matrix, "Miara Czebyszewa")
+        
+        return comparison_matrix
 
     def cosine_cmp_matrix(self, matrix):
         comparison_matrix = []

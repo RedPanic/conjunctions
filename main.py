@@ -1,6 +1,7 @@
 import sys
 from controller.controller import Controller
 from views.views import Views
+from tools.kmeans import KMeansTools
 
 
 class App(object):
@@ -21,10 +22,18 @@ class App(object):
         controller.cosine_cmp_matrix(controller.tfm_idf_matrix.matrix)
         controller.manhattan_cmp_matrix(controller.tfm_idf_matrix.matrix)
         controller.euclidean_cmp_matrix(controller.tfm_idf_matrix.matrix)
-        controller.chebyshev_cmp_matrix(controller.tfm_idf_matrix.matrix)
+        mcheb = controller.chebyshev_cmp_matrix(controller.tfm_idf_matrix.matrix)
+        print(f'mcheb {mcheb}')
         
         controller.query_vector = controller.create_query_vector()
         controller.get_docs_rank(controller.tfm_idf_matrix.matrix, controller.query_vector.vector)
+        kmeansObj = KMeansTools(controller.tfm_idf_matrix.matrix)
+        kmeansObj.find_cluster_number()
+        kmeansObj.make_clustering()
+        
+        kmo2 = KMeansTools(mcheb)
+        kmo2.find_cluster_number()
+        kmo2.make_clustering()
 
 if __name__ == '__main__':
     App.main(sys.argv)
