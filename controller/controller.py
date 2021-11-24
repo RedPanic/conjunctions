@@ -165,7 +165,6 @@ class Controller(object):
 
         self.views.display_comparison_matrix(
             comparison_matrix, "Miara Czebyszewa")
-        
         return comparison_matrix
 
     def cosine_cmp_matrix(self, matrix):
@@ -178,7 +177,8 @@ class Controller(object):
 
         self.views.display_comparison_matrix(
             comparison_matrix, "Miara kosinusowa")
-
+        return comparison_matrix
+    
     def manhattan_cmp_matrix(self, matrix):
         comparison_matrix = []
         for row in range(len(matrix)):
@@ -189,6 +189,7 @@ class Controller(object):
 
         self.views.display_comparison_matrix(
             comparison_matrix, "Miara Manhattan")
+        return comparison_matrix
 
     def euclidean_cmp_matrix(self, matrix):
         comparison_matrix = []
@@ -200,6 +201,7 @@ class Controller(object):
 
         self.views.display_comparison_matrix(
             comparison_matrix, "Miara Euklidesa")
+        return comparison_matrix
 
     def welcome(self):
         self.views.welcome_view()

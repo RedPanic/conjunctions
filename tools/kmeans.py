@@ -33,9 +33,8 @@ class KMeansTools(object):
 
     def make_clustering(self):
         print(f'Matrix \n{self.matrix}')
-        kmeansModel = KMeans(n_clusters=3, random_state=172)
+        kmeansModel = KMeans(n_clusters=3, init='random', n_init=10, max_iter=300, random_state=42)
         kmeansPredict = kmeansModel.fit_predict(self.matrix)
-        print(kmeansPredict)
         plt.scatter(self.matrix[kmeansPredict == 0, 0],
                     self.matrix[kmeansPredict == 0, 1], s=100, c='red', label='cluster #1')
         plt.scatter(self.matrix[kmeansPredict == 1, 0],
