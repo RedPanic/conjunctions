@@ -99,10 +99,12 @@ class Controller(object):
         documents = []
 
         for row in range(len(matrix)):
-            documents.append(Tools.query_results(matrix[row], vec))
+            documents.append(Tools.euclidean_dist(matrix[row], vec))
 
         rank = Tools.get_top_three(documents)
-        self.views.display_rank(self.documents, rank)
+        self.views.display_rank(self.documents, rank[:3])
+        mvt_index = Tools.get_suggestions(vec,rank, matrix)
+        self.views.display_suggestions(self.terms_dict, mvt_index)
 
     def create_terms_dict(self, terms):
         terms_dict = {term: 0 for term in terms}

@@ -63,3 +63,8 @@ class Views(object):
             path = docs[pos[1]].path[docs[pos[1]].path.rfind('/')+1:]
             print(f'Miejsce {counter+1} dokument: {path} ')
             counter += 1
+            
+            
+    @staticmethod
+    def display_suggestions(terms, index):
+        print(f'Użytkownicy szukali również: {list(terms.keys())[index]}')

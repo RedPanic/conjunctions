@@ -38,10 +38,10 @@ class Tools(object):
     def normalize_vector(vec):
         normalize_vec = vec/np.linalg.norm(vec)
         return normalize_vec
-    
+
     @staticmethod
     def query_results(vec1, vec2):
-        return round(sum((v1*v2) for v1, v2 in zip(vec1, vec2)),2)
+        return round(sum((v1*v2) for v1, v2 in zip(vec1, vec2)), 2)
 
     @staticmethod
     def euclidean_dist(vec1, vec2):
@@ -49,4 +49,18 @@ class Tools(object):
 
     @staticmethod
     def get_top_three(rank):
-        return (sorted([(x,i) for (i,x) in enumerate(rank)], reverse=True))
+        return (sorted([(x, i) for (i, x) in enumerate(rank)], reverse=True))
+
+    @staticmethod
+    def get_suggestions(vec, rank, matrix):
+        closest_doc_ind = rank[0][1]
+        used_terms = [i for i in range(len(vec)) if vec[i] > 0]
+        mvt_ind = used_terms[0] + 1
+        mvt = matrix[closest_doc_ind][mvt_ind]
+        for ind in range(len(matrix[closest_doc_ind])):
+            if ind in used_terms:
+                continue
+            if matrix[closest_doc_ind][ind] > mvt:
+                mvt_ind = ind
+
+        return mvt_ind
