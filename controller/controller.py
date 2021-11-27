@@ -8,11 +8,11 @@ from math import log
 
 
 class Controller(object):
-    def __init__(self, views):
+    def __init__(self, views, terms=None):
         self.views = views
         self.welcome()
         self.documents = self.create_docs()
-        self.terms_dict = self.create_terms_dict(self.create_terms())
+        self.terms_dict = self.create_terms_dict(self.create_terms(terms))
         self.tfm_matrix = Tfm(len(self.documents), len(self.terms_dict.keys()))
         self.tfm_idf_matrix = Tfm(
             len(self.documents), len(self.terms_dict.keys()))
@@ -78,8 +78,8 @@ class Controller(object):
         for key in dict_obj.keys():
             dict_obj[key] = 0
 
-    def create_terms(self):
-        query = self.views.get_terms()
+    def create_terms(self, hard_coded=None):
+        query = self.views.get_terms(hard_coded)
         terms_vector = TermsVector(query)
         return terms_vector.terms
 
@@ -97,13 +97,14 @@ class Controller(object):
 
     def get_docs_rank(self, matrix, vec):
         documents = []
-
         for row in range(len(matrix)):
             documents.append(Tools.euclidean_dist(matrix[row], vec))
 
+        print(
+            f'================ GET DOCS RANK: ==================\n {documents}')
         rank = Tools.get_top_three(documents)
         self.views.display_rank(self.documents, rank[:3])
-        mvt_index = Tools.get_suggestions(vec,rank, matrix)
+        mvt_index = Tools.get_suggestions(vec, rank, matrix)
         self.views.display_suggestions(self.terms_dict, mvt_index)
 
     def create_terms_dict(self, terms):
@@ -144,7 +145,7 @@ class Controller(object):
         nj = 0
         for i in range(len(matrix[0])):
             for j in range(len(matrix)):
-                #print(f"Seria {i}: Wartość: {matrix[j][i]}")
+
                 if matrix[j][i] != 0:
                     nj += 1
 
@@ -180,7 +181,7 @@ class Controller(object):
         self.views.display_comparison_matrix(
             comparison_matrix, "Miara kosinusowa")
         return comparison_matrix
-    
+
     def manhattan_cmp_matrix(self, matrix):
         comparison_matrix = []
         for row in range(len(matrix)):

@@ -25,10 +25,12 @@ class Views(object):
         return root_path
 
     @staticmethod
-    def get_terms():
-        print("========== TWORZENIE BAZY ==========")
-        terms = input(
-            "Podaj termy, które chcesz analizować (rozdzielone spacją):\t")
+    def get_terms(terms=None):
+        if terms is None:
+            print("========== TWORZENIE BAZY ==========")
+            terms = input(
+                "Podaj termy, które chcesz analizować (rozdzielone spacją):\t")
+
         return terms
 
     @staticmethod
@@ -36,6 +38,11 @@ class Views(object):
         print(f'========== WYDAWANIE ZAPYTANIA DO BAZY ==========')
         query = input("Wpisz zapytanie: ")
         return query
+
+    @staticmethod
+    def display_docs(docs):
+        for doc in docs:
+            print(doc.path[doc.path.rfind('/'):])
 
     @staticmethod
     def display_matrix(matrix, terms, additional_info=''):
@@ -63,8 +70,7 @@ class Views(object):
             path = docs[pos[1]].path[docs[pos[1]].path.rfind('/')+1:]
             print(f'Miejsce {counter+1} dokument: {path} ')
             counter += 1
-            
-            
+
     @staticmethod
     def display_suggestions(terms, index):
-        print(f'Użytkownicy szukali również: {list(terms.keys())[index]}')
+        print(f'\nUżytkownicy szukali również: {list(terms.keys())[index]}')
