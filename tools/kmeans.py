@@ -32,7 +32,6 @@ class KMeansTools(object):
         plt.show()
 
     def make_clustering(self):
-        print(f'Matrix \n{self.matrix}')
         kmeansModel = KMeans(n_clusters=3, init='random', n_init=10, max_iter=300, random_state=42)
         kmeansPredict = kmeansModel.fit_predict(self.matrix)
         plt.scatter(self.matrix[kmeansPredict == 0, 0],
@@ -45,3 +44,4 @@ class KMeansTools(object):
             :, 1], s=100, c='yellow', label='centroids')
         plt.legend()
         plt.show()
+        print(f'Centroidy: {kmeansModel.cluster_centers_}\nWynik klasteryzacji:{kmeansPredict} ')

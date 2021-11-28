@@ -10,13 +10,11 @@ class App(object):
     '''Main app class'''
     @staticmethod
     def main(args):
-
         hc_terms = 'bo gdy że ale i oraz ani ni lub albo bądź'
-
         # PART 1 CREATING TFM IDF MATRIX AND DISTANCE MATRIXES, CHOOSING DATA.
         views = Views()
         controller = Controller(views, hc_terms)
-        # controller = Controller(views) for part 1
+        # controller = Controller(views) # for part 1
         controller.fill_matrix(controller.terms_dict, controller.documents)
         controller.views.display_matrix(
             controller.tfm_matrix, controller.terms_dict)
@@ -38,21 +36,26 @@ class App(object):
 
         # PART 2 - MAKING CLUSTERING AND MDS SCALLING
 
+        # print('========== MACIERZE PO PRZESKALOWANIU ==========')
         # mds_cheb = MDSScaller(chebMatrix)
         # mds_eukl = MDSScaller(euklMatrix)
         # mds_mann = MDSScaller(mannMatrix)
         # mds_cosi = MDSScaller(cosiMatrix)
 
         # kmeans_cheb = KMeansTools(mds_cheb.scaleMatrix())
+        # kmeans_cheb.find_cluster_number()
         # kmeans_cheb.make_clustering()
 
         # kmeans_eukl = KMeansTools(mds_eukl.scaleMatrix())
+        # kmeans_cheb.find_cluster_number()
         # kmeans_eukl.make_clustering()
 
         # kmeans_mann = KMeansTools(mds_mann.scaleMatrix())
+        # kmeans_cheb.find_cluster_number()
         # kmeans_mann.make_clustering()
 
         # kmeans_cosi = KMeansTools(mds_cosi.scaleMatrix())
+        # kmeans_cheb.find_cluster_number()
         # kmeans_cosi.make_clustering()
 
         # PART 3 - TERMS RELEVETION (SUGGESTIONS)
