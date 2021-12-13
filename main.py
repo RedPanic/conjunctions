@@ -36,36 +36,40 @@ class App(object):
 
         # PART 2 - MAKING CLUSTERING AND MDS SCALLING
 
-        # print('========== MACIERZE PO PRZESKALOWANIU ==========')
-        # mds_cheb = MDSScaller(chebMatrix)
-        # mds_eukl = MDSScaller(euklMatrix)
-        # mds_mann = MDSScaller(mannMatrix)
-        # mds_cosi = MDSScaller(cosiMatrix)
+        print('========== MACIERZE PO PRZESKALOWANIU ==========')
+        mds_cheb = MDSScaller(chebMatrix)
+        mds_eukl = MDSScaller(euklMatrix)
+        mds_mann = MDSScaller(mannMatrix)
+        mds_cosi = MDSScaller(cosiMatrix)
 
-        # kmeans_cheb = KMeansTools(mds_cheb.scaleMatrix())
+        kmeans_cheb = KMeansTools(mds_cheb.scaleMatrix())
         # kmeans_cheb.find_cluster_number()
-        # kmeans_cheb.make_clustering()
+        kmeans_cheb.make_clustering(3)
+        kmeans_cheb.make_clustering(5)
 
-        # kmeans_eukl = KMeansTools(mds_eukl.scaleMatrix())
+        kmeans_eukl = KMeansTools(mds_eukl.scaleMatrix())
         # kmeans_cheb.find_cluster_number()
-        # kmeans_eukl.make_clustering()
+        kmeans_eukl.make_clustering(3)
+        kmeans_eukl.make_clustering(5)
 
-        # kmeans_mann = KMeansTools(mds_mann.scaleMatrix())
+        kmeans_mann = KMeansTools(mds_mann.scaleMatrix())
         # kmeans_cheb.find_cluster_number()
-        # kmeans_mann.make_clustering()
+        kmeans_mann.make_clustering(3)
+        kmeans_mann.make_clustering(5)
 
-        # kmeans_cosi = KMeansTools(mds_cosi.scaleMatrix())
+        kmeans_cosi = KMeansTools(mds_cosi.scaleMatrix())
         # kmeans_cheb.find_cluster_number()
-        # kmeans_cosi.make_clustering()
+        kmeans_cosi.make_clustering(3)
+        kmeans_cosi.make_clustering(5)
 
         # PART 3 - TERMS RELEVETION (SUGGESTIONS)
 
         # for i in range(10):
-        controller.query_vector = controller.create_query_vector()
-        print(
-            f'========== QUERY VECTOR ==========\n{controller.query_vector.vector}')
-        controller.get_docs_rank(
-            controller.tfm_idf_matrix.matrix, controller.query_vector.vector)
+        # controller.query_vector = controller.create_query_vector()
+        # print(
+        #     f'========== QUERY VECTOR ==========\n{controller.query_vector.vector}')
+        # controller.get_docs_rank(
+        #     controller.tfm_idf_matrix.matrix, controller.query_vector.vector)
 
 
 if __name__ == '__main__':

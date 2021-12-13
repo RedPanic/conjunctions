@@ -31,17 +31,39 @@ class KMeansTools(object):
         plt.title('Liczba klastrów')
         plt.show()
 
-    def make_clustering(self):
-        kmeansModel = KMeans(n_clusters=3, init='random', n_init=10, max_iter=300, random_state=42)
+    def make_clustering(self, num_of_clusers):
+        kmeansModel = KMeans(n_clusters=num_of_clusers, init='random',
+                             n_init=10, max_iter=300, random_state=42)
         kmeansPredict = kmeansModel.fit_predict(self.matrix)
-        plt.scatter(self.matrix[kmeansPredict == 0, 0],
-                    self.matrix[kmeansPredict == 0, 1], s=100, c='red', label='cluster #1')
-        plt.scatter(self.matrix[kmeansPredict == 1, 0],
-                    self.matrix[kmeansPredict == 1, 1], s=100, c='blue', label='cluster #2')
-        plt.scatter(self.matrix[kmeansPredict == 2, 0],
-                    self.matrix[kmeansPredict == 2, 1], s=100, c='green', label='cluster #3')
-        plt.scatter(kmeansModel.cluster_centers_[:, 0], kmeansModel.cluster_centers_[
-            :, 1], s=100, c='yellow', label='centroids')
-        plt.legend()
-        plt.show()
-        print(f'Centroidy: {kmeansModel.cluster_centers_}\nWynik klasteryzacji:{kmeansPredict} ')
+
+        if kmeansModel.n_clusters == 3:
+            plt.scatter(self.matrix[kmeansPredict == 0, 0],
+                        self.matrix[kmeansPredict == 0, 1], s=30, c='red', label='cluster #1')
+            plt.scatter(self.matrix[kmeansPredict == 1, 0],
+                        self.matrix[kmeansPredict == 1, 1], s=30, c='blue', label='cluster #2')
+            plt.scatter(self.matrix[kmeansPredict == 2, 0],
+                        self.matrix[kmeansPredict == 2, 1], s=30, c='green', label='cluster #3')
+            plt.scatter(kmeansModel.cluster_centers_[:, 0], kmeansModel.cluster_centers_[
+                :, 1], s=30, c='yellow', label='centroids')
+            plt.legend()
+            plt.show()
+            print(
+                f'Centroidy: {kmeansModel.cluster_centers_}\nWynik klasteryzacji: {kmeansModel.labels_}\n Klaster 1:{self.matrix[kmeansPredict == 0,0], self.matrix[kmeansPredict == 0,1]} \n Klaster 2: {self.matrix[kmeansPredict == 1,0], self.matrix[kmeansPredict == 1,1]} \n Klaster 3 {self.matrix[kmeansPredict == 2,0], self.matrix[kmeansPredict == 2,1]}  ')
+
+        if kmeansModel.n_clusters == 5:
+            plt.scatter(self.matrix[kmeansPredict == 0, 0],
+                        self.matrix[kmeansPredict == 0, 1], s=30, c='red', label='cluster #1')
+            plt.scatter(self.matrix[kmeansPredict == 1, 0],
+                        self.matrix[kmeansPredict == 1, 1], s=30, c='blue', label='cluster #2')
+            plt.scatter(self.matrix[kmeansPredict == 2, 0],
+                        self.matrix[kmeansPredict == 2, 1], s=30, c='green', label='cluster #3')
+            plt.scatter(self.matrix[kmeansPredict == 3, 0],
+                        self.matrix[kmeansPredict == 3, 1], s=30, c='black', label='cluster #4')
+            plt.scatter(self.matrix[kmeansPredict == 4, 0],
+                        self.matrix[kmeansPredict == 4, 1], s=30, c='violet', label='cluster #5')
+            plt.scatter(kmeansModel.cluster_centers_[:, 0], kmeansModel.cluster_centers_[
+                :, 1], s=30, c='yellow', label='centroids')
+            plt.legend()
+            plt.show()
+            print(
+                f'Centroidy: {kmeansModel.cluster_centers_}\nWynik klasteryzacji: {kmeansModel.labels_}\n Klaster 1:{self.matrix[kmeansPredict == 0,0], self.matrix[kmeansPredict == 0,1]} \n Klaster 2: {self.matrix[kmeansPredict == 1,0], self.matrix[kmeansPredict == 1,1]} \n Klaster 3 {self.matrix[kmeansPredict == 2,0], self.matrix[kmeansPredict == 2,1]}\n Klaster 4 :{self.matrix[kmeansPredict == 3,0], self.matrix[kmeansPredict == 3,1]}\n Klaster 5: :{self.matrix[kmeansPredict == 4,0], self.matrix[kmeansPredict == 4,1]} ')

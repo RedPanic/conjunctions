@@ -25,5 +25,6 @@ class MDSScaller(object):
     def scaleMatrix(self):
         self.mdsObj = MDS(dissimilarity='precomputed', random_state=0)
         transposedMatrix = self.mdsObj.fit_transform(self.matrix)  
+        
         return transposedMatrix     
     
